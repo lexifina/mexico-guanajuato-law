@@ -1,0 +1,1 @@
+Artículo Tercero.- El programa estatal de protección civil, se deberá presentar y aprobar en un plazo no mayor de noventa días naturales a partir del día siguiente al inicio de vigencia de la presente Ley.

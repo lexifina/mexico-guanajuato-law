@@ -1,0 +1,1 @@
+Artículo Segundo.- El consejo estatal de protección civil, deberá instalarse en un plazo no mayor de sesenta días naturales contados a partir del día siguiente al inicio de vigencia de la presente Ley.

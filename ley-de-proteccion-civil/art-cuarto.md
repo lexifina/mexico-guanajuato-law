@@ -1,0 +1,1 @@
+Artículo Cuarto.- Los ayuntamientos dispondrán de un plazo no mayor de un año a partir de la vigencia de esta Ley, para integrar sus sistemas municipales de protección civil y expedir el programa y reglamento municipal correspondiente.

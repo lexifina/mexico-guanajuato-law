@@ -1,0 +1,7 @@
+Artículo Quinto.- Se deroga cualquier disposición estatal en vigor que se oponga a la presente Ley.
+Lo tendrá entendido el ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento.- GUANAJUATO, GTO., 25 DE AGOSTO DE 1997.- JOSE RAYA RODRIGUEZ.- D.P.- HUMBERTO BARRERA PANIAGUA.- D. S.- MA. DE LA LUZ SOLIS LOPEZ.- D. S.- RUBRICAS.
+POR TANTO, MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE GUANAJUATO, CAPITAL A LOS 2 DOS DIAS DEL MES DE OCTUBRE DE 1997 MIL NOVECIENTOS NOVENTA Y SIETE.
+VICENTE FOX QUESADA.
+EL SECRETARIO DE GOBIERNO.
+RAMON MARTIN HUERTA.

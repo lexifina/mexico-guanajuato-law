@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Se abroga la Ley de Aparcería Agrícola y Ganadera del Estado de Guanajuato en vigor, expedida por Decreto número 258 de la XXXV Legislatura del Estado, así como la que reglamenta las tierras ociosas expedida por Decreto 244 del XXX Congreso del Estado, y todas las demás que se opongan a la presente ley.

@@ -9,7 +9,7 @@ Art. 6. Los tutores y los albaceas ya nombrados garantizarán su manejo de acuer
 Art. 7. Las disposiciones de este Código se aplicarán a los plazos que estén corriendo para prescribir, hacer declaraciones de ausencia, presunciones de muerte o para cualquier otro acto jurídico, pero el tiempo transcurrido se computará aumentándolo o disminuyéndolo en la misma proporción en que se haya aumentado o disminuido el nuevo término fijado por la presente ley.
 Art. 8. Los contratos de censo y de anticresis celebrados bajo el imperio de la legislación anterior, continuarán regidos por las disposiciones de esa legislación.
 La dote ya constituida será regida por las disposiciones de la ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
-Art. 9. Las disposiciones del Reglamento del Registro Público sugerirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
+Art. 9. Las disposiciones del Reglamento del Registro Público seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
 Art. 10. Queda derogada la legislación civil anterior.
 Lo tendrá entendido el Ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento. Guanajuato, Gto., cinco de septiembre de mil novecientos sesenta y seis.
 Lic. Vicente Martínez Santibáñez.

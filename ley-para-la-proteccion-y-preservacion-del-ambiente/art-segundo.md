@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga la Ley de Ecología para el Estado de Guanajuato, expedida mediante Decreto Número 127 por la Quincuagésima Cuarta Legislatura y publicada en el Periódico Oficial del Gobierno del Estado Número 69, del 28 de agosto de 1990.

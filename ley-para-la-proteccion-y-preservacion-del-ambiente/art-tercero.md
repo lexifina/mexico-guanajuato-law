@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- El Ejecutivo del Estado expedirá los Reglamentos derivados de la presente Ley, en un término que no excederá de noventa días, contados a partir de la entrada en vigor de la presente Ley. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan en la presente Ley.

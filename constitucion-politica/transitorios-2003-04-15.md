@@ -1,0 +1,7 @@
+P.O. 15 DE ABRIL DE 2003.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+ARTÍCULO SEGUNDO.- El Órgano de Fiscalización Superior, iniciará su funcionamiento el 1º primero de enero del año 2004 dos mil cuatro, previa publicación de su Ley Reglamentaria.
+Las referencias a la Contaduría Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior.
+ARTÍCULO TERCERO.- En tanto el Órgano de Fiscalización Superior no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al Artículo 66 de la Constitución Política del Estado, antes de su reforma, y de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, así como de la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Guanajuato y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en funciones del Órgano de Fiscalización Superior.
+ARTÍCULO CUARTO.- Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+Una vez creado el Órgano de Fiscalización Superior, todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.

@@ -1,0 +1,1 @@
+Artículo Segundo.- Se abroga la Ley de Premios, Estímulos y Recompensas al Mérito Ciudadano expedida por la Quincuagésima Quinta Legislatura del Estado mediante Decreto número 153, publicada en el Periódico Oficial del Gobierno del Estado número 35, segunda parte, del 30 de abril de 1993.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)
+Art. 390-A.- El convenio o transacción celebrado entre las partes, ratificado ante el juez y aprobado por éste, extingue la instancia cuando en él se contengan todas las cuestiones litigiosas. En caso de que el convenio o la transacción no abarque toda la controversia, continuará la instancia por las cuestiones que no se hubieren incluido.
+El convenio o la transacción ratificada y aprobada ante y por el juez, será equiparable a la sentencia ejecutoria y producirá todos los efectos de esta última; por consecuencia, sólo podrá iniciarse otro litigio si el derecho subsiste.

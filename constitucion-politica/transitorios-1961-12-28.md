@@ -1,4 +1,4 @@
-P. O. 28 DE DICIEMBRE DE 1961.
+P.O. 28 DE DICIEMBRE DE 1961.
 Artículo 1o.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 Artículo 2o.- Quedarán sin efecto los nombramientos de Magistrado Propietarios y Supernumerarios, hechos por la Legislatura del Estado funcionando en Colegio Electoral, salvo que sean reelectos al ser nombrados los Magistrados Propietarios en los términos del artículo 32, que se reforma, de la Constitución Política del Estado.
 Artículo 3o.- Los Jueces de Partido y Municipales actualmente en ejercicio cesarán en sus cargos, salvo que sean reelectos al hacerse los nombramientos en los términos del artículo 32, que se reforma, de esta Constitución.

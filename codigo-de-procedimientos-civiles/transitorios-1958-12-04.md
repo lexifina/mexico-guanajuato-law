@@ -1,0 +1,3 @@
+P.O. 4 DE DICIEMBRE DE 1958
+Primero.- Los jueces de partido seguirán conociendo de los negocios que al entrar en vigor este decreto hayan sido de su competencia, si ya se hubiere admitido la demanda o promoción inicial o se hubiere hecho la consignación correspondiente y las sentencias que recaigan en los mismos serán apelables de conformidad con el artículo 243 del Código de Procedimientos Civiles y el 368, fracción I, del Código de Procedimientos Penales, antes de entrar en vigor la reforma.
+Segundo.- Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.

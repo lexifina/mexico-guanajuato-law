@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)
+ARTICULO 228 G.- La (sic) autoridades municipales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; Así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.

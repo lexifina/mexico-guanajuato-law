@@ -1,0 +1,7 @@
+P.O. 12 DE NOVIEMBRE DE 2004.
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Segundo.- Se derogan todas las disposiciones administrativas que se opongan al presente.
+Artículo Tercero.- El Programa Estatal de Verificación Vehicular para el año 2005 y las demás disposiciones generales que sobre la materia expida el Instituto de Ecología del Estado, se aplicarán en toda la Entidad, quedando sin vigencia las que expidan los Ayuntamientos del Estado.
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir el Reglamento sobre Contaminación Atmosférica en un plazo de seis meses contados a partir de la entrada en vigor del presente decreto.
+Artículo Quinto.- Los Ayuntamientos del Estado deberán adecuar sus bandos y reglamentos municipales en un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto.
+Artículo Sexto.- El Ejecutivo del Estado y los Ayuntamientos deberán integrar los registros de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, a que se refiere el artículo 108, en un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, debiendo expedir las disposiciones administrativas que resulten pertinentes.

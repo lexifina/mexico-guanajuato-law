@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)
+Art. 704-M.- Antes de llevarse a cabo el remate del inmueble hipotecado, el juez ordenará notificar personalmente a los acreedores anteriores que se adviertan en el certificado de gravámenes correspondiente, para que puedan hacer valer los derechos que les correspondan. Si se ignora su domicilio la notificación se hará por edictos que se publicarán por tres veces consecutivas, en el Periódico Oficial del Gobierno del Estado y en otro diario de los de mayor circulación del lugar del juicio y del de ubicación del inmueble.
+Pueden oponerse a la venta los acreedores hipotecarios posteriores, cuando les favorezca la prescripción de la acción hipotecaria intentada.

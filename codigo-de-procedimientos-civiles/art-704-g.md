@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)
+Art. 704-G.- Admitida en tiempo y forma la contestación de la demanda, el juez en el mismo auto abrirá el juicio a prueba por un término de veinte días y se señalará día y hora para la celebración de la audiencia final del juicio, misma que se llevará a cabo dentro de los cinco días siguientes a la conclusión del período probatorio.
+Si hubiera reconvención se correrá traslado de ésta a la parte actora para que conteste en un término de cinco días; en este caso el período probatorio empezará a correr para ambas partes una vez que se tenga por contestada la reconvención o concluido el término para ello.

@@ -5,3 +5,4 @@ Dado en la residencia del Poder Ejecutivo del Estado, en Guanajuato, Gto., a los
 MANUEL M. MORENO.
 El Secretario General del Gobierno.
 Lic. Ernesto Gallardo Sánchez.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

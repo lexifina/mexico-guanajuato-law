@@ -1,0 +1,6 @@
+P.O. 30 DE JULIO DE 1996.
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+ARTICULO SEGUNDO.- Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente Decreto, siempre y cuando le soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
+Para los efectos del artículo 458, en la declaratoria el Juez ordenará al Oficial del Registro Civil, la cancelación de las actas de nacimiento y adopción, así como para que levante el acta de nacimiento correspondiente.
+ARTICULO TERCERO.- En los procedimientos de adopción en trámite, a la entrada en vigor del presente Decreto, los adoptantes podrán optar por la adopción plena, bastando para ello, la promoción correspondiente ante el Juez de la causa.
+ARTICULO CUARTO.- El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los ayuntamientos de la entidad, a efecto de que la Procuraduría en Materia de Asistencia Social, tenga la intervención que le señala este Decreto en los procedimientos de adopción.

@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Todos los actos, procedimientos y recursos administrativos relacionados con esta Ley, que se hubieren iniciado bajo la vigencia del Código Sanitario para el Estado de Guanajuato que se abroga, se tramitarán y resolverán conforme a las disposiciones del citado Código.

@@ -1,0 +1,1 @@
+ARTICULO QUINTO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, seguirán siendo válidas hasta su vencimiento. Las nuevas autorizaciones que se expidan a partir de la vigencia de esta Ley, se otorgarán de acuerdo a sus disposiciones.

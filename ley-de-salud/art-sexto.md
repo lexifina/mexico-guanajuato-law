@@ -1,0 +1,1 @@
+ARTICULO SEXTO.- En tanto se expidan los reglamentos y normas técnicas que se deriven de esta Ley, seguirán aplicándose los Reglamentos Federales y las normas técnicas que la autoridad sanitaria federal haya expedido.

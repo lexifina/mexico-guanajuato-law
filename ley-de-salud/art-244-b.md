@@ -1,4 +1,1 @@
-(ADICIONADO, P.O.24 DE DICIEMBRE DE 1996)
-ARTICULO 244 B.- El Ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud del Estado de Guanajuato, resolverá sobre las autorizaciones para los establecimientos en donde se ejerza el servicio del sexo comercial, atendiendo a las condiciones y requisitos que se establezcan en el reglamento correspondiente el cual deberá contener disposiciones de seguridad, higiene, salubridad, prohibiciones, sanciones administrativas y ubicación geográfica, considerando su distancia con centros de población, escuelas e iglesias, entre otras.
-La autorización del Ayuntamiento a que se refiere el párrafo anterior, no deberá contravenir lo dispuesto en el artículo 195 del Código Penal para el Estado de Guanajuato.
-El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se infrinjan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
+ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)

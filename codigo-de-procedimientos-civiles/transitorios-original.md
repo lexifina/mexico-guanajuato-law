@@ -9,3 +9,4 @@ Dado en el Palacio de los Poderes, en la ciudad de Guanajuato, a los 22 veintid√
 Melchor ORTEGA.
 El Secretario Gral. del Gobierno,
 Lic. Ram√≥n Santoyo.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.

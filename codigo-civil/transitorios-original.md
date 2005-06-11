@@ -17,7 +17,7 @@ D.P.
 Lic. Miguel Montes García.
 D.S.
 Lic. Sacramento Silva García.
-D.S
+D.S.
 Dip. Lic. Arturo Valdés Sánchez.
 Dip. Odilón Cabrera Morales.
 Dip. Profra. Margarita Solís Rangel.

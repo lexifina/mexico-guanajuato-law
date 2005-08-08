@@ -1,0 +1,1 @@
+Artículo Segundo. El reglamento de la presente Ley deberá ser expedido por el Gobernador del Estado en un plazo no mayor de ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto. En tanto se expide, continuarán vigentes las disposiciones jurídicas aplicables en lo que no se opongan a la presente Ley.

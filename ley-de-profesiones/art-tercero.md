@@ -1,0 +1,1 @@
+Artículo Tercero. El convenio suscrito por el Ejecutivo del Estado, con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para la unificación del registro profesional, publicado en el Diario Oficial de la Federación el 10 de Julio de 1975, se mantiene vigente hasta que las partes convengan su terminación o se pacte su renovación o actualización.

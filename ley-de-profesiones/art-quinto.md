@@ -1,0 +1,1 @@
+Artículo Quinto. Los colegios registrados con anterioridad a la entrada en vigor de la presente Ley, serán ubicados por la Secretaría en la profesión y rama correspondiente, dentro de los 90 noventa días siguientes contados a partir de la entrada en vigor del reglamento de esta Ley.

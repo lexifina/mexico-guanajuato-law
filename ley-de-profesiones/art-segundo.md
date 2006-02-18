@@ -1,0 +1,1 @@
+Artículo Segundo. Se abroga la Ley Reglamentaria del artículo 7° de la Constitución Política del Estado de Guanajuato, contenida en el Decreto número 298, expedido por la Cuadragésimo (sic) Tercera Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de agosto de 1959.

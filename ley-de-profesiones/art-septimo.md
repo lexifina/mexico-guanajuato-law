@@ -1,0 +1,1 @@
+Artículo Séptimo. Los colegios municipales de profesionistas registrados ante la Secretaría antes de la entrada en vigencia de la presente Ley, deberán adecuar sus estatutos a efecto de guardar congruencia con las disposiciones de la misma dentro de los 6 seis meses siguientes a la entrada en vigor de la presente Ley.

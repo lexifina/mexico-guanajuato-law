@@ -1,0 +1,4 @@
+P.O. 16 DE JUNIO DE 2006.
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, para el efecto de que el Congreso del Estado emita las leyes que lo reglamente. El Congreso habrá de aprobar las leyes respectivas antes del 31 de agosto del presente año.
+Artículo Segundo. El sistema a que se refiere el artículo 13 que se reforma mediante el presente operará a partir del 12 doce de septiembre del año 2006 dos mil seis.
+Artículo Tercero. En la Ley se precisará la situación jurídica que deberá corresponder a las personas que encontrándose bajo los supuestos a que se contrae el presente decreto, estén siendo objeto de tratamiento previsto por la Ley de Justicia para Menores; de averiguación previa; de proceso judicial o de ejecución de sentencia, en el momento en que entre en vigor dicha Ley.

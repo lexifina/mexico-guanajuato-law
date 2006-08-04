@@ -1,0 +1,4 @@
+P.O. 1 DE AGOSTO DE 2006.
+Artículo Único.-La presente adición a la Ley de Justicia Alternativa del Estado de Guanajuato, entrará en vigencia el 12 doce del mes de septiembre del año 2006 dos mil seis.
+N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.

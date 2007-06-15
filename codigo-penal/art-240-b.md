@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE JUNIO DE 2007)
+Artículo 240-b.- Comete el delito de trata de personas quien induzca, procure, permita, favorezca, reclute, retenga, acoja, promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una o más personas para someterlas a cualquier forma de explotación, ya sea de carácter sexual, o de trabajos o servicios impuestos, o para contra su voluntad o con fines lucrativos les extirpen sus órganos, tejidos o componentes.
+El consentimiento otorgado por la víctima en cualquier modalidad de este delito, no constituirá excluyente del mismo.

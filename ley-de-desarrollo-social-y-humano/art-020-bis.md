@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)
+Artículo 20 Bis. La Secretaría en coordinación con las dependencias encargadas de las actividades económicas, turísticas y agropecuarias promoverá la atracción de inversiones, capacitación, coinversión y fomento en los programas y proyectos de economía social, así como el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.

@@ -1,0 +1,14 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(ADICIONADO, P.O. 11 DE JUNIO DE 2010)
+Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción Xlll de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+I. Contar con un mecanismo de planeación, en el cual:
+a) Se identifiquen los proyectos en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros; y
+b) Se establezcan las necesidades de gasto a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos y que serán emitidos por la Secretaría;
+II. Presentar a la Secretaría el Análisis Costo-Beneficio de los proyectos que tengan a su cargo, en donde se muestre que son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá cuando el gasto se destine a la atención prioritaria e inmediata de desastres naturales;
+III. Registrar cada proyecto en la cartera que integre la Secretaría, para lo cual se deberá presentar el Análisis Costo-Beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los proyectos registrados en la cartera se podrán incluir en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente; y
+IV. Los proyectos registrados en la cartera serán analizados por la Secretaría, la cual determinará la prelación para su inclusión en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente, así como el orden de su ejecución, para establecer un orden de los proyectos en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+a) Rentabilidad socioeconómica;
+b) Reducción de la pobreza extrema;
+c) Desarrollo regional; y
+d) Concurrencia con otros programas y proyectos del Estado.
+Lo previsto en el presente artículo, también se aplicará en lo conducente para la programación de recursos destinados a proyectos de inversión pública municipal, con participación de recursos federales o estatales, que requieran la autorización de erogaciones plurianuales, en los términos del artículo 117, fracción VII de la Constitución Política para el Estado de Guanajuato.

@@ -1,0 +1,5 @@
+P.O. 3 DE SEPTIEMBRE DE 2010.
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guanajuato.
+Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, la Secretaría de Educación del Estado de Guanajuato, en coordinación con la Secretaria de Salud del Estado, emitirán los lineamientos normativos relativos al tipo de productos que se puedan comercializar en las cooperativas escolares o cualesquiera otra denominación que se otorgue, a fin de controlar el valor nutrimental de los productos que ahí se ofrezcan, mismos que estarán contenidos en el listado que al efecto emita la Secretaría de Salud del Estado de Guanajuato.
+Artículo Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+Artículo Cuarto. La Secretaría de Educación del Estado de Guanajuato y la Secretaría de Salud de Guanajuato, en el ámbito de su competencia, deberán proveer lo conducente, para que a partir del 1° primero de enero de 2011 dos mil once, se apliquen las disposiciones contenidas en el presente Decreto.

@@ -1,0 +1,1 @@
+Artículo Cuarto. El Padrón de Pueblos y Comunidades Indígenas en el Estado a cargo de la Secretaría de Desarrollo Social y Humano, incluirá a los pueblos y las comunidades indígenas que ya cuenten con un reconocimiento como tales.

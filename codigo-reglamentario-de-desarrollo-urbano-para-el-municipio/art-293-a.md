@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE ABRIL DE 2011)
+Artículo 293 - A.- Tratándose de los usos habitacionales que no se encuentren comprendidos en la fracción I del artículo anterior, se requerirá licencia de construcción sea cual fuere su modalidad, y deberá presentarse la responsiva del DRO, y los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos; sin necesidad de proyectista.
+En el entendido de que la responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.

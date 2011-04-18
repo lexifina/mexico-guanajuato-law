@@ -1,0 +1,1 @@
+Artículo Cuarto. El trámite de los expedientes de tratamiento de preliberación y los de revocación de ese beneficio cuyos respectivos proyectos de resolución, en la fecha de entrada en vigor de esta Ley, ya hubieren sido sometidos a consideración del Secretario de Seguridad Pública para su aprobación y firma, continuarán verificándose en los términos de la Ley que se abroga.

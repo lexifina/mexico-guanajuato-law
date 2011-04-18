@@ -1,0 +1,1 @@
+Artículo Quinto. El trámite de los expedientes integrados con motivo de las solicitudes de indulto, libertad anticipada, remisión parcial y reducción de la sanción, que en la fecha de entrada en vigor de esta Ley, ya hubieran sido sometidos a consideración del Gobernador del Estado para su resolución, continuarán verificándose en los términos de la Ley que se abroga.

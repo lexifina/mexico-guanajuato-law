@@ -1,2 +1,4 @@
-(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)
-Artículo 187-b.- Comete el delito de hostigamiento sexual quien valiéndose de su posición jerárquica o de poder, derivado de sus relaciones familiares, laborales, profesionales, religiosas, docentes o de cualquier otra que implique subordinación para asediar a otra persona solicitándole ejecutar cualquier acto de naturaleza sexual. Se le impondrá de uno a tres años de prisión y de sesenta a cien días multa.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(REFORMADO, P.O. 3 DE JUNIO DE 2011)
+Artículo 187-b.- A quien valiéndose de su posición jerárquica o de poder, derivado de sus relaciones familiares, laborales, profesionales, religiosas, docentes o de cualquier otra que implique subordinación, hostigue a otra persona para que ejecute, para sí o para un tercero, un acto de naturaleza sexual, se le sancionará con uno a tres años de prisión y de diez a treinta días multa.
+Este delito se perseguirá por querella.

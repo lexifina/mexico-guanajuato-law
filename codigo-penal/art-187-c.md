@@ -1,4 +1,5 @@
-(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)
-Articulo 187-c.- Si la víctima de los delitos de acoso sexual o de hostigamiento sexual fuera menor de edad o incapaz, la pena se duplicará.
-Si el responsable de los delitos de acoso sexual o de hostigamiento sexual es servidor público se le impondrá, además de las anteriores, la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público por un lapso igual al de la pena de prisión impuesta.
-Estos delitos se perseguirán por querella, salvo el supuesto previsto en el primer párrafo de este artículo, caso en el que se perseguirá de oficio.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(REFORMADO, P.O. 3 DE JUNIO DE 2011)
+Artículo 187 c.- Se aplicará de uno a cuatro años de prisión y de diez a cuarenta días multa si la víctima del delito de acoso sexual fuera menor de edad o incapaz.
+Se aplicará de dos a seis años de prisión y de veinte a sesenta días multa cuando la víctima del hostigamiento sexual sea menor de edad o incapaz.
+Estos delitos se perseguirán de oficio.

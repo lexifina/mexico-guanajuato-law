@@ -1,5 +1,7 @@
 (ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)
 CAPÍTULO V
 ACOSO SEXUAL Y HOSTIGAMIENTO SEXUAL
-(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)
-Artículo 187-a.- Comete el delito de acoso sexual quien asedie por cualquier medio a otra persona solicitándole ejecutar cualquier acto de naturaleza sexual, para sí o para un tercero, a pesar de su oposición manifiesta, que conlleve a un estado de indefensión o riesgo para la misma. Se le impondrá de seis meses a dos años de prisión y de treinta a sesenta días multa.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(REFORMADO, P.O. 3 DE JUNIO DE 2011)
+Artículo 187-a.- A quien, por cualquier medio, acose a una persona a pesar de su oposición, para que ejecute un acto de naturaleza sexual, para sí o para un tercero, se le sancionará con seis meses a dos años de prisión y de cinco a veinte días multa.
+Este delito se perseguirá por querella.

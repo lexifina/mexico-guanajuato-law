@@ -1,0 +1,4 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADO, P.O. 3 DE JUNIO DE 2011)
+Artículo 99-r.- La reparación del daño moral será fijada al prudente arbitrio del juez o del tribunal, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder del importe de mil días de salario mínimo general vigente en el Estado.
+En los casos en que se condene al pago de la reparación del daño material, el monto de la indemnización del daño moral no podrá ser menor de un quinto del importe de aquélla.

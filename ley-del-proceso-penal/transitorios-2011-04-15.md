@@ -1,6 +1,7 @@
 P.O. 15 DE ABRIL DE 2011.
-N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+(F. DE E., P. O. P.O. 17 DE JUNIO DE 2011)
+Los artículos de la Ley del Proceso Penal para el Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 141 Tercera Parte, el 3 de septiembre de 2010, que resulten indispensables para la debida aplicación de la presente Ley, entrarán en vigor el día dieciocho de Junio de dos mil once.
 Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
 Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo preceptuado por esta Ley.
 Artículo Cuarto. El trámite de los expedientes de tratamiento de preliberación y los de revocación de ese beneficio cuyos respectivos proyectos de resolución, en la fecha de entrada en vigor de esta Ley, ya hubieren sido sometidos a consideración del Secretario de Seguridad Pública para su aprobación y firma, continuarán verificándose en los términos de la Ley que se abroga.

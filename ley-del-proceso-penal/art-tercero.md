@@ -1,3 +1,4 @@
-Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
-De igual forma seguirá rigiendo tratándose de hechos cometidos con anterioridad a la vigencia de la presente ley, siempre que el Código de Procedimientos Penales para el Estado de Guanajuato represente mayores beneficios para el inculpado que los contenidos en la presente ley.
+(REFORMADO, P.O. 12 DE AGOSTO DE 2011)
+Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo para los hechos cometidos y los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
+De igual manera, seguirá rigiendo en materia de justicia para adolescentes en los términos y alcances que lo disponga la ley especial.
 Derogación de preceptos incompatibles

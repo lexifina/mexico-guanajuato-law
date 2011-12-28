@@ -1,0 +1,4 @@
+P.O. 27 DE DICIEMBRE DE 2011.
+Artículo Primero. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Segundo. Hasta en tanto se modifica la Ley sobre el Sistema Estatal de Asistencia Social, el órgano colegiado en materia de adopción a que se refiere el artículo 451 de este Código, deberá integrarse por personal designado por el Sistema para el Desarrollo Integral de la Familia, así como otras dependencias afines al tema, y podrá contar con participación ciudadana; en las votaciones que en el mismo se adopten solo el personal de los primeros contará con voz y voto.
+Artículo Tercero. El Poder Ejecutivo del Estado adecuará el Reglamento del Registro Civil en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigencia de este Decreto.

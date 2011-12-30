@@ -1,4 +1,4 @@
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 EL CIUDADANO MELCHOR ORTEGA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, a los habitantes del mismo sabed:
 Que el H. Congreso del Estado se ha servido dirigirme el siguiente Decreto:

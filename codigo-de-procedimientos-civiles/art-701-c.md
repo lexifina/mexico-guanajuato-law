@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)
-Art. 701-C.- Quien desee plantear una controversia sobre derechos relativos a la guarda y custodia de menores o al ejercicio de la patria potestad, deberá formular demanda por escrito exponiendo de manera breve y concisa los hechos de que se trate. Al escrito se acompañarán los documentos que sirvan para acreditar la personalidad y el carácter del promovente y los demás que éste estime conveniente. En el mismo escrito de demanda, se ofrecerán las demás pruebas para desahogarse en la audiencia a que se refiere el artículo 701-F.
+Artículo 701-C.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)

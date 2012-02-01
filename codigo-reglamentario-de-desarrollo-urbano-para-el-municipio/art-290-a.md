@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE ENERO DE 2012)
+Artículo 290 - A. En los proyectos de construcción que presenten los DRO sobre cualquier tipo de edificaciones, excepción hecha de casas habitación unifamiliares, se deberán de contemplar en lugares visibles, la señalización y equipo adecuado, así como los instructivos para casos de emergencia, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre; asimismo, deberán señalarse las zonas de seguridad y las rutas de evacuación.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE ENERO DE 2012)
+Artículo 448 - A.- Cuando se soliciten anuncios adosados o autosoportados denominativos en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio.

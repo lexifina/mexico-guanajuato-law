@@ -1,5 +1,6 @@
-(ADICIONADO, P.O. 12 DE ABRIL DE 2011)
-Artículo 302 - A.- Tratándose de ampliaciones en zonas habitacionales de tipo horizontal, independientemente del régimen de propiedad, se seguirán las siguientes normas:
-l. Para los inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se encuentren dentro de usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, no se requerirán planos básicos mínimos, Proyectista, ni responsiva de un DRO;
-II. Para los usos habitacionales que no se encuentren comprendidos en la fracción anterior, se deberán presentar los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos, con la responsiva de un DRO; ello sin necesidad del aval de un proyectista; y,
-III. Para las ampliaciones relativas a la techumbre en zonas habitacionales, independientemente del grupo de uso de suelo donde se ubiquen, no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO, si éstas incrementan como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y no impliquen edificación alguna por encima de ellas.
+(REFORMADO, P.O. 31 DE ENERO DE 2012)
+Artículo 302 - A.- La responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados, cuando se trate de ampliaciones por techumbre en zonas habitacionales, que cumplan con los requisitos siguientes:
+I.- Incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble;
+II.- Que no impliquen edificación alguna por encima de ellas; y,
+III.- Que no se tengan claros mayores a 4 metros entre apoyos principales.
+Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO y los corresponsables, así como la elaboración de los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos.

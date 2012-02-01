@@ -1,0 +1,5 @@
+P.O. 31 DE ENERO DE 2012.
+PRIMERO.- Las presentes modificaciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO.- El Consejo Consultivo para el Desarrollo Sustentable en materia Urbanismo (sic) en el Municipio de León, Guanajuato, tendrá un término de 30 días hábiles posteriores a la entrada en vigor de las presentes modificaciones, para conformar el grupo de trabajo que conocerá de las recomendaciones y opiniones técnicas para el registro de los DRO, Peritos Urbanos, Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+TERCERO.- La Dirección General de Desarrollo Urbano contará con un término de 3 meses contados a partir de la entrada en vigor del presente ordenamiento, para la conformación y actualización del padrón municipal de registro de los Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+CUARTO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.

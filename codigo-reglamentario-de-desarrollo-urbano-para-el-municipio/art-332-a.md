@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 31 DE ENERO DE 2012)
+Artículo 332 - A.- Sin perjuicio de la licencia de construcción expedida, la Dirección analizará en un plazo máximo de 15 días hábiles, de manera interna el expediente recibido, verificando que se hayan cumplido en los planos las normas técnicas correspondientes y aplicables de acuerdo al proyecto y que la información sea verdadera.
+En caso de que los planos infrinjan los requisitos solicitados en las normas técnicas aplicables y las resoluciones emitidas por otras dependencias; la información carezca de veracidad; se haya actuado con negligencia, dolo o ignorancia, se comunicarán las inconsistencias encontradas por una sola ocasión al propietario, poseedor y/o DRO para su solventación y en su caso reparación de los daños.
+Lo anterior independientemente de las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse.

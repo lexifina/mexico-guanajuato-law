@@ -1,0 +1,4 @@
+P.O. 15 DE MAYO DE 2012.
+Artículo primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Las disposiciones contenidas en la reforma al artículo 51, comenzarán su vigencia al veinticinco de septiembre de dos mil doce.
+Artículo segundo. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el último párrafo del artículo 66 será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las cusas (sic) señaladas en esta Constitución y en la Ley de Fiscalización Superior del Estado de Guanajuato.

@@ -1,0 +1,3 @@
+Artículo Octavo. En relación con la carrera judicial y hasta antes de la entrada en vigor del sistema penal acusatorio y oral en la Región IV, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que operen este sistema.
+Los jueces de partido y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+Convocatoria para jueces que operen juicios orales civiles y mercantiles

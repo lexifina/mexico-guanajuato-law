@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+Art. 146-A.- Tratándose de juicios sobre reconocimiento, desconocimiento y contradicción de paternidad, el juez podrá disponer, atendiendo al interés superior del menor, que la prueba pericial en genética molecular del ácido desoxirribonucleico (ADN) se realice a costa del presupuesto del Ejecutivo Estatal, cuando la parte oferente acredite, con un estudio socioeconómico elaborado por institución oficial, que carece de recursos económicos para cubrir su importe.

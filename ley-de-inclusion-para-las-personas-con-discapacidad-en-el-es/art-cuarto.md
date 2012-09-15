@@ -1,0 +1,3 @@
+Artículo Cuarto. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos al Instituto Guanajuatense para las Personas con Discapacidad, conforme a sus atribuciones.
+Los recursos humanos, materiales y financieros del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato que se destinaban a la operación y funcionamiento de la Dirección de Asistencia a Personas con Discapacidad, se reasignarán al Instituto Guanajuatense para las Personas con Discapacidad.
+Plazo para la constitución del Consejo Directivo

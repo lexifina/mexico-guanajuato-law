@@ -1,4 +1,4 @@
 P.O. 1 DE AGOSTO DE 2006.
 Artículo Único.- Las presentes modificaciones a la Ley para la Protección de los Derechos Humanos en el Estado de Guanajuato, entrarán en vigencia el 12 de septiembre del año 2006 dos mil seis.
-N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.
+N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.

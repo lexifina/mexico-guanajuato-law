@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 11 DE MAYO DE 2010)
 Artículo 64-A.- El informe anual sobre las actividades de la Procuraduría que envíe el Procurador al Congreso del Estado, deberá contener:
 I.- El estado que guardan los derechos humanos en la entidad;

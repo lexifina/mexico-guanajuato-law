@@ -13,5 +13,7 @@ X.- Impulsar la competitividad y calidad en los productos y los servicios turís
 XI.- Coadyuvar en la ejecución, en el ámbito de su competencia, de acciones en materia de información y protección del turista, en coordinación con las autoridades federales, estatales y municipales, así como con los prestadores de servicios turísticos;
 XII.- Vigilar, en la esfera de su competencia, el cumplimiento de la normatividad que regula la actividad turística;
 XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
-XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaria de Finanzas y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO
+(REFORMADA P.O. 18 DE SEPTIEMBRE DE 2012)
+XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
 XV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.

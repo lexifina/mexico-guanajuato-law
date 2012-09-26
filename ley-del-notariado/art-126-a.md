@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)
+Artículo 126-A. La unidad administrativa que corresponda de la Secretaría de Gobierno notificará al Colegio Estatal de Notarios que se ha iniciado el procedimiento de responsabilidad notarial para aplicar sanciones; a fin de que éste se pueda imponer del contenido del expediente con el objeto de escuchar su opinión, la que deberá rendirse por escrito a más tardar en la fecha señalada para la audiencia de alegatos, la que se le notificará con al menos cinco días hábiles de antelación a la misma.

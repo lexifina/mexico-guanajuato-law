@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)
+Artículo 48-L. El notario auxiliar terminará los actos que hubieren quedado pendientes por la muerte del titular, dentro de los seis meses posteriores al fallecimiento, transcurrido este plazo entregará a la unidad administrativa que corresponda de la Secretaría de Gobierno el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas testimonio, hologramas y folios no utilizados.

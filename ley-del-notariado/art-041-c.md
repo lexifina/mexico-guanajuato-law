@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)
+Artículo 41-C. La unidad administrativa que corresponda de la Secretaría de Gobierno comunicará la sustitución definitiva del notario, al Supremo Tribunal de Justicia, a la Procuraduría General de Justicia, al Ayuntamiento de la ubicación de la Notaría Pública, al Registro Público de la Propiedad y de Comercio de la adscripción que corresponda, así como al Colegio Estatal de Notarios.

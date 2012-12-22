@@ -1,6 +1,6 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 11 DE JUNIO DE 2010)
-Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción Xlll de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción XIII de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
 I. Contar con un mecanismo de planeación, en el cual:
 a) Se identifiquen los proyectos en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros; y
 b) Se establezcan las necesidades de gasto a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos y que serán emitidos por la Secretaría;

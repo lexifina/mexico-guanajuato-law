@@ -1,5 +1,6 @@
-Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
-Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
+(F. DE E., P.O. 12 DE OCTUBRE DE 2012)
+Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría de Protección al Ambiente.
 Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría de Protección al Ambiente, estarán a cargo de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, respetándoles todos y cada uno de los derechos y prestaciones laborales adquiridos.
 Situación que guardan la Comisión Estatal del Agua y la Comisión de Vivienda

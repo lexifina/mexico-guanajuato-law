@@ -1,0 +1,3 @@
+Artículo Décimo. La Comisión Metropolitana deberá instalarse en un plazo no mayor a sesenta días, posteriores a la entrada en vigencia del presente Decreto. Hasta su instalación seguirá fungiendo el Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado, establecido en el Acuerdo Gubernativo número 27 4, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 48, segunda parte, de 25 de marzo de 2011.
+Todos los archivos, insumos, materiales, expedientes, compromisos y obligaciones del Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado pasarán a formar parte de la Comisión Metropolitana, a efecto de su debida atención o resguardo.
+Constitución de los Consejos Consultivos

@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 3 DE JUNIO DE 2011)
 Artículo 99-b.- La reparación del daño comprende:
 I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesiones, así como el pago, en su caso, de deterioros y menoscabos sufridos. Si la restitución no fuere posible, el pago del valor comercial de la cosa en el momento de la comisión del delito;

@@ -1,5 +1,5 @@
 P.O. 17 DE MAYO DE 2013.
-DECRETO NÚMERO 64, POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 64, POR EL QUE SE REFORMA EL ARTICULO 33 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 Primero. El presente Decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 Segundo. El Ayuntamiento de Silao de la Victoria, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Silao, a la entrada en vigor del presente Decreto.
 Tercero. Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y del presente dictamen, a las siguientes autoridades:

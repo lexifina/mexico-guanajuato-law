@@ -1,5 +1,5 @@
 Artículos transitorios.
-Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y serán protestada con la mayor solemnidad.
+Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y será protestada con la mayor solemnidad.
 Art. 2º La XXVI Legislatura concluirá su período el 14 de septiembre de 1918.
 Art. 3º El período Constitucional de los Magistrados que deben componer el Supremo Tribunal de Justicia, para funcionar conforme al artículo 61 de esta Constitución, concluirá el día 31 de diciembre de 1917.
 Art. 4º En virtud de haber sido derogado por el artículo 63, fracción I de esta Carta Fundamental, el recurso de casación, el Supremo Tribunal de Justicia solamente tramitará y resolverá los recursos de esta categoría que se hubieren interpuesto antes de la vigencia de esta Constitución.

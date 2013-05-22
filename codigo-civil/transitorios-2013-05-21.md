@@ -1,0 +1,8 @@
+P.O. 21 DE MAYO DE 2013.
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+Artículo Segundo. El Poder Ejecutivo, por conducto de la Secretaría de Gobierno, dará amplia difusión a la dirección electrónica del Periódico Oficial del Gobierno del Estado.
+Artículo Tercero. La Secretaría de Desarrollo Agroalimentario y Rural, sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Agropecuario.
+Para todos los efectos legales correspondientes, la Secretaría de Desarrollo Agroalimentario y Rural a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Agropecuario, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+En tanto se realizan los ajustes en el Reglamento Interior y demás normatividad, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+Artículo Cuarto. La Secretaría de Turismo sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Turístico.
+Para todos los efectos legales correspondientes, la Secretaría de Turismo a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Turístico, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.

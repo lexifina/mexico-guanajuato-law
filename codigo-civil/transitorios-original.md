@@ -29,4 +29,4 @@ Dip. Antonio Huerta López.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la residencia del Poder Ejecutivo del Estado, en Guanajuato, Gto., a los seis días del mes de febrero de mil novecientos sesenta y siete.
 El Secretario de Gobierno,
 Lic. Marcos Aguayo Durán.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

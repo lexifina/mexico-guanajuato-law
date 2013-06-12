@@ -1,5 +1,5 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
-(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)
 Artículo 234-a.- Se impondrá prisión de tres a nueve años y de treinta a noventa días multa a quien:
 (ADICIONADA, P.O. 13 DE AGOSTO DE 2004)
 I.- Sin el consentimiento de quien esté facultado para ello, fabrique, enajene o distribuya tarjetas, títulos o documentos que puedan ser utilizados para el pago de bienes o servicios.

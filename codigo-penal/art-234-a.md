@@ -8,8 +8,7 @@ II.- Falsifique o altere tarjetas, títulos o documentos, que puedan ser utiliza
 (ADICIONADA, P.O. 13 DE AGOSTO DE 2004)
 III.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o servicios, a sabiendas de que son falsificadas o alteradas.
 (ADICIONADA, P.O. 13 DE AGOSTO DE 2004)
-IV.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o
-servicios, sin consentimiento de quien esté facultado para ello.
+IV.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o servicios, sin consentimiento de quien esté facultado para ello.
 (ADICIONADA, P.O. 13 DE AGOSTO DE 2004)
 V.- Altere los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes o servicios.
 (ADICIONADA, P.O. 13 DE AGOSTO DE 2004)

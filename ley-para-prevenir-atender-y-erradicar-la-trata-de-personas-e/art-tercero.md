@@ -1,0 +1,3 @@
+Artículo Tercero. La Comisión Interinstitucional para Prevenir, Atender y Erradicar la Trata de Personas en el Estado de Guanajuato deberá quedar legalmente instalada dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
+El reglamento establecerá el mecanismo de selección del representante de los ayuntamientos. Por única ocasión, el representante a que se refiere la fracción VII del artículo 11 del presente decreto, será designado por acuerdo de los integrantes de la Comisión Interinstitucional para Prevenir, Atender y Erradicar la Trata de Personas en el Estado de Guanajuato.
+Creación del Consejo Estatal de Participación Social para la Prevención, Atención y Erradicación de la Trata de Personas

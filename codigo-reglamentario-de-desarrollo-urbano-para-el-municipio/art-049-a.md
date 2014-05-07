@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 49-A.- Para el caso de las actividades previstas en el artículo 382 del Código Territorial, así como aquellas consideradas como de alto riesgo en el Reglamento del Sistema Municipal de Protección Civil de León, Guanajuato, previo a la ocupación y operación del inmueble, los particulares deberán obtener de la Dirección General de Protección Civil y del Patronato de Bomberos del Municipio de León, la autorización del dictamen de riesgo en materia de protección civil.
+En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.

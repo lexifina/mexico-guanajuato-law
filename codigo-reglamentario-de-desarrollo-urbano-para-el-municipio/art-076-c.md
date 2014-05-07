@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 76-C.- Recibida la opinión del IMPLAN, la factibilidad de servicios por parte del SAPAL y concluido el análisis respectivo, la Dirección deberá de someter a aprobación del Ayuntamiento, por conducto de la comisión respectiva, la autorización para otorgar el permiso de uso del suelo. Una vez aprobada la autorización la Dirección deberá emitir el permiso correspondiente.

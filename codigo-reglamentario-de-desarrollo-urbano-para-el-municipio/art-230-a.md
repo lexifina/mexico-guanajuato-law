@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 230-A.- Cuando el proyecto de diseño urbano carezca de algún elemento o no adjunte los documentos solicitados por este Código, se requerirá al fraccionador para que, en un plazo no mayor de cinco días hábiles, satisfaga los requerimientos y exhiba los documentos que al efecto le señale la Dirección, apercibiéndole que de no hacerlo, el proyecto se tendrá por no presentado.

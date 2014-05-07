@@ -1,4 +1,1 @@
-(ADICIONADO, P.O. 25 DE ENERO DE 2013)
-Artículo 325 B. Cuando los solicitantes no reúnan la totalidad de los requisitos que establece el artículo anterior, o carezcan de algún elemento que determine la Dirección, ésta requerirá al solicitante a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
-Una vez que se presenten todos los requisitos, la Dirección procederá a realizar el análisis técnico del expediente conformado y una vez concluido éste, deberá gestionar su agenda en la sesión más próxima de la Comisión de Desarrollo Urbano, a efecto de que ésta realice el estudio, discusión y en su caso dictaminación de conformidad con la normativa aplicable, para que con posterioridad se someta a la consideración del pleno del H. Ayuntamiento.
-De resultar favorable la determinación del H. Ayuntamiento, corresponderá a la Dirección continuar con el trámite de la licencia de construcción a petición expresa de los interesados, para lo cual se habrá de seguir el procedimiento previsto en el presente Código.
+Artículo 325 B. (DEROGADO, P.O. 6 DE MAYO DE 2014)

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 128-D.- Recibida toda la documentación por parte de la Dirección, el IMPLAN procederá a la realización de un análisis preliminar, para el caso de que por la naturaleza del proyecto se requiera de información adicional a la presentada con la solicitud de permiso de uso de suelo, podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 76-A.- Los usos sujetos a normas especiales con las Zonas de Reserva Ecológica (RE), Reserva Forestal (RF), Parque Metropolitano (PM) y Parque Distrital (PD), y para el caso de que por la naturaleza del proyecto, se requiera de información adicional a la presentada con la solicitud de permiso de uso de suelo, la Dirección podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.

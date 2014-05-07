@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 251-B.- Para la obtención del permiso de urbanización de la etapa correspondiente el desarrollador deberá presentar a la Dirección los requisitos previstos en las fracciones I, II, VII y VIII del artículo 241 del presente Código, así como los proyectos de infraestructura pública aprobados por las instancias competentes con los que cuente al momento de hacer su solicitud.

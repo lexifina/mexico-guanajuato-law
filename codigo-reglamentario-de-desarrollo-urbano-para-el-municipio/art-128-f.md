@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MAYO DE 2014)
+Artículo 128-F.- Culminado el análisis respectivo y recibida la factibilidad de servicios por parte del SAPAL, el IMPLAN procederá a someter el proyecto de resolución a consideración del H. Ayuntamiento, por medio de la comisión correspondiente. Aprobado el proyecto, el IMPLAN notificará al solicitante y a la Dirección el contenido de la resolución para los trámites correspondientes.

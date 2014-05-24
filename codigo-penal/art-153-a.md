@@ -12,4 +12,7 @@ IV.- Que se le hayan infligido lesiones o mutilaciones, infamantes o degradantes
 V.- Que haya existido amenazas, acoso, lesiones o violencia en el ámbito familiar, laboral o escolar o cualquier otro que implique supra o subordinación del sujeto activo en contra de ella;
 VI.- Que exista o haya existido con el activo relación íntima, de convivencia, de confianza, noviazgo, parentesco, matrimonio o concubinato; o
 VII.- Que su cuerpo sea expuesto o arrojado en un lugar público.
-Para los efectos de su punibilidad, el feminicidio será considerado como un homicidio calificado.
+(REFORMADO, P.O. 23 DE MAYO DE 2014)
+Al responsable de feminicidio se le impondrá de treinta a sesenta años de prisión y de trescientos a seiscientos días multa.
+(ADICIONADO, P.O. 23 DE MAYO DE 2014)
+Si concurre con el mismo u otro delito, se acumularán las penas que por cada uno se impongan. La de prisión no podrá exceder de setenta años.

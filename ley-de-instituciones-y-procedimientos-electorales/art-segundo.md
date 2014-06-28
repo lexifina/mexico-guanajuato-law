@@ -1,0 +1,1 @@
+Artículo Segundo. Se abroga el Decreto número 20 publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 93, tercera parte de fecha 22 de noviembre de 1994, que expide el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, así como sus reformas y adiciones.

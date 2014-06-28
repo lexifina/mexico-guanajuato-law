@@ -1,0 +1,1 @@
+Artículo Undécimo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.

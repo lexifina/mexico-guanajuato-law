@@ -1,0 +1,2 @@
+Artículo Duodécimo. El Consejo General del Instituto Electoral del Estado de Guanajuato dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+Las disposiciones generales emitidas por el Instituto Electoral del Estado de Guanajuato, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución del Estado y la presente Ley.

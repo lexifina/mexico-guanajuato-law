@@ -1,0 +1,1 @@
+Artículo Octavo. Por única ocasión, las elecciones ordinarias locales que se realizarán el primer domingo de julio del año 2018, los plazos previstos en esta Ley para los actos previos y durante las diferentes etapas del proceso electoral, serán ajustados por acuerdo del Consejo General del Instituto Estatal Electoral.

@@ -1,0 +1,3 @@
+P.O. 17 DE OCTUBRE DE 2014.
+DECRETO NÚMERO 182 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 474-A, RECORRIÉNDOSE EL ACTUAL PÁRRAFO TERCERO COMO PÁRRAFO CUARTO; Y UNA FRACCIÓN VI AL ARTÍCULO 500, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.

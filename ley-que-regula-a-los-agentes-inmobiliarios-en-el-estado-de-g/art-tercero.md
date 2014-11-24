@@ -1,0 +1,2 @@
+Artículo Tercero. Las personas que a la entrada en vigor de la presente Ley estén llevando a cabo las operaciones inmobiliarias a que se refiere esta Ley y que por lo mismo encuadren dentro de las hipótesis de agentes inmobiliarios, dentro de un plazo de seis meses contados a partir de su entrada en vigor deberán comparecer ante la Secretaría para presentar la solicitud para obtener la acreditación.
+Constitución del Consejo

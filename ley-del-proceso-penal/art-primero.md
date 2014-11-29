@@ -5,7 +5,5 @@ II. El 1 de enero del año 2013 en la Región comprendida por los municipios de:
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, P.O. 14 DE MAYO DE 2013)
 III. El 15 de abril del año 2015 en la Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria; y
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADA, P.O. 14 DE MAYO DE 2013)
-IV. El 1 de junio del año 2016 en la Región comprendida por los municipios de: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón.
+IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2014)
 Aplicación

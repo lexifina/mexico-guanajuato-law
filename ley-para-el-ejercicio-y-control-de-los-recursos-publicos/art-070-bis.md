@@ -1,0 +1,5 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
+Artículo 70 bis.- A fin de procurar la correcta administración, control, seguimiento y evaluación del ejercicio del gasto público, la Secretaría y la Tesorería, en el ámbito de su competencia, instrumentarán y pondrán a disposición de las dependencias y entidades, los sistemas electrónicos de registro y control necesarios o aprobarán, en su caso, los ya existentes.
+Asimismo, serán las instancias competentes para emitir los instrumentos jurídico-administrativos para el ejercicio de los recursos públicos, así como para la programación, presupuestación, seguimiento y evaluación, a los que deben sujetarse los ejecutores del gasto.
+Los poderes Legislativo y Judicial, así como los organismos autónomos, en el ámbito de sus respectivas competencias, observarán en lo conducente, lo dispuesto en el presente Capítulo.

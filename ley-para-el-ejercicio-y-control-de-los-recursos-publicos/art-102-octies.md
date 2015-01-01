@@ -1,0 +1,4 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
+Artículo 102 octies.- La Secretaría, la Tesorería y los órganos de administración, de los poderes Legislativo, Judicial y los organismos autónomos, en el ámbito de su respectiva competencia, publicarán en internet a más tardar el último día hábil del mes de abril del ejercicio fiscal correspondiente, las metodologías e indicadores para las evaluaciones del desempeño, a fin de darlos a conocer a los ejecutores del gasto.
+Los órganos de control, en dicha fecha y por la misma vía, deberán publicar sus respectivos programas anuales de evaluación del desempeño. Asimismo deberán publicar a más tardar a los treinta días posteriores a la conclusión de las evaluaciones, los resultados de las mismas.

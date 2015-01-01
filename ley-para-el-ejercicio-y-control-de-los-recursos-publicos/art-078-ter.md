@@ -1,0 +1,4 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
+Artículo 78 ter.- El Estado y los municipios ejercerán los recursos provenientes de la recaudación federal participable, de los fondos de aportaciones federales del Ramo General 33, así como los demás recursos federales que le sean transferidos, de conformidad a las disposiciones previstas en las leyes o decretos aplicables o bien, conforme a las estipulaciones de los acuerdos o convenios respectivos que se hayan suscrito o se suscriban para tales efectos.
+Los remanentes provenientes de los fondos de aportaciones federales se ejercerán por el Estado y los municipios en los destinos legales expresamente previstos para cada uno de los fondos que los generen.

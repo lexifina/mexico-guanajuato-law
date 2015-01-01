@@ -1,3 +1,3 @@
-(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)
-Artículo 102 quáter.- La Secretaría, las Tesorerías y los Órganos de Administración, de los Poderes Legislativo, Judicial y los Organismos Autónomos, en el ámbito de su respectiva competencia, publicarán en internet a más tardar el último día hábil del mes de abril del ejercicio fiscal correspondiente, las metodologías e indicadores para las evaluaciones del desempeño, a fin de darlos a conocer a los ejecutores de gasto.
-Los Órganos de Control, en dicha fecha y por la misma vía, deberán publicar sus respectivos programas anuales de evaluación del desempeño. Asimismo deberán publicar a más tardar a los treinta días posteriores a la conclusión de las evaluaciones, los resultados de las mismas.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)
+Artículo 102 quáter.- Las adquisiciones, arrendamientos y contratación de servicios de bienes informáticos que pretendan llevar a cabo las dependencias y las entidades de la administración pública estatal, deberán contar previamente con la autorización técnica que emita la Secretaría, en la forma y términos que ésta determine.

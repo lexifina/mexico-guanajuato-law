@@ -1,0 +1,3 @@
+Artículo Segundo. Los establecimientos a que se refiere esta Ley establecidos antes del inicio de la vigencia, contarán con un plazo de ciento ochenta días contados a partir del día siguiente al de su entrada en vigencia, a efecto de que obtengan de la Secretaría el permiso para establecerse en el territorio del estado, así como obtener del Instituto Estatal de Ecología las autorizaciones a las que hace referencia esta Ley.
+Transcurrido el plazo a que se refiere el párrafo que antecede sin que los establecimientos hayan obtenido el permiso y las autorizaciones correspondientes, la Secretaría procederá a la clausura del establecimiento, para lo cual la autoridad podrá hacer uso inclusive de la fuerza pública.
+Plazo para la expedición del reglamento

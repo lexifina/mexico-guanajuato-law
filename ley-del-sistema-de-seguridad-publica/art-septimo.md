@@ -1,0 +1,2 @@
+ARTÍCULO SÉPTIMO. Para los efectos del Título Duodécimo de esta Ley, la referencia a la ley de la materia se entenderá hecha a la Ley de Tránsito y Transporte del Estado de Guanajuato, por lo que hace a las funciones que otorga al personal operativo de la vigilancia y tránsito en las carreteras, caminos y áreas de jurisdicción estatal y la seguridad de las mismas.
+Derogación de disposiciones contrarias

@@ -1,0 +1,2 @@
+Artículo Tercero. Los procedimientos de contratación, de aplicación de sanciones e inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron. Los contratos de adquisiciones, arrendamientos, enajenaciones y servicios que se encuentren vigentes, se regirán por las disposiciones aplicables en el momento en que se celebraron.
+Término para expedir la reglamentación

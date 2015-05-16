@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2015)
+Artículo 307 G. Solamente los interesados o sus representantes legales, los licenciados en derecho autorizados por aquéllos y las autoridades, tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña o ya sea usuario de los servicios electrónicos en la modalidad de la consulta electrónica de expedientes.

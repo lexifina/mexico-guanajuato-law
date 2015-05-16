@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2015)
+Artículo 307 N. Para los efectos del juicio en línea son hábiles las veinticuatro horas de los días en que se encuentren abiertas al público las instalaciones del Tribunal de conformidad con lo previsto, en su Reglamento Interior.
+Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el acuse de recibo electrónico que emita el Sistema Informático del Tribunal, desde el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar de la sede del Tribunal. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.

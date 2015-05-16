@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2015)
+Artículo 307 H. Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema Informático del Tribunal.

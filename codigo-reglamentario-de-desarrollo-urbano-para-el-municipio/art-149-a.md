@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)
+Artículo 149-A.- Para los predios que de acuerdo al Plano de Zonificación se encuentren en Uso forestal de conservación (F4), la Dirección, conforme a lo establecido en los artículos 416 y 417 del Código Territorial determinará el porcentaje que podrá considerar como área verde, ello de acuerdo a las características del desarrollo y al proyecto de diseño urbano que presente el desarrollador.

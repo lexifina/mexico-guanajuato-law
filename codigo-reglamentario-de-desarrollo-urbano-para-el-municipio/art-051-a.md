@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)
+Artículo 51-A.- Sufijo - A, zonas de amortiguamiento, que se encuentran establecidas en el Plano de Zonificación y en el POTE y pueden comprender de manera parcial o total predios sujetos a cualquier régimen de propiedad, por lo que dichas zonas se sujetarán a lo establecido por el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato y al propio POTE, en estas zonas no se permitirá el uso habitacional.

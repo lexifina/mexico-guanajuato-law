@@ -1,0 +1,4 @@
+P.O. 22 DE DICIEMBRE DE 2015.
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Segundo. La reforma que por virtud del presente Decreto se hace al artículo 66, primer párrafo, en cuanto a los principios que se establecen en el mismo, estará supeditada en su vigencia a lo dispuesto en el Artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo de 2015, por lo que en tanto se seguirán vigentes los principios establecidos en dicho numeral para la función de fiscalización.
+Artículo Tercero. Todas las referencias al Órgano de Fiscalización Superior, se entenderán hechas a la Auditoría Superior del Estado de Guanajuato.

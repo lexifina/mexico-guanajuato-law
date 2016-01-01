@@ -1,0 +1,2 @@
+Artículo 42 (SIC). Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los mismos.
+Progresividad normativa en materia de igualdad

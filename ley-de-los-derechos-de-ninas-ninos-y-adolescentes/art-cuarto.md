@@ -1,0 +1,2 @@
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+Término para adecuar la normatividad estatal

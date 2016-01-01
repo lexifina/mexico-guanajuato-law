@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)
+Art. 546 Bis. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá otorgar certificación como familia de acogida a aquellas que reúnan los requisitos de acuerdo a la reglamentación de esa institución, para que brinde cuidado, protección, crianza positiva y la promoción del bienestar social, de niñas niños y adolescentes que se encuentran en la situación prevista en el artículo 546 de este ordenamiento, por un tiempo limitado, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.

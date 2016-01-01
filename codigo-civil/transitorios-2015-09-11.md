@@ -2,7 +2,8 @@ P.O. 11 DE SEPTIEMBRE DE 2015.
 Inicio de vigencia
 Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
 Abrogación
-Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+(F. DE E., P.O. 2 DE OCTUBRE DE 2015)
+Artículo Segundo. Se abroga la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, segunda parte, de fecha 19 de noviembre de 2010.
 Plazos para ajustar reglamentos y decretos
 Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
 Plazo para establecer un área especializada

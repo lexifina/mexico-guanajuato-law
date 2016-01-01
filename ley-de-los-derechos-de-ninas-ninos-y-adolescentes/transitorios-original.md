@@ -1,0 +1,10 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+ARTÍCULO SEGUNDO. Los trámites y procedimientos que a la entrada en vigor del presente Decreto, esté desarrollando o substanciando la Comisión de Administración, Prerrogativas y Fiscalización del Instituto Electoral de Michoacán, continuarán substanciándose hasta la conclusión de los mismos con la normatividad que estaba vigente al momento de su inicio.
+ARTÍCULO TERCERO. Para el caso del nombramiento de los titulares de la Unidad de Fiscalización y la Contraloría, ambos del Instituto Electoral de Michoacán, el Consejo General deberá nombrarlos dentro de los noventa días contados a partir del 01 de enero del año 2013.
+ARTÍCULO CUARTO. Se abroga el Código Electoral del Estado de Michoacán publicado en la Sección Quinta en el Periódico Oficial, el jueves 4 de mayo de 1995, bajo el Decreto Número 164 y se derogan todas las disposiciones que se opongan al presente Decreto.
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 11 once días del mes de octubre de 2012 dos mil doce.
+ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA, DIP. VÍCTOR MANUEL SILVA TEJEDA.- PRIMER SECRETARIO, DIP. JOSÉ EDUARDO ANAYA GÓMEZ.- SEGUNDA SECRETARIA, DIP. CRISTINA PORTILLO AYALA.- TERCER SECRETARIO, DIP. SARBELIO AUGUSTO MOLINA VÉLEZ. (Firmados)
+En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de octubre del año 2012 dos mil doce.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).

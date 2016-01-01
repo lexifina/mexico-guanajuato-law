@@ -12,7 +12,7 @@ Artículo Décimo.- Los organismos descentralizados, empresas de participación 
 Artículo Décimo Primero.- El Gobernador del Estado, de conformidad a las atribuciones asignadas a cada uno de las Secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de seis meses, contados a partir de la entrada en vigor de la presente Ley. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente Ley.
 LO TENDRA ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRA QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 24 DE NOVIEMBRE DEL 2000.- FRANCISCO ISRAEL PARDO GARCIA.- DIPUTADO PRESIDENTE.- ANTONIO GUERRERO HORTA.- DIPUTADO SECRETARIO.- ANTONIO RICO AGUILERA.- DIPUTADO SECRETARIO.- RUBRICAS.
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-Dado en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Guanajuato, Capital a los 05 cinco días del mes de Diciembre del 2000 dos mil.
+Dado en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Guanajuato, Capital a los 05 cinco días del mes de Diciembre 2000 dos mil.
 JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 JUAN MANUEL OLIVA RAMÍREZ.

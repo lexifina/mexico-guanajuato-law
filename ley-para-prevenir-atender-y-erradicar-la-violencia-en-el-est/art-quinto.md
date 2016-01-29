@@ -3,5 +3,5 @@ LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 Título Primero
 Disposiciones Generales
 Capítulo I
-Objeto, Sujetos de Protección, Glosarío y Previsión Presupuestal
+Objeto, Sujetos de Protección, Glosario y Previsión Presupuestal
 Objeto de la ley

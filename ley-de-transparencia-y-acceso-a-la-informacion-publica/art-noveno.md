@@ -1,0 +1,3 @@
+ARTÍCULO NOVENO. En tanto entran en vigor los lineamientos que regulan la forma, términos y plazos en que los sujetos obligados deberán cumplir con las obligaciones de transparencia, deberán mantener y actualizar en sus respectivas páginas de internet la información conforme lo dispone esta ley y la Ley General.
+Los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias y podrán solicitar al Instituto, que, de manera subsidiaria, divulgue vía internet las obligaciones de transparencia correspondiente.
+Plataforma Nacional de Transparencia

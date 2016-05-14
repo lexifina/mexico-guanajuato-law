@@ -1,0 +1,2 @@
+ARTÍCULO UNDÉCIMO. El Congreso del Estado por conducto de la Junta de Enlace en Materia Financiera, promoverá que los ayuntamientos en un plazo de sesenta días contados a partir de la entrada en vigor de la presente Ley, impulsen los ajustes necesarios a sus leyes de ingresos municipales, respecto a la información deberá ser entregada sin costo cuando implique la entrega de no más de veinte hojas simples, así como en caso de existir costos no sean mayores a los establecidos en la Ley Federal de Derechos.
+Renovación escalonada de Comisionados

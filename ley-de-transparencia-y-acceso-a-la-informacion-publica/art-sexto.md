@@ -1,0 +1,2 @@
+ARTÍCULO SEXTO. Los sujetos obligados deberán emitir sus reglamentos en materia de transparencia y acceso a la información pública, se realizarán una vez que entren en vigor los lineamientos que emita el Sistema Nacional, opere la Plataforma Nacional, y se hayan suscrito los convenios respectivos, hasta en tanto en lo que no se contraponga a lo señalado en esta ley seguirán aplicando su anterior reglamento.
+Término al Instituto para ajustar su reglamento interior

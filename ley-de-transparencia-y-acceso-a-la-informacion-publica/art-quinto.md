@@ -1,0 +1,2 @@
+ARTÍCULO QUINTO. Respecto a las nuevas obligaciones en materia de transparencia, el procedimiento de denuncia, la verificación virtual y los procedimientos sancionatorios en materia de obligaciones de transparencia serán obligatorias para los sujetos obligados hasta en tanto entren en vigor los lineamientos que emita el Sistema Nacional, opere la Plataforma Nacional, y se hayan suscrito los convenios respectivos.
+Término a los sujetos obligados para realizar ajustes a su reglamento

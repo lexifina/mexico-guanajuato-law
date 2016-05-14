@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO. Hasta en tanto los integrantes del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, emitan los lineamientos generales con respecto a la plataforma electrónica que contendrá la Plataforma Nacional de Transparencia y opere ésta, los sujetos obligados, seguirán operando y actualizando sus respectivas páginas de internet con los sistemas informáticos de soporte, conforme lo venían realizado atendiendo a la normatividad que los rige.
+Adecuación de las leyes de ingresos municipales

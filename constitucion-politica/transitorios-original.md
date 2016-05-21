@@ -15,4 +15,4 @@ Dada en Guanajuato, a los tres días del mes de septiembre de mil novecientos di
 Agustín Alcocer.
 El Secretario General del Despacho.
 Lic. Francisco Espinosa.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]

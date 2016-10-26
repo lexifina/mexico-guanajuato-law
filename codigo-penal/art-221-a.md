@@ -1,6 +1,12 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
-(REFORMADO, P.O. 3 DE JUNIO DE 2011)
-Artículo 221-a.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, se impondrá como pena de dos a ocho años de prisión.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2014)
-Capítulo VII
-Sustracción, Retención u Ocultamiento de Menores o Incapaces
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)
+(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)
+Artículo 221-a.- El delito a que se refiere el artículo anterior se perseguirá por querella excepto cuando:
+I.- La víctima sea menor de edad o incapaz;
+II.- Tratándose de violencia física, en los siguientes supuestos:
+a) La víctima por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa;
+b) La víctima presente lesiones que por lo menos tarden en sanar más de quince días, dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular o pongan en peligro la vida;
+c) La víctima sea una mujer embarazado o durante los tres meses siguientes al parto;
+d) Se cometa con la participación de dos o más personas;
+e) Se cometa con el uso de armas de fuego o punzocortantes;
+f) Se tengan documentados ante autoridad antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
+g) Exista imposibilidad material de la víctima de denunciar.

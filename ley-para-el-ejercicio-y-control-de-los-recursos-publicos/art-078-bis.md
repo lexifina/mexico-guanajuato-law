@@ -8,4 +8,5 @@ Adicionalmente, la Secretaría podrá solicitarles con la periodicidad que deter
 En su caso, las dependencias y entidades realizarán los trámites necesarios ante la Secretaría, para que se proceda a la extinción de aquellos fideicomisos que hayan cumplido los fines para los que fueron constituidos, debiéndose verificar que los remanentes ingresen al erario estatal.
 Queda prohibida la celebración de fideicomisos, mandatos o contratos análogos, que tengan como propósito eludir la anualidad de los presupuestos de egresos.
 El incumplimiento a lo establecido en los párrafos que anteceden, será causa de responsabilidad conforme a lo dispuesto por la normativa aplicable.
-En la cuenta pública trimestral y en el concentrado anual, el Ejecutivo informará al Congreso del Estado sobre la asignación y ejercicio de los recursos correspondientes a los fideicomisos públicos y empresas de participación estatal.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)
+En los informes financieros trimestrales, así como en la cuenta pública, el Ejecutivo informará al Congreso sobre la asignación y ejercicio de los recursos correspondientes a los fideicomisos públicos y empresas de participación estatal.

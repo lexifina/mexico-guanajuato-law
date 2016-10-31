@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
-Artículo 102 decies.- Los estados financieros y demás información financiera, presupuestal o contable de los poderes, organismos autónomos y municipios, se remitirán al Congreso del Estado en sus respectivas cuentas públicas, para efectos de su fiscalización.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)
+Artículo 102 decies.- Los estados financieros y demás información financiera, presupuestal o contable que deban reportar los poderes, organismos autónomos y municipios, de conformidad con lo dispuesto por los ordenamientos legales, se presentarán en los informes financieros trimestrales respectivos y en la cuenta pública que anualmente se entregue al Congreso para efectos de su fiscalización.

@@ -1,6 +1,4 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
-Artículo 61 ter.- El Ejecutivo del Estado, por conducto de la Secretaría, podrá autorizar ampliaciones líquidas, cuando se obtengan recursos adicionales a los previstos en la Ley de Ingresos para el Estado de Guanajuato para el ejercicio fiscal correspondiente, siempre que dichos recursos no excedan del 6.5% de los ingresos proyectados.
-Cuando los recursos disponibles excedan del monto especificado en el párrafo anterior, se requerirá la autorización del Congreso del Estado para poder ejercerlos.
-Las ampliaciones líquidas deberán ser destinadas a los rubros de gasto social, generación de empleos, vivienda, seguridad pública, infraestructura deportiva, obra pública u otros análogos en materia de inversión pública y habrán de reflejarse en la cuenta pública estatal.
-No se considerarán recursos adicionales, los que el Estado reciba de la Federación para un destino específico.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)
+Artículo 61 ter.- El Ejecutivo del Estado y los ayuntamientos, por conducto de la Secretaría o la Tesorería según corresponda, podrán autorizar ampliaciones líquidas, cuando se obtengan ingresos excedentes derivados de Ingresos de libre disposición.
+En el ámbito estatal, cuando los ingresos excedentes especificados en el párrafo anterior superen el 6.5% de los ingresos proyectados, se requerirá la autorización del Congreso para que el Ejecutivo pueda ejercerlos.
+Las ampliaciones líquidas por ingresos excedentes derivados de ingresos de libre disposición, con exclusión de aquéllos que tengan un destino específico, deberán destinarse exclusivamente a los rubros señalados en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, aplicarse conforme a lo dispuesto en dicho artículo y demás aplicables de la mencionada Ley, y reflejarse en los respectivos informes financieros trimestrales, así como en la cuenta pública que se rinda al Congreso.

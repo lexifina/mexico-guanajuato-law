@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)
+Artículo 28 ter.- La Ley del Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas del Estado.
+El monto de asignaciones presupuestales para estos recursos, su destino y aplicación de saldos, deberá sujetarse a lo establecido en el artículo 9 y demás aplicables de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Los recursos a que se refiere el presente artículo deberán ser aportados a un fideicomiso público que se constituya específicamente para dicho fin.

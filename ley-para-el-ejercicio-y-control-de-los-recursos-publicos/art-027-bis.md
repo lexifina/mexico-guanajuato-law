@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)
+Artículo 27 bis.- Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el dos y dos punto cinco por ciento de los ingresos totales del Estado o Municipio respectivamente, de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.

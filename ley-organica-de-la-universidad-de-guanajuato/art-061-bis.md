@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)
+Artículo 61 Bis. Quien detente la titularidad del Órgano Interno de Control de la Universidad durará en su cargo un periodo de cinco años, sin posibilidad de reelección.
+La designación del titular del Órgano Interno de Control se hará mediante la elección de una terna que derivará de consulta pública realizada por el Consejo General Universitario, cuyas bases serán publicadas en el Periódico Oficial de Gobierno del Estado además de la amplia difusión en el portal de internet de la Universidad, y periódicos de mayor circulación. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular del órgano de control.

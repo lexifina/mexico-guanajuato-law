@@ -1,0 +1,12 @@
+Artículo 159 Bis. El titular del Órgano Interno de Control, será designado por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado y durará en su cargo un periodo de cinco años, sin posibilidad de reelección. Para ocupar el cargo de contralor se requiere:
+I. Tener la ciudadanía mexicana, con residencia en el Estado no menor de tres años anteriores a la fecha de su designación;
+II. Tener dos años de experiencia en materia (sic) fiscalización y rendición de cuentas;
+III. Tener cuando menos treinta años cumplidos al día del nombramiento;
+IV. Tener al día de su nombramiento, título profesional en las áreas contables, económico-administrativas, jurídicas o financieras, expedido por autoridad o institución facultada para ello, y con una antigüedad mínima en su ejercicio de cinco años;
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+VI. No ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los tres años anteriores a su designación.
+La designación del titular del Órgano Interno de Control se hará mediante la elección de una terna a través de convocatoria pública la cual se realizará por el Instituto y se publicará en el Periódico Oficial de (sic) Gobierno del Estado, además de la amplia difusión en el portal de internet del Instituto, y periódicos de mayor circulación, de conformidad con el reglamento interior. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+En el supuesto de que la terna no fuese aprobada, se regresará al Pleno del Instituto, para que en el término de cinco días hábiles elabore una nueva terna, considerando a otros de los propuestos a partir de la consulta pública realizada y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular del órgano de control, siendo que la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)
+Atribuciones del órgano de control

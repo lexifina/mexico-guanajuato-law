@@ -1,0 +1,1 @@
+Artículo Tercero. Dentro de los noventa días siguientes de iniciar sus operaciones la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, el Órgano de Gobierno, deberá emitir el Estatuto Orgánico de la Secretaría Ejecutiva a efecto de que la Secretaría de Gobierno lo publique en el Periódico Oficial de Gobierno del Estado de Guanajuato.

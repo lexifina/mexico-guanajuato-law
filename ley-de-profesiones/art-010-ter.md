@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE MAYO DE 2017)
+Artículo 10 Ter. Los profesionistas con título profesional expedido por alguna entidad federativa de la República Mexicana distinta al estado de Guanajuato, para poder obtener el registro de su título profesional, deberán cumplir con las disposiciones establecidas en el Reglamento para la obtención de la Cédula Profesional Estatal.
+Para efecto de lo anterior, la patente o Cédula Profesional de la Dirección General de Profesiones de la Secretaría de Educación Pública, se considerará prueba suficiente de que se cumplen en su totalidad los citados requisitos.

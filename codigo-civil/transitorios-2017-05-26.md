@@ -1,0 +1,4 @@
+P.O. 26 DE MAYO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 190, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Segundo. El Ejecutivo del Estado contará con un plazo de noventa días para reformar el Reglamento del Registro Público de la Propiedad para el Estado de Guanajuato, y de ciento ochenta días para asegurar el funcionamiento del Registro Público en términos del presente Decreto, respectivamente; contados a partir de la entrada en vigor del presente Decreto.

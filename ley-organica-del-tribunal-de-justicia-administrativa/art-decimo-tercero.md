@@ -1,0 +1,1 @@
+Artículo Décimo Tercero. El Tribunal de Justicia Administrativa del Estado de Guanajuato remitirá en un plazo de hasta sesenta días, posteriores al inicio de vigencia de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.

@@ -1,0 +1,1 @@
+Artículo Duodécimo. El órgano interno de control y la unidad de transparencia del Tribunal de lo Contencioso Administrativo deberán contar con la estructura necesaria para desempeñar las atribuciones que les señala la presente ley y entrarán en funciones en un plazo de 180 días contados a partir del inicio de vigencia de la presente ley.

@@ -1,0 +1,1 @@
+Artículo Noveno. La disposición comprendida en el artículo 26 del presente decreto, en relación a la reelección, será aplicable a partir del primer presidente que sea elegido con las reglas del presente decreto.

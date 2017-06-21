@@ -1,0 +1,1 @@
+Artículo Décimo Cuarto. El Congreso del Estado contará con un plazo de hasta ciento ochenta días contados a partir del inicio de vigencia del presente Decreto, para designar al titular del órgano interno de control, debiendo garantizar la designación atendiendo a los principios de certeza, imparcialidad y legalidad.

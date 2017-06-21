@@ -1,0 +1,1 @@
+Artículo Undécimo. El Magistrado Presidente del Tribunal de lo Contencioso Administrativo fungirá como Presidente del Tribunal de Justicia Administrativa, por lo que resta del periodo para el que haya sido nombrado originalmente.

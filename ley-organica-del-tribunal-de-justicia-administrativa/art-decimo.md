@@ -1,0 +1,1 @@
+Artículo Décimo. Todas las referencias que en las leyes, contratos, normas o cualquier otro documento se haga al Tribunal de lo Contencioso Administrativo se entenderán referidas al Tribunal de Justicia Administrativa, sin menoscabo de las adecuaciones normativas que se realicen a los diversos ordenamientos jurídicos por parte del Congreso del Estado.

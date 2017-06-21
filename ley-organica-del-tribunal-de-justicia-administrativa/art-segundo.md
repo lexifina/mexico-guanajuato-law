@@ -1,0 +1,1 @@
+Artículo Segundo. A partir del inicio de vigencia del presente Decreto, se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo, contenida en el Decreto Legislativo número 87, expedido por la Sexagésima Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 192, segunda parte, del 30 de noviembre de 2007.

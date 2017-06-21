@@ -1,0 +1,1 @@
+Artículo Sexto. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, mantendrá su adscripción al menos durante los primeros cinco años del ejercicio de su encargo, sin perjuicio de que pueda permanecer en dicha sala durante todo su encargo.

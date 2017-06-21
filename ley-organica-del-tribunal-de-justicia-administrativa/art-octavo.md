@@ -1,0 +1,1 @@
+Artículo Octavo. Todos los procedimientos, juicios y negocios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.

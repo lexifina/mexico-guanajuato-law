@@ -1,0 +1,1 @@
+Artículo Cuarto. El Tribunal de lo Contencioso Administrativo deberá adecuar su reglamento interior y normativa interna en un plazo de ciento ochenta días, contados a partir del inicio de vigencia de la presente Ley, en tanto la normativa vigente será aplicable en lo que no se oponga a la presente ley.

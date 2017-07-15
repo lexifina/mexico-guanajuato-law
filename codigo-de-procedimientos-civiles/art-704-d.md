@@ -1,3 +1,4 @@
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE JULIO DE 2017)
 (ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)
 Art. 704-D.- En el auto que admita la demanda, el juez ordenará que se requiera al deudor el pago de las prestaciones reclamadas y que para el caso de no cumplir, con copia cotejada de la demanda y sus documentos anexos, se corra traslado al demandado, emplazándolo a juicio para que dentro del término de cinco días ocurra a pagar lo reclamado o en su caso, a contestar la demanda y a oponer las excepciones que correspondan, en términos de lo dispuesto en el artículo siguiente. Asimismo para que manifieste al contestar la demanda, si acepta o no el cargo de depositario.
 Desde el día del emplazamiento, contrae el deudor las obligaciones de depositario judicial. Al contestar la demanda el deudor deberá, de manera expresa, manifestar si acepta o no el cargo de depositario.

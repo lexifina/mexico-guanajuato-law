@@ -1,0 +1,1 @@
+Artículo Sexto. Los procedimientos iniciados durante la vigencia de la Ley de Protección de Datos Personales para el Estado y Municipios de Guanajuato, se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.

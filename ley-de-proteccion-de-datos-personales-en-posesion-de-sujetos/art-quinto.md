@@ -1,0 +1,1 @@
+Artículo Quinto. El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un plazo no mayor a seis meses a la entrada en vigor de esta Ley.

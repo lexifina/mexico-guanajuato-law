@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)
+ARTICULO 66 BIS.- La Secretaría de Salud del Estado impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, así como de lactancia materna, para tal efecto, promoverá la creación de redes de apoyo a la salud materno-infantil y a la lactancia materna, con la finalidad de facilitar el acceso de las familias a información en la materia.

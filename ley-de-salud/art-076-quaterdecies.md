@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)
+ARTICULO 76 Quaterdecies.- Si un establecimiento de salud no cuenta con licencia sanitaria para realizar la extracción de órganos y tejidos en términos de la Ley General de Salud, sus disposiciones reglamentarias, la presente Ley y demás normas aplicables, se permitirá el traslado en ambulancia del donador con pérdida de la vida a un establecimiento con licencia, a fin de que se pueda concretar la donación.

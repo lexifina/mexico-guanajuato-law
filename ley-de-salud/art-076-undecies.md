@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)
+ARTICULO 76 Undecies.- Los coordinadores hospitalarios de la donación y extracción de órganos y tejidos para trasplantes notificarán al Ministerio Público, de manera inmediata la identificación de un donador fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes.
+Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.

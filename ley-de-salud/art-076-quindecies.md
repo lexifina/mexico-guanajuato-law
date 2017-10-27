@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)
+ARTICULO 76 Quindecies.- El Centro Estatal de Trasplantes establecerá los mecanismos necesarios que permitan identificar, asesorar y vigilar que todo paciente que se encuentre en los primeros lugares de las bases de datos para trasplante de donador cadavérico, en instituciones de salud tanto públicas como privadas, cumpla con los requisitos legales y administrativos aplicables y cuente con el protocolo de trasplante actualizado, que le permitan encontrarse en igualdad de condiciones para garantizar su acceso efectivo al trasplante.

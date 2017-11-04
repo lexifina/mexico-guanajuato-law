@@ -16,6 +16,8 @@ l) Formular acciones tendientes a la difusión, la divulgación y la apropiació
 m) Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas, que le permitan apoyar de manera creciente las actividades de ciencia y tecnología e innovación;
 n) Asesorar al Poder Ejecutivo del Estado, a los municipios, a las dependencias del Gobierno Federal en el Estado, así como a las personas físicas o morales que lo soliciten sobre asuntos relacionados con la ciencia, la tecnología y la innovación; y
 o) Diagnosticar en conjunto con la Secretaría de Desarrollo Económico Sustentable el desarrollo e impulso de las vocaciones económicas de las diversas zonas económicas y los sectores económicos tradicionales y no tradicionales del Estado y su situación con respecto a las cadenas de valor y productivas y los sectores estratégicos de la Entidad.
+(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2017)
+p) Impulsar la creación de entidades de vinculación y transferencia del conocimiento en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en las instituciones de Educación Superior, Centros Públicos de Investigación, así como entidades y organismos de la Administración Pública Estatal que tengan como objeto predominante la realización de actividades de investigación, desarrollo tecnológico o innovación.
 II.- En materia de educación superior:
 a) Conformar, coordinar y articular el Sistema de Educación Superior del Estado así como diseñar, planear y verificar el cumplimiento de la política, asegurando su cobertura con calidad y pertinencia;
 b) Impulsar la generación de mecanismos alternos de financiamiento en las instituciones de educación superior, así como promover su autogestión;

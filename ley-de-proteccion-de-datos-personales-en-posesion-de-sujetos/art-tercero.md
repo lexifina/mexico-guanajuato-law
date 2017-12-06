@@ -1,1 +1,1 @@
-Artículo Tercero. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar noventa días posteriores a la entrada en vigor de esta Ley.
+Artículo Tercero. (DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)

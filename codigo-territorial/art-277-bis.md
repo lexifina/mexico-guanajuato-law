@@ -1,0 +1,4 @@
+Artículo 277 bis. Se deberá privilegiar el diseño, adecuación, mantenimiento y protección de los espacios públicos, teniendo en cuenta siempre la evolución de la ciudad en los procesos de planeación urbana, la programación de inversiones públicas, y el aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población.
+Los programas municipales incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, contemplando entre otras acciones la identificación de los espacios públicos y los equipamientos colectivos de interés público y social con relación a la función y las características que tendrán y a la ubicación de los beneficiarios, atendiendo la normatividad en la materia.
+(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)
+Prevenciones para el uso, aprovechamiento y custodia del espacio público

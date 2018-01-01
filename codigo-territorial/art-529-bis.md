@@ -1,0 +1,3 @@
+Artículo 529 bis. El Estado y los municipios promoverán la creación y funcionamiento de observatorios ciudadanos, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y del gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socio-espaciales y los nuevos modelos de políticas urbanas, ambientales, regionales y de gestión pública.
+(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)
+Tarea de los observatorios ciudadanos

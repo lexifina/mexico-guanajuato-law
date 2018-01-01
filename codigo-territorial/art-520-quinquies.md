@@ -1,0 +1,3 @@
+Artículo 520 quinquies. Para garantizar que los consejos estatal y municipales sean representativos conforme al sistema de planeación democrática, en su reglamento interno se establecerá el número de miembros, con perspectiva de género, y su integración con representantes del sector social y gubernamental de los órdenes de gobierno correspondientes, colegios de profesionistas, instituciones académicas, órganos empresariales del sector y expertos, entre otros; quienes participarán e interactuarán en la formulación, aplicación, evaluación y vigilancia de las políticas de ordenamiento ecológico territorial, desarrollo urbano y desarrollo metropolitano.
+(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)
+Deber de información

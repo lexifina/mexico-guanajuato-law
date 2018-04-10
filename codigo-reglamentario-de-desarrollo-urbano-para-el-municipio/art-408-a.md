@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE ENERO DE 2012)
-Artículo 408 - A.- Los anuncios que pretendan instalarse en postes de líneas telefónicas, postes de alumbrado y postes de la CFE, deberán guardar una distancia mínima entre un anuncio y otro del mismo tipo, de 250 metros lineales en el sentido de la circulación;
+(REFORMADO, P.O. 9 DE ABRIL DE 2018)
+Artículo 408-A.- Se prohíben los anuncios que pretendan instalarse en postes de líneas telefónicas y postes de la CFE, a excepción de postes de alumbrado público propiedad municipal en donde se podrán anunciar eventos turísticos, deportivos o culturales, promovidos por el municipio y cuyo retiro corra por cuenta de los promotores de dichos eventos, en las ubicaciones que la Dirección autorice.

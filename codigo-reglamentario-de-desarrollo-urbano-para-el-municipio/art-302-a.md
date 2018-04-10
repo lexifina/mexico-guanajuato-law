@@ -8,5 +8,5 @@ II.- Que no impliquen edificación alguna por encima de ellas; y,
 III. Que no se tengan claros mayores a 4.50 metros entre apoyos principales.
 (REFORMADO, P.O. 6 DE MAYO DE 2014)
 El permiso que se otorgue con motivo del presente artículo, se dará por una sola ocasión.
-(ADICIONADO, P.O. 6 DE MAYO DE 2014)
-Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO, así como la elaboración de los planos básicos mínimos que refiere el manual técnico de las construcciones y sus anexos.
+(REFORMADO, P.O. 9 DE ABRIL DE 2018)
+Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO, así como la elaboración de los planos básicos mínimos que refiere la norma técnica NTM-LEON-DU-03-2018, relativa a las Especificaciones Técnicas de las Construcciones.

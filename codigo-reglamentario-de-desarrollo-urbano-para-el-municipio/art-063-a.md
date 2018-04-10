@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)
-Artículo 63-A.- El estudio de densidad y criterios bioclimáticos previsto en el artículo que antecede, deberá contener:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2018)
+Artículo 63-A. El estudio de densidad y niveles previsto en el artículo que antecede, deberá contener:
 (ADICIONADA, P.O. 6 DE MAYO DE 2014)
 I. Datos generales del proyecto y del poseedor del inmueble;
 (ADICIONADA, P.O. 6 DE MAYO DE 2014)
@@ -20,5 +20,5 @@ VIII. Para revisar el impacto sobre la densidad de población en la zona, es nec
 IX. Señalar las consecuencias positivas y negativos (sic), así como las medidas de mitigación de estos conforme a los impactos visual, ambiental, de riesgo, vial, social y económico.
 (ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)
 X. Cumplir con los términos de referencia para criterios bioclimáticos que la Dirección entregará al particular atendiendo a lo establecido en el POTE.
-(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)
-Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo.
+(REFORMADO, P.O. 9 DE ABRIL DE 2018)
+Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo o del aumento de densidad de población del predio autorizada para la zona.

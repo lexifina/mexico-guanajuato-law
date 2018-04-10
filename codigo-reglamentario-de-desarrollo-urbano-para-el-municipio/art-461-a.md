@@ -1,5 +1,5 @@
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2012)
+(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2018)
 CAPÍTULO X
-DE LOS ANEXOS TÉCNICOS
-(ADICIONADO, P.O. 31 DE ENERO DE 2012)
-Artículo 461 - A.- Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de anuncios, se conforma el ANEXO 7 relativo al Manual Técnico de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico, el cual forma parte integrante de este ordenamiento.
+DE LAS ESPECIFICACIONES TÉCNICAS
+(REFORMADO, P.O. 9 DE ABRIL DE 2018)
+Artículo 461-A.- Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria obligatoria a la normativa de anuncios, se deberá atender lo establecido en la norma técnica NTM-LEÓN-04-2018, en materia de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio.

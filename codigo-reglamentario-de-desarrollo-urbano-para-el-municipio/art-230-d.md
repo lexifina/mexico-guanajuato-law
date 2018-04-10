@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 6 DE MAYO DE 2014)
-Artículo 230-D.- El IMPLAN dictaminará la congruencia del proyecto de diseño urbano del fraccionamiento o desarrollo en condominio, con las disposiciones del POTE, así como con la estructura urbana de los centros de población, priorizando la consolidación urbana, la redensificación poblacional de las zonas urbanizadas, la ocupación de espacios vacantes, lotes baldíos y predios subutilizados dentro del centro de población, así como la continuidad urbana del mismo, de manera proporcional a las características del proyecto.
+Artículo 230-D.- (DEROGADO, P.O. 9 DE ABRIL DE 2018)

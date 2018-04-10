@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE ENERO DE 2012)
-Artículo 287 - E.- El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+(REFORMADO, P.O. 9 DE ABRIL DE 2018)
+Artículo 287 - E.- El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento, en caso de no presentarla, se suspenderá temporalmente su registro, otorgándose un plazo de treinta días hábiles para tramitar el refrendo, en caso contrario su registro será cancelado hasta en tanto realice uno nuevo.

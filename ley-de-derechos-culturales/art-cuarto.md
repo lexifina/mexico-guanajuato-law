@@ -1,0 +1,7 @@
+Artículo Cuarto. Los convenios firmados previamente a la entrada en vigor de la presente Ley seguirán vigentes hasta el término de la vigencia que en los mismos se señale.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. GUANAJUATO, GTO., 15 DE MARZO DE 2018.- LUIS VARGAS GUTIÉRREZ.- DIPUTADO PRESIDENTE.- LUZ ELENA GOVEA LÓPEZ.- DIPUTADA VICEPRESIDENTA.- GUILLERMO AGUIRRE FONSECA.- DIPUTADO SECRETARIO.- JUAN GABRIEL VILLAFAÑA COVARRUBIAS.- DIPUTADO SECRETARIO.- RÚBRICAS.
+Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 4 de abril de 2018.
+MIGUEL MÁRQUEZ MÁRQUEZ
+EL SECRETARIO DE GOBIERNO
+GUSTAVO RODRÍGUEZ JUNQUERA

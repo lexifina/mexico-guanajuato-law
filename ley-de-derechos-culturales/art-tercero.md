@@ -1,0 +1,1 @@
+Artículo Tercero. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente decreto.

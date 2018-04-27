@@ -1,0 +1,4 @@
+P.O. 26 DE ABRIL DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 301. QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan de conformidad con los alcances de este Decreto, una vez que se expidan las leyes generales a que se refiere el artículo segundo transitorio del Decreto por el que se reforma y adicionan diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos en materia de justicia laboral, publicado en el Diario Oficial de la Federación el 24 de febrero de 2017.

@@ -1,0 +1,2 @@
+Artículo Cuarto. Los procedimientos de contratación, de aplicación de sanciones e inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron. Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes a la entrada en vigor de esta Ley, se seguirán rigiendo por las disposiciones aplicables en el momento en que se celebraron.
+Plazo para adecuar el Reglamento

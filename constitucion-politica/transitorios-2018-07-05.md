@@ -1,0 +1,4 @@
+P.O. 5 DE JULIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 315, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. Las reformas a los artículos 12, 66, 82, 117 y 144 contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+Artículo Segundo. La reforma al artículo 7, del presente Decreto entrará en vigor el mismo día que lo haga la reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, contenidos en el decreto publicado el 15 de septiembre de 2017 en el Diario Oficial de la Federación.

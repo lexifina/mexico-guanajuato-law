@@ -1,0 +1,5 @@
+P.O. 5 DE JULIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA, DEROGA Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+Artículo Segundo. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
+Artículo Tercero. En un plazo no mayor de sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones presupuestales necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.

@@ -1,7 +1,7 @@
 ARTÍCULO ÚNICO. El presente decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 27 DE AGOSTO DE 2012.- ELVIRA PANIAGUA RODRÍGUEZ.- DIPUTADA PRESIDENTA.- JUAN CARLOS ACOSTA RODRÍGUEZ.- DIPUTADO SECRETARIO.- ALICIA MUÑOZ OLIVARES.- DIPUTADA SECRETARIA.- RÚBRICAS.
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-Dado en la residencia del Poder Ejecutivo, en la ciudad Guanajuato, Gto., el 21 de septiembre de 2012.
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., el 21 de septiembre de 2012.
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 ROMÁN CIFUENTES NEGRETE

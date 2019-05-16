@@ -1,0 +1,4 @@
+P.O. 15 DE MAYO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 60 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 113 FRACCIÓN V Y 118 FRACCIÓN IV. SE ADICIONAN LAS FRACCIONES XIII BIS, XXVII, XXVIII Y XXIX AL ARTÍCULO 4; VI Y VII AL ARTÍCULO 113; V Y VI AL ARTÍCULO 118 Y IV AL ARTÍCULO 119, DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. La Secretaría de Medio Ambiente y Ordenamiento Territorial emitirá los lineamientos para fomentar el uso de vehículos eléctricos, híbridos y de bajas emisiones que utilicen energías limpias en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.

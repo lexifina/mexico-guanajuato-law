@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 15 DE MAYO DE 2019)
+Artículo 9 Ter. Los planes de preparación o práctica profesional, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán a los estudiantes, como requisito previo para otorgarles el título, que presten servicio social estudiantil durante el tiempo no menor de seis meses ni mayor de dos años, que no será menor de cuatrocientas ochenta horas.
+Cuando el servicio social estudiantil ocupe completamente las actividades del estudiante se le deberá otorgar una beca suficiente para satisfacer sus necesidades de comida y transporte.

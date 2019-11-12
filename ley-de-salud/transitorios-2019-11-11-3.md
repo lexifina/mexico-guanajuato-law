@@ -1,0 +1,4 @@
+P.O. 11 DE NOVIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 NONIES, FRACCIÓN VIII; 76 DUODECIES, FRACCIÓN VI; 76 TERDECIES; 101, SEGUNDO PÁRRAFO; 294, 295 Y 297; SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 100; EL ARTÍCULO 129 BIS AL TÍTULO OCTAVO, CAPÍTULO III; ASÍ COMO LA FRACCIÓN IV AL ARTÍCULO 266, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+Artículo segundo. El Poder Ejecutivo del Estado deberá establecer los programas y acciones a que se refiere el artículo 101 del presente Decreto, en un plazo de 180 días posteriores a su entrada en vigor.

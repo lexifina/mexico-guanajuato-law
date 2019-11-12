@@ -6,4 +6,5 @@ II.- Cualquier otro estudio de gabinete que demuestre la falta de actividad cere
 III.- Certificado de pérdida de la vida;
 IV.- Consentimiento para disposición de órganos y tejidos de cadáveres con fines de trasplante;
 V.- Estudio e interpretación confirmatorio de muerte encefálica; y
-VI.- Las demás que específicamente determine el protocolo de atención que al efecto aplique la Procuraduría General de Justicia.
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)
+VI.- Las demás que específicamente determine el protocolo de atención que al efecto aplique la Fiscalía General del Estado de Guanajuato.

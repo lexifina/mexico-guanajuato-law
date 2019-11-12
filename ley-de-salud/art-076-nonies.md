@@ -7,7 +7,8 @@ IV.- El titular de la Secretaría de Innovación, Ciencia y Educación Superior;
 V.- El Director de la División de Ciencias de la Salud de la Universidad de Guanajuato;
 VI.- El delegado en el Estado de Guanajuato del Instituto Mexicano del Seguro Social;
 VII.- El delegado en el Estado de Guanajuato del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-VIII.- Un representante de la Procuraduría General de Justicia del Estado de Guanajuato;
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)
+VIII.- Un representante de la Fiscalía General del Estado de Guanajuato;
 IX.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 X.- Un representante de las instituciones privadas de salud del Estado;
 XI.- Un representante de la comunidad médica del Estado;

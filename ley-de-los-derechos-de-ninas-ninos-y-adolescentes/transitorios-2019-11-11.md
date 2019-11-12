@@ -1,0 +1,4 @@
+P.O. 11 DE NOVIEMBRE DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 101, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 33-1 A LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO".]
+Inicio de la vigencia del decreto
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

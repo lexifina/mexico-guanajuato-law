@@ -14,6 +14,7 @@ a) En el acto en que el fideicomisario designado ceda sus derechos o dé instruc
 b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor;
 IX.- La adquisición, a través de permuta, caso en el que se considerará que se efectúan dos adquisiciones;
 X.- La adjudicación que derive de procedimientos judiciales o administrativos;
-XI.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato que le da origen, por mutuo acuerdo o la reversión en caso de expropiaciones, así como por procedimientos judiciales o administrativos; y
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)
+XI.- La reversión en caso de expropiaciones, así como por procedimientos judiciales o administrativos; y
 XII.- Cualquier otro acto o contrato por el que se adquieran bienes inmuebles o derechos sobre los mismos.
 No se causará este impuesto tratándose de adquisiciones de inmuebles que haya realizado la Federación, el Estado o los municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos de los contratos de arrendamiento financiero.

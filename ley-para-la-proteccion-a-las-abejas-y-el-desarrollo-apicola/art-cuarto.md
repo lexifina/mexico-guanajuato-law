@@ -1,0 +1,1 @@
+Artículo Cuarto. Los apicultores que ya cuentan con apiarios instalados en el estado, en un plazo no mayor de un año contado a partir de la fecha en que entre en vigor el presente Decreto, deberán registrarse en el padrón, en los términos previstos por esta ley.

@@ -7,6 +7,7 @@ IV. Deberán respetar su plano virtual sin invadir físicamente la vía pública
 V. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, en azoteas de inmuebles, ni en muros colindantes;
 VI. Contar con una distancia mínima de 50 metros radiales entre las estructuras de antenas de telecomunicaciones;
 VII. En el caso de que se pretenda instar un anuncio autosoportado en un predio que colinde con otro donde ya exista un anuncio autosoportado, el anuncio deberá instalarse lo más alejado posible de las estructuras del que ya se encuentra fijo;
-VIII. Solo se podrán ubicar en predios con frente a las vías primarias y secundarias dentro del centro de población;
+(REFORMADA, P.O. 21 DE FEBRERO DE 2020)
+VIII. Solo se podrán ubicar en predios con frente a vialidades que conforman el sistema vial primario y secundario dentro del centro de población;
 IX. Cuando se trate de bienes de competencia federal o estatal, adyacentes a autopistas, carreteras, puentes, caminos o cualquier otra vía de comunicación, se requiere permiso previo otorgado por la autoridad competente; y
 X. En el caso de centros o plazas comerciales se podrá autorizar únicamente un tipo (sic) directorio cumpliendo con lo establecido en el artículo 448-A del presente Código.

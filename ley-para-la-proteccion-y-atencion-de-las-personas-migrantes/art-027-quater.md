@@ -1,6 +1,8 @@
-Artículo 27 Quáter. En el reglamento de esta ley y, en su caso, en la normatividad municipal, se establecerán los mecanismos para la instrumentación de las políticas públicas referidas en el artículo anterior.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE SEPTIEMBRE DE 2018)
-CAPÍTULO VI
-PRESENCIA DE GUANAJUATO EN EL MUNDO
+Artículo 27 Quáter. En materia de hospitalidad e interculturalidad, la generación de las políticas públicas a cargo de la administración pública estatal y municipal, conforme a sus respectivos ámbitos de competencia, se observará lo siguiente:
+I. El trato digno, respetuoso y oportuno a las personas que se encuentren en el estado;
+II. Contribuir a la integración intercultural; y
+III. Respeto de los derechos humanos de toda persona, evitando la discriminación o exclusión por su condición migratoria, ya sea que en (sic) encuentren con fines de tránsito, destino o retorno, de permanencia temporal o definitiva en el estado de Guanajuato.
+(ADICIONADO, P.O. 27 DE MARZO DE 2020)
+La generación de las políticas públicas municipales deberá guardar congruencia con lo establecido en el Plan Municipal de Desarrollo, así como en el Programa de Gobierno Municipal.
 (ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)
-Vinculación
+Habilitación reglamentaria

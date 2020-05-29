@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE MAYO DE 2020)
+Artículo 272 Bis. Adicionalmente en la asignación de diputaciones plurinominales la fórmula observará lo siguiente:
+I. La proporcionalidad entre el porcentaje de votación obtenida por cada partido político y el porcentaje de diputados por el principio de representación proporcional que le corresponde asignar, y
+II. Que realice los ajustes que disminuyan las brechas de sobre y subrepresentación entre el porcentaje de votación obtenido por cada partido político y el porcentaje de diputados por el principio de representación proporcional que le corresponda asignar.

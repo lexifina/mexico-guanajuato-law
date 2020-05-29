@@ -5,4 +5,5 @@ II. Incumplir la obligación de determinar los daños y perjuicios y de promover
 III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
 IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley; y
 V. Incurrir en abandono del cargo por un periodo de 5 días.
-Ante la actualización de alguna de las causales previstas en el presente artículo, el Consejo General o el Pleno del Tribunal, según corresponda, presentarán la solicitud de remoción ante el Congreso del Estado.
+(REFORMADO, P.O. 29 DE MAYO DE 2020)
+Ante la actualización de alguna de las causales previstas en el presente artículo, el Consejo General presentará la solicitud de remoción ante el Congreso del Estado. Para el caso del Tribunal Estatal Electoral, la Presidencia presentará la solicitud ante el Pleno para la remoción correspondiente.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE JUNIO DE 2020)
+ARTICULO 50 BIS.- El paciente y, en su caso, el familiar más cercano en vínculos, tutor, o quien ejerza la patria potestad, representante legal, o bien, persona de su confianza mayor de edad, tiene el derecho a solicitar y recibir información sobre su condición médica y opciones de tratamiento. Los profesionales de la salud deberán proporcionar dicha información, la que deberá permitirle el decidir de manera libro (sic) e informada el consentir o no tratamientos o procedimientos médicos.

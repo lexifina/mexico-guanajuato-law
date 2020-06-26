@@ -1,0 +1,3 @@
+P.O. 25 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 190 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

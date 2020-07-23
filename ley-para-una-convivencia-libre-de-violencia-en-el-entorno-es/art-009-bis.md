@@ -1,0 +1,2 @@
+Artículo 9 bis. Las autoridades educativas establecerán medidas de protección reforzada para evitar, tratar y remediar cualquier situación de violencia escolar que sufran los alumnos asociados con restricciones en su capacidad de aprender, desórdenes de adaptación, emocionales y conductuales, lo anterior con la finalidad de desarrollar plenamente sus capacidades, y evitar a los alumnos una situación de riesgo.
+Deber de difusión

@@ -1,0 +1,2 @@
+Artículo Noveno. El Ejecutivo Estatal, por conducto de la Secretaría, a partir de la entrada en vigor de la presente Ley transferirá los bienes muebles e inmuebles, recursos materiales y humanos, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas que pasaran a formar parte del SATEG. Para tales efectos, se deberán formalizar las actas de entrega-recepción correspondientes, dentro de los 30 días naturales siguientes a la entrada en vigor de la presente Ley.
+Derechos de los trabajadores

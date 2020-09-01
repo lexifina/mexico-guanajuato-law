@@ -1,0 +1,2 @@
+Artículo Séptimo. Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Secretaría que pasarán a formar parte del SATEG o los recursos administrativos interpuestos en contra de actos o resoluciones de dichas unidades administrativas, se seguirán tramitando ante el SATEG y, en su caso, serán resueltos por él mismo, cuando se encuentren vinculados con la materia objeto de la presente Ley.
+Juicios en trámite

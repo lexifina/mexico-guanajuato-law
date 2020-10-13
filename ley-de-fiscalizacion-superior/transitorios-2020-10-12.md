@@ -1,0 +1,4 @@
+P.O. 12 DE OCTUBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 223, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO, Y SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 12 DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.

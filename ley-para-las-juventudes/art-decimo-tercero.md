@@ -1,0 +1,2 @@
+Artículo Décimo Tercero. Para todos los efectos legales correspondientes, el Instituto a que alude el presente Decreto, se entenderá referido al Instituto de la Juventud Guanajuatense, y el Instituto de Financiamiento e Información para la Educación, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+Asignación de recursos

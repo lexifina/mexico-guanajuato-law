@@ -1,0 +1,3 @@
+Artículo Duodécimo. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+El Instituto de Financiamiento e Información para la Educación y el Instituto de la Juventud Guanajuatense continuarán ejerciendo sus atribuciones, hasta el acto formal de entrega-recepción.
+Referencias

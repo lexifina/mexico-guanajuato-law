@@ -1,0 +1,4 @@
+Artículo Octavo. El Instituto deberá quedar conformado e instalado dentro de los sesenta días siguientes a la entrada en vigencia del presente Decreto, una vez concluidos los procesos de entrega recepción.
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el titular del Poder Ejecutivo designará previamente, a la persona de la sociedad civil que fungirá como Presidente del Consejo Directivo del Instituto y a los representantes a que se refieren las fracciones XIII, XIV y XV del artículo 79 de la Ley que se expide mediante el presente Decreto; así como a la persona titular de su Dirección General.
+Una vez designadas las personas que desempeñarán dichos cargos, el Instituto quedará instalado en la fecha en que el Consejo Directivo celebre su primera sesión.
+Facultamiento a la persona que se designe en la Dirección General del Instituto

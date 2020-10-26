@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE ABRIL DE 2020)
+Artículo 304 H. El Tribunal o Juzgado proveerá la correcta integración del proceso administrativo, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia en los casos que ésta haya sido procedente.
+En el caso de que hayan sido ofrecidas testimoniales y el testigo no ocurra a la diligencia, el oferente deberá acreditar la imposibilidad para asistir en la propia audiencia, misma que será calificada de inmediato y hecho del conocimiento el acuerdo respectivo al promovente, siendo que de calificarse justificada se señalará fecha para su desahogo en un plazo de tres días hábiles o, en su caso, declarada desierta.
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución y, en su caso, se dará vista a los interesados para que en el plazo de tres días expresen lo que a su derecho convenga.

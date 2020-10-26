@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE ABRIL DE 2020)
+Artículo 304 G. Contestada la demanda, su ampliación o, en su caso, transcurrido el plazo para contestarla, el Tribunal o el Juzgado respectivo señalará, si existen pruebas pendientes de desahogo, día y hora para la celebración de una audiencia, dentro de los quince días siguientes, en la que se desahogarán las pruebas, salvo la inspeccional y la pericial que deberán desahogarse antes de la audiencia.

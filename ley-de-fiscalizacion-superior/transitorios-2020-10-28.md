@@ -1,0 +1,5 @@
+P.O. 28 DE OCTUBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 235 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO Y DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.
+Artículo Tercero. Las disposiciones previstas en el artículo 74 Bis de la Ley de Fiscalización Superior del Estado de Guanajuato que refieren a las responsabilidades civiles estarán vigentes hasta en tanto concluyan los procesos correspondientes.

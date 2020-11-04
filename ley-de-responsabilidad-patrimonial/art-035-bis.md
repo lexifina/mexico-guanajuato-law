@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)
+Artículo 35 Bis.- Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que, por su monto, no satisfagan al interesado podrán impugnarse mediante recurso de revisión en vía administrativa o bien, directamente por vía jurisdiccional ante el Tribunal de Justicia Administrativa del Estado de Guanajuato.
+El recurso se interpondrá mediante escrito con la expresión de agravios, ante el Tribunal de Justicia Administrativa del Estado de Guanajuato, dentro de los diez días hábiles siguientes a aquél en que surta los efectos la notificación respectiva. Si el escrito mencionado no contiene expresión de agravios, se declarará desierto el recurso.

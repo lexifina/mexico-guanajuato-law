@@ -9,5 +9,6 @@ Artículo 214-a.- A quien empleando cualquier medio y sin el consentimiento de q
 Las sanciones se aumentarán de una mitad del mínimo a una mitad del máximo de las señaladas en el párrafo anterior cuando el sujeto activo:
 I.- Se valga de la homonimia para usurpar la identidad.
 II.- Se aproveche la igualdad física o genética con el sujeto pasivo.
-III.- Tenga experiencia en las ramas tecnológicas o de ingeniería, o se aproveche de su profesión o empleo.
+(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)
+III.- Tenga conocimiento en las ramas tecnológicas o de ingeniería, o se aproveche de su profesión o empleo.
 IV.- Sea servidor público o empleado en cualquier institución bancaria, financiera o crediticia.

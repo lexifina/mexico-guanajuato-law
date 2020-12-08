@@ -8,6 +8,10 @@ VI. Evaluar, en materia ambiental, el programa estatal y establecer los lineamie
 VII. Elaborar y proponer al Ejecutivo del Estado el inventario de especies vegetales nativas;
 VIII. Emitir opiniones en el ámbito de su competencia, que le soliciten las autoridades federales, estatales y municipales;
 IX. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
+(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)
+IX bis. Asesorar a las autoridades municipales en la planeación, elaboración, capacitación, operación, ejecución y evaluación de los programas municipales de arbolado urbano;
+(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)
+IX bis 1. Apoyar técnicamente a las autoridades municipales en la planeación, elaboración, capacitación y evaluación de los programas municipales de arbolado urbano;
 X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 (ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)
 Atribuciones de la Secretaría en materia de vivienda

@@ -1,0 +1,6 @@
+P.O. 24 DE DICIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 300 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto iniciará su vigencia el 1 de enero de 2021, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. Las tasas contenidas en el artículo 2 de la Ley de Ingresos del Estado de Guanajuato para el Ejercicio Fiscal de 2020 se mantendrán vigentes hasta el 31 de diciembre de 2020.
+La tasa del Impuesto sobre Nóminas contenida en el artículo 10, entrará en vigor el 1 de enero de 2022. Durante el ejercicio fiscal de 2021 se aplicará la tasa del 2.3 por ciento.
+Artículo Tercero. Las disposiciones de los artículos 37-A y 37-B contenidas en el presente Decreto entrarán en vigor el 1 de abril de 2021, periodo en el cual el Servicio de Administración Tributaria del Estado de Guanajuato, SATEG deberá emitir las disposiciones de carácter general acorde a lo establecido en el artículo 37-B y realizar las adecuaciones de tipo operativo.

@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 26 DE ENERO DE 2021)
+Artículo 70 Ter.- El control presupuestario en las dependencias y entidades se sujetará a las políticas y disposiciones generales que determine la Secretaría. Las dependencias y entidades, con base en dichas políticas y disposiciones, realizarán las siguientes acciones:
+I. Los titulares de las dependencias y entidades vigilarán la forma en que las estrategias básicas y los objetivos de control presupuestario sean conducidas y alcanzados. Asimismo, deberán atender los informes que en materia de control y auditoría que les sean turnados; de igual forma vigilarán y se responsabilizarán de la implementación de las medidas preventivas y correctivas;
+II. Los subsecretarios o equivalentes de las dependencias, así como los directores generales o equivalentes de las entidades, encargados de la administración interna, definirán las medidas de implementación de control presupuestario; tomarán las acciones para corregir las deficiencias detectadas; y
+III. Los servidores públicos que realicen registros dentro del sistema que controle las operaciones presupuestarias, serán responsables dentro del ámbito de su competencia.
+Los poderes Legislativo y Judicial, los ayuntamientos, así como los organismos autónomos establecerán sistemas de control presupuestario, observando en lo conducente lo dispuesto en las fracciones anteriores.

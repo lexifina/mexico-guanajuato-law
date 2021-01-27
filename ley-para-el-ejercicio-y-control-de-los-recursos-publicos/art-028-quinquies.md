@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 26 DE ENERO DE 2021)
+Artículo 28 Quinquies.- El proyecto de Presupuesto de Egresos se presentará y aprobará, cuando menos, conforme a las siguientes clasificaciones:
+I. La administrativa, la cual agrupa a las previsiones de gasto conforme a los ejecutores de gasto; mostrará el gasto sin incluir las amortizaciones de la deuda en términos de ramos y entidades con sus correspondientes unidades responsables;
+II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que por disposición legal le corresponden a los ejecutores de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, indicadores, objetivos y metas. Permitirá conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario; y
+III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos, pensiones y jubilaciones, y participaciones.

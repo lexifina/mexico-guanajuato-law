@@ -5,5 +5,9 @@ II.- Conciliables: las personas físicas o jurídicas que aceptan participar en 
 III.- Interesados: las personas físicas o jurídicas, con intereses en controversia, que acepten participar en mediación y conciliación para resolver esa controversia;
 IV.- Invitado: la persona física o jurídica que a petición del solicitante es invitada por el mediador y conciliador para que acuda a participar en el procedimiento de mediación y conciliación;
 V.- Mediables: las personas físicas o jurídicas que aceptan participar en el procedimiento de mediación;
-VI.- Sede: cualquiera de las sedes regionales o itinerantes con las que cuente el Centro o el Ministerio Público; y
-VII.- Solicitante: las personas físicas o jurídicas que estén en controversia y que acuden ante el Centro o ante el Ministerio Público para iniciar un procedimiento de mediación y conciliación.
+(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2020)
+VI.- Mediación y conciliación en línea: realización de los procedimientos de mediación y conciliación a través del uso de video conferencia en tiempo real;
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)
+VII.- Sede: cualquiera de las sedes regionales o itinerantes con las que cuente el Centro; y
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)
+VIII.- Solicitante: las personas físicas o jurídicas que estén en controversia y que acuden ante el Centro para iniciar un procedimiento de mediación y conciliación.

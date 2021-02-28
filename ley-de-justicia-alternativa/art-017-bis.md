@@ -1,8 +1,4 @@
 (ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2011)
 SECCIÓN SEGUNDA
 PROCEDIMIENTO ANTE EL MINISTERIO PÚBLICO
-(ADICIONADO, P.O. 21 DE JUNIO DE 2011)
-Artículo 17 Bis.- En materia penal, la mediación y la conciliación se realizarán en los siguientes momentos:
-I.- Antes de la presentación de la denuncia o querella podrán ser realizadas ante un agente del Ministerio Público mediador y conciliador o por un mediador y conciliador oficial adscrito al Centro, quienes en lo conducente ajustarán su actuación al procedimiento regulado en esta Ley. En el primer caso, el convenio deberá ser ratificado ante un agente del Ministerio Público, quien lo calificará y aprobará; en el segundo supuesto, ante el Subdirector de la sede correspondiente;
-II.- Durante el periodo comprendido entre la presentación de la denuncia o la querella y el ejercicio de la acción penal, la mediación y la conciliación se realizará ante un agente del Ministerio Público mediador y conciliador. El convenio deberá ratificarse ante un agente del Ministerio Público a fin de que éste lo califique y, en su caso, lo apruebe;
-III.- Durante la etapa procesal comprendida entre el auto de vinculación a proceso y el auto de apertura de juicio oral, la mediación y la conciliación serán practicadas por un mediador y conciliador del Centro o por un mediador y conciliador privado certificado por el mismo. Cuando los interesados celebren un acuerdo restaurativo, éste será ratificado ante el Subdirector de la sede correspondiente del Centro quien remitirá un ejemplar al juzgado correspondiente para que, en su caso, sea calificado y aprobado.
+Artículo 17 Bis.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)

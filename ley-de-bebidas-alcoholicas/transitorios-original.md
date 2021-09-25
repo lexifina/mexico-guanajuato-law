@@ -14,8 +14,12 @@ En caso de que los titulares de las licencias, permisos o autorizaciones aludida
 Trámites y procedimientos pendientes de resolución
 Artículo Sexto. Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley se resolverán conforme a las disposiciones de la Ley que se abroga.
 Canje de licencias
-Artículo Séptimo. Los titulares de las licencias otorgadas durante la vigencia de la Ley que se abroga deberán realizar el canje respectivo durante los siete meses posteriores al inicio de la vigencia del presente ordenamiento, de conformidad con las disposiciones de carácter general que para tal efecto emita el Servicio de Administración Tributaria del Estado de Guanajuato.
-En caso de que los titulares no realicen el canje señalado en el párrafo anterior, las licencias quedarán canceladas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2021)
+Artículo Séptimo. Los titulares de las licencias otorgadas durante la vigencia de la Ley que se abroga deberán realizar el canje respectivo a más tardar el 30 de septiembre del ejercicio fiscal 2022, de conformidad con las disposiciones de carácter general que para tal efecto emita el Servicio de Administración Tributaria del Estado de Guanajuato.
+(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)
+En caso de que los titulares no realicen el canje señalado en el párrafo anterior, el SATEG podrá clausurar de manera parcial o total según corresponda, aquellos establecimientos que cuenten con licencias de funcionamiento emanadas al amparo de la abrogada Ley de Alcoholes para el estado de Guanajuato; en estos casos, a fin de levantar la clausura de que se trate, los titulares deberán llevar el canje respectivo.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 2021)
+Si al cabo de dos ejercicios fiscales posteriores a la culminación del programa sus titulares no realizaron el canje a que hace referencia el primer párrafo de este artículo las licencias quedarán canceladas. De ser así, se deberá llevar a cabo el trámite para el otorgamiento de una nueva licencia.
 El canje al que hace referencia el presente artículo será gratuito.
 Suscripción de instrumentos jurídicos
 Artículo Octavo. Los instrumentos jurídicos a los que hace referencia el artículo 46 de la presente Ley podrán ser suscritos dentro de los noventa días posteriores a la entrada en vigor de la presente Ley, dejando sin efectos los que se hayan suscrito con fundamento en la Ley que se abroga.

@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 9 DE ABRIL DE 2018)
-Artículo 57-A.- Las Compatibilidades de los usos y destinos de las Zonas forestales serán las marcadas en la Tabla 1 del presente Código y en el Manual Técnico de Usos de (sic) suelo.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+Artículo 57-A.- Las Compatibilidades de los usos y destinos de las Zonas forestales: forestal de restauración con usos mixtos (Fi), forestal de aprovechamiento con usos mixtos (F2), forestal del conservación y aprovechamiento restringido (F3-A), forestal de aprovechamiento restringido (F3-13), forestal de conservación (F4) serán las marcadas en las Tablas i y 2 del Anexo Único del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, denominado Manual Técnico de Usos del Suelo.

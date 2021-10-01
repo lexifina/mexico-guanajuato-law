@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 6 DE MAYO DE 2014)
-Artículo 128-F.- Culminado el análisis respectivo y recibida la factibilidad de servicios por parte del SAPAL, el IMPLAN procederá a someter el proyecto de resolución a consideración del H. Ayuntamiento, por medio de la comisión correspondiente. Aprobado el proyecto, el IMPLAN notificará al solicitante y a la Dirección el contenido de la resolución para los trámites correspondientes.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)
+Artículo 128-F.- Culminado el análisis respectivo y recibido el dictamen técnico de factibilidad por parte del SAPAL, el IMPLAN procederá a someter la asignación de uso de suelo a consideración del H. Ayuntamiento, por medio de la comisión correspondiente. Aprobada la asignación de uso de suelo, el IMPLAN la notificará al solicitante y a la Dirección.

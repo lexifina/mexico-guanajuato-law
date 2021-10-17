@@ -1,0 +1,4 @@
+P.O. 19 DE JULIO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+PRIMERO. El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+SEGUNDO. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.

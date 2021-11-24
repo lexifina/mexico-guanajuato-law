@@ -14,6 +14,8 @@ Para todos los efectos legales correspondientes, las referencias al Instituto de
 Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
 (F. DE E., P.O. 10 DE OCTUBRE DE 2018)
 Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto de Ecología del Estado y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales· y financieros que integran el patrimonio del organismo que se extingue.
+(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)
+La Secretaría de Finanzas, Inversión y Administración llevará a cabo la liquidación de la Comisión de Vivienda del Estado de Guanajuato, para lo cual establecerá las bases bajo las cuales se desarrollará este proceso.
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.

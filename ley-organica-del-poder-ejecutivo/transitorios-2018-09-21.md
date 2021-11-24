@@ -18,3 +18,5 @@ Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Rec
 (F. DE E., P.O. 4 DE OCTUBRE DE 2018)
 Artículo Séptimo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto de Ecología del Estado, del Instituto de Movilidad del Estado de Guanajuato, de la Comisión de Vivienda del Estado de Guanajuato y del Instituto Estatal de Atención Al Migrante Guanajuatense. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
 Los asuntos que se encuentren en trámite al momento de la extinción de las entidades referidas en este artículo, serán resueltos por las secretarías correspondientes.
+(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)
+La Secretaría de Finanzas, Inversión y Administración llevará a cabo la liquidación de la Comisión de Vivienda del Estado de Guanajuato, para lo cual establecerá las bases bajo las cuales se desarrollará este proceso.

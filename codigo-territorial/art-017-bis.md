@@ -13,5 +13,5 @@ IX bis. Asesorar a las autoridades municipales en la planeación, elaboración, 
 (ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)
 IX bis 1. Apoyar técnicamente a las autoridades municipales en la planeación, elaboración, capacitación y evaluación de los programas municipales de arbolado urbano;
 X. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
-(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)
-Atribuciones de la Secretaría en materia de vivienda
+(REFORMADO SU ACÁPITE, P.O. 23 DE NOVIEMBRE DE 2021)
+Atribuciones de la Secretaría de Desarrollo Social y Humano en materia de vivienda

@@ -11,7 +11,8 @@ g) Expedir las licencias, permisos y autorizaciones, derivado de los supuestos y
 h) Conducir la política estatal de combate al cambio climático;
 i) Proponer el establecimiento de áreas naturales protegidas y promover para su administración y vigilancia, la participación de autoridades federales, municipales, universidades, centros de investigación y la sociedad civil en general;
 j) Fomentar el desarrollo y uso de la tecnología para la protección y en su caso, el aprovechamiento sustentable de los recursos naturales, así como para el uso de energías limpias;
-k) Elaborar estudios de riesgo ambiental y coordinar los estudios, trabajos y servicios meteorológicos y climatológicos, así como los estudios hidrológicos e hidrogeológicos que realice el organismo estatal del agua de Guanajuato;
+(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)
+k) Elaborar estudios de riesgo ambiental y coordinar los estudios, trabajos y servicios meteorológicos y climatológicos;
 l) Coordinar y ejecutar proyectos de formación, capacitación y actualización dirigidos a la mejora de la gestión ambiental;
 m) Coadyuvar con las autoridades municipales en el diseño de programas que garanticen la prestación de los servicios públicos que protejan, y en su caso, remedien el daño al medio ambiente;
 n) Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
@@ -27,10 +28,11 @@ f) Promover en el ámbito de su competencia, un desarrollo urbano ordenado de la
 g) Participar en el ámbito de su competencia en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que se establezca en el Plan Estatal de Desarrollo y los programas que de este deriven;
 h) Promover la celebración de convenios de colaboración con los municipios en materia urbana;
 i) Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos que se dispongan para tal efecto;
-j) Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios;
-k) Promover el estudio y análisis de la situación en que se encuentran los diversos fraccionamientos y asentamientos humanos que existen en el estado;
-l) Promover y vigilar en coordinación con los ayuntamientos del Estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
-m) Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación de los municipios;
-n) Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos; y
-ñ) Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; y
+j) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)
+k) Promover el estudio y análisis de la situación ambiental, hídrica y de ordenamiento territorial en que se encuentran los centros de población en el estado;
+l) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+m) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+n) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+ñ) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
 III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidado que le asigne legalmente el Gobernador del Estado.

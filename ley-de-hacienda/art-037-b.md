@@ -16,6 +16,8 @@ IV. La información deberá presentarse mensualmente a más tardar el día diez 
 V. Conservar como parte de su contabilidad la documentación que demuestre que efectuaron la retención y entero del impuesto cedular correspondiente.
 Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las disposiciones de carácter general que para tal efecto emita el SATEG.
 El SATEG podrá incorporar al Registro Estatal de Contribuyentes, a los sujetos obligados en los términos de los artículos 37-A y el presente artículo, que tenga registrados el Servicio de Administración Tributaria, en términos de la colaboración en la materia.
-Sección V
-Impuesto Cedular por Enajenación de Bienes Inmuebles
-Objeto y sujetos del impuesto
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2021)
+Sección IV Bis
+Régimen Simplificado de Confianza
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)
+Contribuyentes sujetos del Régimen

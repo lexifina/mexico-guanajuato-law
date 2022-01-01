@@ -1,0 +1,6 @@
+Artículo 37-C. Los contribuyentes personas físicas que tributen ante el Registro Federal de Contribuyentes en el régimen previsto en la Sección IV, Capítulo II, Título IV, de la Ley del Impuesto sobre la Renta, enterarán los impuestos cedulares por las actividades previstas en el artículo 18, fracciones I, II o III de la presente Ley, en términos de la presente Sección.
+Los contribuyentes que tributen en el Régimen Simplificado de Confianza contemplado en esta Sección y que realicen más de una de las actividades señaladas en el artículo 18 fracciones I, II y III de la presente Ley, deberán acumular la totalidad de los ingresos para el cálculo y entero correspondiente.
+Asimismo, los contribuyentes que realicen actividades agrícolas, ganaderas, silvícolas o pesqueras tributarán en términos de la presente Sección, cuando tributen ante el Registro Federal de Contribuyentes en el Régimen Simplificado de Confianza; en caso contrario, deberán tributar de acuerdo con lo previsto en la Sección IV de este Capítulo.
+Los contribuyentes a que hace mención el párrafo anterior, podrán aplicar el beneficio establecido en el penúltimo párrafo del artículo 113-E de la Ley del Impuesto sobre la Renta.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)
+Determinación del impuesto

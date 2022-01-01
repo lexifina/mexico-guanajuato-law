@@ -6,7 +6,7 @@ IV. Dictar los acuerdos necesarios para el mantenimiento y renovación del parqu
 V. Instrumentar en coordinación con otras dependencias y con los municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, a través de la formación de una conciencia social de los problemas peatonales y viales y una cultura urbana en la población;
 VI. En el ámbito de su competencia, promover servicios de transporte público de personas que consideren las necesidades de las mujeres y los lugares a los que viajan, así como módulos de atención a mujeres violentadas en el servicio;
 VII. Regular los requisitos para el tránsito en las carreteras, caminos y áreas de jurisdicción estatal;
-VIII. Expedir las licencias y permisos para conducir en el Estado con apego a lo que sobre el particular establece esta Ley y su reglamento;
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 IX. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionadas con el servicio público y especial de transporte;
 X. Fungir como consultor técnico de la administración pública estatal sobre los asuntos vinculados al servicio público y especial de transporte, realizando los diagnósticos, propuestas, análisis y estudios técnicos correspondientes;
 XI. Promover y proteger la libre concurrencia y la libre competencia, así como prevenir y evitar los monopolios y las prácticas monopólicas;

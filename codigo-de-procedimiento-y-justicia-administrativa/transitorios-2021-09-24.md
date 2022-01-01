@@ -1,0 +1,5 @@
+P.O. 24 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 346 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 3 DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2022, previa su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones vigentes a la fecha de inicio de los respectivos procesos contenciosos administrativos.
+Artículo Tercero. En tanto el presente Decreto entre en vigor, el Tribunal de Justicia Administrativa del Estado de Guanajuato realizará las acciones que garanticen tanto la difusión de su contenido, como la capacitación de su personal.

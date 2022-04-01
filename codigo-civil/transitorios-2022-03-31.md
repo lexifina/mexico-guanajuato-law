@@ -1,0 +1,3 @@
+P.O. 31 DE MARZO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 68 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV; SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III; Y SE ADICIONA UN ÚLTIMO PÁRRAFO, TODOS DEL ARTÍCULO 497 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.

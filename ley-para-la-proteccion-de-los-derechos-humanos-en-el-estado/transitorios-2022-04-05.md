@@ -1,0 +1,3 @@
+P.O. 5 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 67 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

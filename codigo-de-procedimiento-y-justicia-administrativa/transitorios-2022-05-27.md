@@ -1,0 +1,3 @@
+P.O. 27 DE MAYO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 73 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN III; Y 5, FRACCIÓN II, DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

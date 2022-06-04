@@ -16,5 +16,7 @@ XIV. Establecer y promover políticas, planes y acciones tendientes a mejorar la
 XV. En coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, promover, impulsar y fomentar sistemas de transporte y medios alternos de movilidad que utilicen los avances tecnológicos y científicos, a través de eficiencia energética y tendientes a reducir emisiones atmosféricas, acústicas y gases de efecto invernadero, promoviendo el mantenimiento y la preservación de los ya existentes;
 XVI. Realizar todas aquellas acciones tendientes a que el servicio público y el especial de transporte, además de llevarse a cabo con eficiencia, se proporcione con calidad, garantice la seguridad de peatones, usuarios de la vialidad y los derechos de los permisionarios y concesionarios;
 XVII. Efectuar la revisión y control administrativo de los expedientes de las concesiones y permisos del servicio público y especial de transporte; y
-XVIII. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
+(ADICIONADA, P.O. 3 DE JUNIO DE 2022)
+XVIII. Llevar el registro y control de los vehículos destinados a la prestación del servicio de transporte privado en el ámbito de su competencia; y
+XIX. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
 Facultades de los jefes de oficina regional de movilidad

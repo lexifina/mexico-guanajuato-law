@@ -1,0 +1,6 @@
+P.O. 21 DE JULIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 86 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN V, 42, 44, 50 Y 51; SE ADICIONAN LOS ARTÍCULOS 42 BIS, 44 BIS, 44 TER, 50 BIS, 50 TER, 50 QUÁTER, 50 QUINQUIES, 50 SEXIES, 50 SEPTIES, 50 OCTIES, 50 NONIES, 50 DECIES, 50 UNDECIES, 50 DUODECIES, Y 51 BIS; Y SE DEROGAN LOS ARTÍCULOS 45, 46, 47, 48 Y 49, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. Dentro de un término que no exceda de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las conducentes adecuaciones reglamentarias o normativas diversas para la debida organización y consecución del presente Decreto.
+Artículo Tercero. Las autoridades correspondientes deberán desarrollar los programas de capacitación necesarios para dar cumplimiento al presente Decreto.
+Artículo Cuarto. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento del presente Decreto.

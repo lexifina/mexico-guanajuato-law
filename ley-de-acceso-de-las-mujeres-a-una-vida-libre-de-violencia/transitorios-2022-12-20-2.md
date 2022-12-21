@@ -1,0 +1,3 @@
+P.O. 20 DE DICIEMBRE DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 117, SE ADICIONA UNA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

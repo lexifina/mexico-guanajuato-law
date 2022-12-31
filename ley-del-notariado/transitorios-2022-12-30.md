@@ -1,0 +1,6 @@
+P.O. 30 DE DICIEMBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 172, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. El Poder Ejecutivo contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los instrumentos normativos o administrativos, conforme a lo dispuesto en éste.
+Artículo Tercero. Los interesados en presentar el examen de aspirante a notario que cuenten por lo menos con un año de prácticas en alguna de las notarías del Estado de Guanajuato, se les reconocerán dichas prácticas para efectos del cumplimiento del requisito a que se refiere la fracción IX del artículo 11-A.
+Artículo Cuarto. Para los efectos de la aplicación de las disposiciones contenidas en el presente Decreto, el primer procedimiento que se efectúe será el correspondiente para la obtención de la calidad de aspirante a notario. Para tal efecto, la Secretaría de Gobierno emitirá la convocatoria pública y abierta en los términos del artículo 11-B, observándose en lo conducente, lo dispuesto en el Artículo Tercero transitorio.

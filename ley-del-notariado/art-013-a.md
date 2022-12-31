@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)
+Artículo 13-A. La Secretaría de Gobierno podrá implementar mecanismos para proporcionar preparación básica en el examen de aspirante a notario y para el examen de oposición para la obtención del fíat, con la finalidad de garantizar un nivel jurídico adecuado, así como calidad personal y social del servicio notarial, con la colaboración de las autoridades y organizaciones públicas o privadas.

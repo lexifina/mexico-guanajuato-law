@@ -1,0 +1,3 @@
+Artículo 6 Bis. La Alerta de Violencia de Género contra las Mujeres: El conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su derecho a una vida libre de violencias.
+(ADICIONADO, P.O. 14 DE ABRIL DE 2023)
+Objetivos

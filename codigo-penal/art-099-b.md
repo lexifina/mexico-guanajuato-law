@@ -5,4 +5,5 @@ II.- El pago del daño material causado, incluyendo el de los tratamientos curat
 III.- El pago del daño moral;
 IV.- La indemnización de los perjuicios ocasionados;
 V.- El pago de los alimentos caídos en términos del Código Civil para el Estado de Guanajuato, en el caso del artículo 215; y
-VI.- El pago del valor de las obras necesarias para introducir los servicios básicos, el de los lotes que se encuentren afectados por el Plan de Desarrollo Urbano Municipal y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262.
+(REFORMADA, P.O. 20 DE ABRIL DE 2023)
+VI.- El pago del valor de las obras necesarias para introducir los servicios básicos; el de los lotes que se encuentren afectados de acuerdo con el Código Territorial para el Estado y los Municipios de Guanajuato, los planes, o los programas estatal o municipal de desarrollo urbano y ordenamiento ecológico territorial; y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262 de este Código. El pago deberá ser realizado a la administración pública municipal del lugar en donde se ubique el inmueble.

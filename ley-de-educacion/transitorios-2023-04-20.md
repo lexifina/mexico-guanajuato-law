@@ -1,0 +1,3 @@
+P.O. 20 DE ABRIL DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 194 MEDIANTE EL QUE SE REFORMAN LOS ARTÍCULOS 77 A 87, QUE CONFORMAN LA SECCIÓN I, "EDUCACIÓN ESPECIAL" Y 88 A 91 QUE INTEGRAN LA SECCIÓN II, "EDUCACIÓN INDÍGENA" DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+Artículo único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

@@ -1,2 +1,3 @@
+(DEROGADO TERCER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)
 (ADICIONADO, P.O. 30 DE MAYO DE 2018)
 Artículo 262 Bis.- A quien propicie, induzca, permita o se beneficie de la ocupación irregular de áreas urbanizadas y las que se consideren no urbanizables en los centros de población, de conformidad con la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como la Ley General de Protección Civil y el Código Territorial para el Estado y los Municipios de Guanajuato, se le impondrá una pena de tres a nueve años de prisión y de cien a mil días multa.

@@ -6,5 +6,5 @@ I. Se realizarán en días y horas inhábiles;
 II. La propaganda electoral se abstendrá de contener cualquier elemento de identidad con el cargo público que ostenta, y
 (ADICIONADA, P.O. 26 DE MAYO DE 2017)
 III. No podrán hacer uso de los recursos públicos de los que dispongan por el ejercicio de sus funciones, para promoverse con fines electorales.
-Sección Cuarta
+Sección Quinta
 Del procedimiento para la ubicación de las mesas directivas de casillas

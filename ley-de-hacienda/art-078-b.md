@@ -2,5 +2,5 @@ Artículo 78-B. Para efectos del presente Capítulo serán aplicables de manera 
 (ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)
 Sección II
 Impuesto para Remediación Ambiental por la emisión de Gases Contaminantes
-(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+(REFORMADO, P.O. 31 DE MAYO DE 2023)
 Objeto del impuesto

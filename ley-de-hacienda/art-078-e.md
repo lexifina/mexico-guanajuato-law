@@ -1,22 +1,24 @@
-Artículo 78-E. Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencia de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes y registros a cargo de la Secretaría de Medio Ambiente y Ordenamiento Territorial o de los entes públicos municipales, con independencia de la denominación de estos.
-Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 78 C de esta Ley en Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la siguiente tabla:
-Clases Efecto
-InvernaderoComposición MolecularEquivalencia CO2
-Bióxido de carbonoCO21
-MetanoCH423
-Óxido nitrosoN2O296
-Hidrofluoro-carbonesHFC-2312,000
-HFC-1253,400
-HFC-134a1,300
-HFC-152a120
-HFC-227ea3,500
-HFC-236fa9,400
-HFC-4310mee1,500
-Perfluoro-carbonosCF45,700
-C2F611,900
-C4F108,600
-C6F149,000
-Hexafluoro de azufreSF622,200
+Artículo 78-E. La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual estatal o federal según corresponda.
+Para la determinación de la base, el contribuyente deberá obtener el bióxido de carbono equivalente en toneladas, para lo cual, realizará la conversión de los gases establecidos en el artículo 78-C, párrafo segundo de esta Ley, multiplicando la tonelada, fracción o ambas en su caso del tipo de gas emitido por el factor al que corresponda conforme a la siguiente tabla:
+Gases de Efecto InvernaderoComposición MolecularFactor
+Bióxido de CarbonoC021
+MetanoCH428
+Óxido nitrosoN2O265
+Carbono negroCN900
+Gases de Efecto InvernaderoComposiciónFactor
+Molecular
+HidrofluorocarbonosCHF312,400
+CHF2CF33,170
+CH2FCF31,300
+CH3CHF2138
+CF3CHFCF33,350
+CF3CH2CF38,060
+CF3CHFCHFCF2CF31,650
+PerfluorocarbonosCF46,630
+C2F611,100
+C4F109,200
+C6F147,910
+SF623,500
+Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
 (ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
 Causación y determinación del impuesto

@@ -1,5 +1,3 @@
-Artículo 78-W. Las autoridades fiscales podrán estimar presuntivamente la causación y el pago de este impuesto, salvo prueba en contrario, a partir de:
-I. Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente que los contribuyentes se encuentren obligados a presentar ante la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Ordenamiento Territorial, así como todos aquellos entes públicos estatales o municipales competentes en la materia, correspondiente al último ejercicio fiscal que se hubieran presentado; y
-II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar la cantidad de los residuos depositados o almacenados y las cantidades de los mismos, conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+Artículo 78-W. (DEROGADO, P.O. 31 DE MAYO DE 2023)
 (ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
 Obligaciones de los contribuyentes

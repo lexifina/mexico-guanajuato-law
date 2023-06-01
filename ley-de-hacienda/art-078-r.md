@@ -1,14 +1,19 @@
 Artículo 78-R. Para efectos de este impuesto se considera lo siguiente:
-I. Co-procesamiento. Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
-II. Disposición final. Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
-III. Evaluación del riesgo ambiental. Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
-IV. Inventario de residuos depositados o almacenados. Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos;
-V. Reciclado. Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
-VI. Residuo. Cualquier material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó, o que por sus características no pueda ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos que de ella deriven;
-VII. Residuos Peligrosos. Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
-VIII. Reutilización. Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
-IX. Riesgo. Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los sujetos obligados del impuesto establecido en esta Sección;
-X. Tóxico. La propiedad de una sustancia o mezcla de sustancias que pueden provocar efectos adversos en la salud o en los ecosistemas; y
-XI. Valorización. Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
-(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+(REFORMADA, P.O. 31 DE MAYO DE 2023)
+I. Gran generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas de residuos al año o su equivalente en otra unidad de medida;
+(REFORMADA, P.O. 31 DE MAYO DE 2023)
+II. Informe anual: Reporte integrado con el concentrado de las bitácoras, en el cual se manifieste los volúmenes de generación o las formas de manejo de los residuos de manejo especial;
+(REFORMADA, P.O. 31 DE MAYO DE 2023)
+III. Manifiesto de entrega, transporte y recepción de residuos de manejo especial: Documento oficial, por el que el generador mantiene un estricto control sobre el transporte y destino de sus residuos dentro del territorio nacional;
+(REFORMADA, P.O. 31 DE MAYO DE 2023)
+IV. Residuos de manejo especial: Aquellos generados en procesos productivos, actividades comerciales o de servicios, que no reúnen las características para ser considerados como peligrosos, así como residuos sólidos urbanos, salvo cuando estos últimos, sean producidos por grandes generadores;
+(REFORMADA, P.O. 31 DE MAYO DE 2023)
+V. Sitio de disposición final: Lugar donde se depositan los residuos sólidos urbanos y de manejo especial en forma definitiva, situados en el estado.
+VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+VII. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+VIII. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+IX. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+X. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+XI.(DEROGADA, P.O. 31 DE MAYO DE 2023)
+(REFORMADO, P.O. 31 DE MAYO DE 2023)
 Sujetos obligados

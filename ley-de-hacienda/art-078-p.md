@@ -5,8 +5,8 @@ II. Llevar un registro específico de las sustancias contaminantes mencionadas e
 III. Realizar las pruebas mensuales de muestreo previstas en las Normas Oficiales Mexicanas señaladas en esta Sección;
 IV. Presentar declaraciones provisionales mensuales y declaración anual; y
 V. Poner a disposición de las autoridades, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
-(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)
+(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2023)
 Sección IV
-Impuesto para Remediación Ambiental por el Depósito o Almacenamiento de Residuos
-(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+Impuesto para Remediación Ambiental por el Depósito de Residuos
+(REFORMADO, P.O. 31 DE MAYO DE 2023)
 Objeto del impuesto

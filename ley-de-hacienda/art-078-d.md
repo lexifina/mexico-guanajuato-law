@@ -1,0 +1,4 @@
+Artículo 78-D. Están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o las residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+Base del impuesto

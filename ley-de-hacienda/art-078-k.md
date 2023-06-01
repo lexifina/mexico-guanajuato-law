@@ -1,0 +1,4 @@
+Artículo 78-K. Están obligados al pago de este impuesto las personas físicas y morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+Base del impuesto

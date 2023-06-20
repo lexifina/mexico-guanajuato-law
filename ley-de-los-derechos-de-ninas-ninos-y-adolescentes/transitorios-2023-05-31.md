@@ -14,5 +14,6 @@ Procuradurías Auxiliares
 Artículo Sexto. Los municipios deberán realizar los ajustes necesarios, incluyendo la adecuación de sus estructuras orgánicas, a fin de garantizar el funcionamiento de una Procuraduría Auxiliar que tenga como único objeto la protección y restitución de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
 Nombramiento de las personas titulares de las Procuradurías Auxiliares
 Artículo Séptimo. El nombramiento de las personas titulares de las Procuradurías Auxiliares deberá realizarse en el plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto. Por única ocasión, las personas designadas conforme a este artículo transitorio durarán en su cargo tres años, pudiendo ser ratificadas por tres años más, en términos del artículo 98-1 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Guanajuato.
-Procesos de entrega recepción
+(F. DE E., P.O. 20 DE JUNIO DE 2023)
+Recursos presupuestales
 Artículo Octavo. Con la finalidad de dar cumplimiento a las obligaciones generadas con motivo de la entrada en vigor del presente Decreto, las autoridades estatal y municipales, deberán integrar, de manera progresiva en su presupuesto los recursos necesarios.

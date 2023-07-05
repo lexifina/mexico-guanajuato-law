@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE JULIO DE 2023)
+Artículo 3 bis. Las autoridades estatales y municipales en la materia impulsarán el uso y aprovechamiento de las tecnologías de la información y comunicaciones para facilitar la interacción con los ciudadanos a efecto de que estos puedan dirigir sus solicitudes, opiniones o comentarios, a través de los sistemas electrónicos de comunicación, así como obtener la atención o resolución de aquellas por los mismos canales.

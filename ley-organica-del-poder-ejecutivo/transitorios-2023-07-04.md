@@ -1,0 +1,3 @@
+P.O. 4 DE JULIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 207, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO".]
+Artículo Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, en los términos y alcances del artículo tercero transitorio del Decreto Legislativo número 213, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 169, segunda parte del 24 de agosto de 2020, con aplicabilidad a partir del periodo constitucional del Ejecutivo Estatal inmediato siguiente.

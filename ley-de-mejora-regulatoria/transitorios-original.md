@@ -24,3 +24,4 @@ Artículo Cuarto. Las disposiciones normativas vigentes en materia de impacto re
 Artículo Quinto. El Gobernador del Estado expedirá los reglamentos para el cumplimiento de la Ley, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma.
 Artículo Sexto. Los Consejos Municipales de Mejora Regulatoria deberán estar instalados en un término de noventa días, contados a partir de la entrada en vigor del presente Decreto.
 Artículo Séptimo. La integración de los consejeros señalados en las fracciones VI y VII del artículo 11 de esta Ley, se realizará de conformidad con el procedimiento que establezca el Reglamento de la Ley.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 206, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO".]

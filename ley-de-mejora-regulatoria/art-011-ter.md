@@ -2,5 +2,6 @@
 Artículo 11 ter. Los ayuntamientos deberán designar de los sectores social, económico y académico a los integrantes de los Consejos Municipales.
 Los cargos de los integrantes de los Consejos Municipales serán honoríficos por lo que no recibirán retribución, emolumento o compensación alguna en su desempeño.
 Su organización y funcionamiento se regulará de conformidad con el reglamento municipal correspondiente.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2023)
 Sección Cuarta
-Autoridades de Mejora Regulatoria
+Estrategia Estatal

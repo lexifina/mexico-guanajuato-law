@@ -1,0 +1,4 @@
+P.O. 10 DE AGOSTO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 214, MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 88 Y SE ADICIONA UN ARTÍCULO 52-1 Y UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 87 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+Inicio de vigencia
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.

@@ -1,0 +1,4 @@
+P.O. 15 DE NOVIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 228. MEDIANTE EL QUE SE REFORMAN EL ACTUAL PÁRRAFO PRIMERO, PASANDO ADEMÁS A SER PRIMERO Y SEGUNDO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO, TERCERO, Y CUARTO; PARA QUEDAR COMO TERCERO, CUARTO Y QUINTO; LA FRACCIÓN VI; Y EL ACTUAL PÁRRAFO CUARTO QUE PASA COMO QUINTO PÁRRAFO; Y SE ADICIONAN LAS FRACCIONES VII Y VIII, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VII PARA QUEDAR COMO FRACCIÓN IX; Y UN SEXTO PÁRRAFO, TODOS DEL ARTÍCULO 153-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.

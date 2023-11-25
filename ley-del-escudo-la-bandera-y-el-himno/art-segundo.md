@@ -1,0 +1,2 @@
+Artículo Segundo. La Comisión de Celebraciones por los 200 años de Guanajuato como Entidad Federativa, Libre y Soberana, creada por Decreto Gubernativo número 144, publicado en el Periódico Oficial del Gobierno del Estado número 108 Tercera Parte de 31 de mayo de 2023, definirá el procedimiento y pautas a seguir para la aprobación y establecimiento del Himno como Símbolo Oficial del Estado.
+Reglamentos de disposiciones complementarias

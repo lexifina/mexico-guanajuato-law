@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)
+Artículo 23-E. En el caso de que el notario auxiliar que solicite el Procedimiento de Homologación de la Función Notarial cumpla con los requisitos previstos por esta Ley, la Secretaría de Gobierno lo comunicará al Titular del Poder Ejecutivo para la expedición del fíat correspondiente. El notario auxiliar que haya obtenido el fíat deberá iniciar sus funciones en un plazo que no exceda de treinta días hábiles siguientes al otorgamiento de éste, habiendo cumplido previamente con lo dispuesto en el artículo 25 de esta Ley. En este supuesto, el notario auxiliar será titular de la notaría respectiva y sustituto definitivo del titular anterior.
+En el supuesto de que el notario auxiliar no cumpla con los requisitos del Procedimiento de Homologación de la Función Notarial, la unidad administrativa que corresponda de la Secretaría de Gobierno, en un plazo que no exceda de diez días hábiles, recogerá el protocolo correspondiente. El notario auxiliar terminará los actos pendientes en los términos del artículo 48-L.
+CAPÍTULO V
+Del ejercicio del notariado y de la prestación del servicio

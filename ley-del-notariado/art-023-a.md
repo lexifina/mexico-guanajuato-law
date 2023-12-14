@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2023)
+Artículo 23-A. En caso de terminación de la función notarial por los supuestos establecidos en las fracciones I, II, IV y V del artículo 107 de esta Ley, cuando en la notaría se encuentre un notario auxiliar en funciones, este último podrá acceder a la titularidad de la notaría en la que actúa, sujetándose al Procedimiento de Homologación de la Función Notarial en los términos establecidos en el presente Capítulo.

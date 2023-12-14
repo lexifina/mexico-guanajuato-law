@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 13 DE JULIO DE 2020)
-Artículo 48-M. En caso de separación, suspensión o terminación de la función notarial del notario titular, cesarán de inmediato las funciones del notario auxiliar, quedará sin efectos su licencia y la unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125 de esta Ley.
+(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)
+Artículo 48-M. En caso de separación, suspensión o terminación de la función notarial del notario titular, salvo por lo dispuesto en los artículos 23-A y 48-L, cesarán de inmediato las funciones del notario auxiliar, quedando sin efectos su licencia. La unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125 de esta Ley.

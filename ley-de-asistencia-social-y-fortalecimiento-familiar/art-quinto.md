@@ -1,0 +1,2 @@
+Artículo Quinto. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo segundo transitorio del presente Decreto.
+Reglamentación en el ámbito municipal

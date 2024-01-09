@@ -1,0 +1,2 @@
+Artículo 96 Bis. La Auditoría Superior promoverá la calidad en la ejecución de las obras de infraestructura pública que realicen los sujetos de fiscalización con recursos locales, o, en su caso, federales a través de la Unidad de Laboratorio de Obra Pública. Para ello adoptará las metodologías, procesos, mecanismos y herramientas tecnológicas que permitan la verificación de las especificaciones constructivas, estándares normativos y de calidad empleados en la obra pública.
+Requisitos para ser Auditor Especial o Director General

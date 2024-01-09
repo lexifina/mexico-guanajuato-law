@@ -3,4 +3,5 @@ TITULO PRIMERO
 FUNCIÓN DE LA FISCALIZACIÓN SUPERIOR
 Capítulo I
 Disposiciones Generales
+(REFORMADO, P.O. 8 DE ENERO DE 2024)
 Objeto de la ley

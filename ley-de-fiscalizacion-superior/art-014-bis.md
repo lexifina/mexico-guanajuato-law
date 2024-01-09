@@ -1,0 +1,3 @@
+Artículo 14 Bis. El sujeto de fiscalización podrá rechazar la designación del personal comisionado o habilitado para la ejecución del acto de fiscalización, cuando considere que existe un conflicto de interés, exponiendo las razones para ello.
+La presentación de la recusación se deberá realizar dentro de los tres días hábiles posteriores a la notificación de la orden de inicio o, en su caso, del instrumento mediante el cual se notifique la incorporación del personal al acto de fiscalización.
+Uso de medios electrónicos y firma electrónica

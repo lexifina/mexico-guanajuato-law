@@ -1,0 +1,3 @@
+Artículo 37 Bis. La Auditoría Superior informará al sujeto de fiscalización sobre los criterios que servirán de fundamento a sus opiniones y lo mantendrán al tanto de los objetivos, metodología y resultados de la función de fiscalización, debiendo dejar constancia en el expediente respectivo.
+(ADICIONADO, P.O. 8 DE ENERO DE 2024)
+Análisis de comprobantes fiscales digitales

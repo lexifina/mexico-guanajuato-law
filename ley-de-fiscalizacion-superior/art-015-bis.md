@@ -1,7 +1,12 @@
-Artículo 15 Bis. Se podrán realizar los actos de fiscalización, notificaciones y comunicaciones previstos en esta Ley, su Reglamento y normas complementarias, a través de medios electrónicos o digitales, mediante los mecanismos o herramientas que disponga la Auditoría Superior.
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)
+Artículo 15 Bis. La Auditoría Superior podrá realizar los actos de fiscalización previstos en esta Ley, por medios electrónicos, de manera presencial o mixtos, a través de las herramientas tecnológicas que para el efecto se disponga, de conformidad con la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios y demás normativa aplicable y complementaria.
+(ADICIONADO, P.O. 8 DE ENERO DE 2024)
+Para ello, se contará con el medio electrónico a través del cual, de manera enunciativa y no limitativa, se realizará la notificación de solicitudes de información preliminar, requerimientos, órdenes de auditoría, pliegos de observaciones y recomendaciones, informes de resultados y, en su caso, cualquier acción que resulte necesaria, las cuales constarán en documentos digitales.
 Las disposiciones relativas a los actos de fiscalización presenciales serán aplicables, en lo conducente, a los realizados a través de medios digitales o electrónicos, en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, el Reglamento del Poder Legislativo del Estado de Guanajuato para el Uso de Medios electrónicos y Firma Electrónica, así como en los lineamientos que para tal efecto emita la Auditoría Superior.
+(ADICIONADO, P.O. 8 DE ENERO DE 2024)
+Los sujetos de fiscalización podrán presentar solicitudes o darán atención a requerimientos de información de la Auditoría Superior, a través de documentos o archivos digitales enviados a través del medio electrónico o ejecutar las acciones que se requieran dentro del proceso de fiscalización.
 La Auditoría Superior facilitará, a los sujetos de fiscalización o particulares que deban intervenir en los actos de fiscalización, el acceso a los mecanismos o herramientas referidos en este artículo.
-Los actos de fiscalización, realizados en los términos precedentes, deberán conservarse electrónicamente y se proporcionará una copia de los mismos en archivo electrónico a quienes en ellos hayan intervenido, los que deberán guardar reserva sobre la información generada.
-Capítulo II
-Programa General de Fiscalización
-Programa General de Fiscalización
+(REFORMADO, P.O. 8 DE ENERO DE 2024)
+Los actos de fiscalización, realizados de manera electrónica, deberán conservarse en ese mismo formato y se proporcionará una copia en archivo electrónico a la persona con quien se atienda la diligencia; quien deberá guardar reserva sobre la información generada hasta en tanto el resultado sea aprobado por el Congreso.
+(ADICIONADO, P.O. 8 DE ENERO DE 2024)
+Acciones de fiscalización a través de medios electrónicos

@@ -1,0 +1,3 @@
+Artículo 75 Ter. La negativa injustificada a entregar información a la Auditoría Superior, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y las leyes penales aplicables.
+Cuando los servidores públicos y las personas físicas o morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por el Código Penal del Estado de Guanajuato.
+Cuantía

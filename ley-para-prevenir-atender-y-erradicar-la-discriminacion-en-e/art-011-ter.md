@@ -1,0 +1,2 @@
+Artículo 11 ter. Los poderes públicos del Estado, los ayuntamientos, las dependencias y entidades, así como los organismos autónomos, en el ámbito de sus competencias, tienen como obligación capacitar a su personal y procurar, fomentar e impulsar la capacitación de toda la población en materia de derechos humanos, igualdad, no discriminación y eliminación de todo tipo de estereotipos, prejuicios y estigmas.
+Acciones no discriminatorias

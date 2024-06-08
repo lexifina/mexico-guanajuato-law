@@ -1,0 +1,3 @@
+Artículo 1 Bis. En lo no previsto en la presente Ley, se aplicarán de manera supletoria la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, el Código Territorial para el Estado y los Municipios de Guanajuato, la Ley para la Gestión Integral de Residuos del estado y los Municipios de Guanajuato, la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato, la Ley de Protección Civil para el Estado de Guanajuato, la Ley de Planeación para el Estado de Guanajuato, la Ley de Fomento y Desarrollo Agrícola para el Estado de Guanajuato y demás ordenamientos vigentes en la materia.
+(REFORMADO, P.O. 7 DE JUNIO DE 2024)
+Glosario

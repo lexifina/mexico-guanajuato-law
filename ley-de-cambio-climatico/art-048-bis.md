@@ -1,0 +1,2 @@
+Artículo 48 bis. La política estatal de mitigación de cambio climático se instrumentará con base en el principio de gradualidad, que promueva el fortalecimiento de capacidades locales para mantener una tendencia hacia la reducción de emisiones de gases y compuestos de efecto invernadero con respecto a las Contribuciones Determinadas a Nivel Nacional y aquellas que por materia sean de su competencia, priorizando los sectores con mayor potencial de mitigación.
+Objetivos

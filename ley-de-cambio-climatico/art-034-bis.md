@@ -1,0 +1,2 @@
+Artículo 34 bis. La Presidencia a través de la Secretaría Técnica de la Comisión deberá convocar a sus integrantes por lo menos a dos reuniones al año, y en forma extraordinaria, cuando la naturaleza de algún asunto de su competencia así lo exija.
+Grupos de trabajo

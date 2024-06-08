@@ -1,0 +1,3 @@
+Artículo 65 octies. Deberá procurarse que todos los proyectos de infraestructura vial a implementar generen espacios públicos de calidad, respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad.
+(ADICIONADO, P.O. 7 DE JUNIO DE 2024)
+Espacios para personas peatonas y vehículos no motorizados

@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)
-Artículo 150-b.- Al responsable de lesiones en contra de personal profesional, técnico o auxiliar adscrito al sistema de salud, que presten sus servicios durante las declaratorias de contingencia o emergencia sanitaria formuladas por autoridad competente, se le aumentará la punibilidad en un tercio del mínimo a un tercio del máximo de la que correspondería de acuerdo con los artículos 143, 144, 145, 146, 147, 148 y 149 de este Código.
+Artículo 150 b.- (DEROGADO, P.O. 7 DE JUNIO DE 2024)

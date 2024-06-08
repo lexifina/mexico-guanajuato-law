@@ -23,8 +23,8 @@ VII.- Que se incinere o desmiembre su cuerpo;
 VIII.- Que el cuerpo sea depositado o arrojado en letrinas, fosas sépticas, basureros, o fosas clandestinas; o
 (REFORMADA, P.O. 13 DE JULIO DE 2020)
 IX.- Que su cuerpo sea expuesto o exhibido.
-(REFORMADO, P.O. 23 DE MAYO DE 2014)
-Al responsable de feminicidio se le impondrá de treinta a sesenta años de prisión y de trescientos a seiscientos días multa.
+(REFORMADO, P.O. 7 DE JUNIO DE 2024)
+Al responsable de feminicidio se le impondrá de treinta y cinco a sesenta años de prisión y de trescientos cincuenta a seiscientos días multa.
 (ADICIONADO, P.O. 23 DE MAYO DE 2014)
 Si concurre con el mismo u otro delito, se acumularán las penas que por cada uno se impongan. La de prisión no podrá exceder de setenta años.
 (REFORMADO, P.O. 15 DE NOVIEMBRE DE 2023)

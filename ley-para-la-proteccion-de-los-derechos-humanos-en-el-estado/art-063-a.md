@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 7 DE JUNIO DE 2024)
+Artículo 63-A.- Notificada la resolución de recomendación en términos del artículo 57 de esta Ley, y en caso de que se actualice lo previsto en las fracciones I y II del artículo 63 del presente ordenamiento, la Procuraduría emitirá acuerdo de no aceptación o de no cumplimiento, del que se correrá traslado a la autoridad a quien se dirigió la resolución de recomendación y se le adjuntará copia íntegra del expediente del que emanó la resolución.
+En el acuerdo de no aceptación o de no cumplimiento de la recomendación, la Procuraduría expondrá los motivos y fundamentos por los cuales se determinó la no aceptación o no cumplimiento. Hecho lo anterior, si lo estime pertinente, la Procuraduría procederá a formular la petición al Congreso del Estado a efecto de que este llame, en su caso, a comparecer a la autoridad a la que se dirigió la resolución de recomendación, a la autoridad responsable, o a ambas, en términos de la Ley Orgánica del Poder Legislativo.
+Capítulo Quinto
+Del Recurso

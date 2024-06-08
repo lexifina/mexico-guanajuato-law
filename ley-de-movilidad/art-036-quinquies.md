@@ -1,3 +1,1 @@
-Artículo 36 quinquies. La estructura, organización y funcionamiento de la Comisión Intersecretarial de Movilidad se determinará a través del reglamento de la Ley.
-(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)
-Grupos de trabajo
+Artículo 36 quinquies. (DEROGADO, P.O. 7 DE JUNIO DE 2024)

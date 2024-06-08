@@ -1,4 +1,3 @@
-(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)
 (ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)
 Artículo 221-a.- El delito a que se refiere el artículo anterior se perseguirá por querella excepto cuando:
 I.- La víctima sea menor de edad o incapaz;

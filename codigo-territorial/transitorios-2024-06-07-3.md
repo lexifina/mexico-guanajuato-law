@@ -1,0 +1,4 @@
+P.O. 7 DE JUNIO DE 2024.
+[N. DE E. TRASITORIO DEL "DECRETO LEGISLATIVO 315 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO, PASANDO EL VIGENTE PÁRRAFO TERCERO COMO QUINTO, AL ARTÍCULO 388 DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+Inicio de vigencia
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

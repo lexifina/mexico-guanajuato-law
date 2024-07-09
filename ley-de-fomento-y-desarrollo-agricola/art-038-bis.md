@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE JULIO DE 2024)
+Artículo 38 Bis. La Secretaría promoverá la creación y vigencia de distintivos comerciales que contribuyan a que las unidades de producción del sector agroalimentario incrementen su productividad, mediante el cumplimiento de las exigencias de inocuidad, responsabilidad social y ambiental de los mercados agroalimentarios, de conformidad con las Normas Oficiales Mexicanas y demás disposiciones legales aplicables en la materia.

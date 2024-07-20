@@ -1,0 +1,19 @@
+Artículos Transitorios
+Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Segundo. El Ejecutivo del Estado expedirá los reglamentos correspondientes en un plazo no mayor a ciento ochenta días hábiles, contados a partir de que entre en vigencia la presente Ley. Hasta la emisión de tales ordenamientos, continuarán aplicándose los emitidos con anterioridad al presente Decreto, en aquello que no se contravengan sus disposiciones.
+Los acuerdos y lineamientos y demás disposiciones de carácter general que hayan emitido previamente las autoridades educativas reguladas por la presente Ley podrán continuar su aplicación en lo que no contravenga a la misma.
+Tercero. Se derogan todas las disposiciones que se opongan a lo previsto en el presente ordenamiento.
+Cuarto. Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones normativas en los cuales se fundamentaron.
+Quinto. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal, a partir del ejercicio fiscal correspondiente sin detrimento de las acciones que se realicen con la entrada en vigencia del presente Decreto.
+Sexto. El Registro Digital a que se refiere el artículo 34, deberá estar operando a más tardar en ciento ochenta días hábiles a partir de la entrada en vigor del presente decreto.
+Séptimo. Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigencia del presente Decreto, se deberá armonizar el marco normativo de la Comisión Estatal para la Planeación de la Educación Superior, de conformidad con las disposiciones de esta Ley.
+Octavo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+Noveno. Las acciones a las que se refiere el artículo 86 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días hábiles siguientes a su entrada en vigor.
+Décimo. Las Instituciones públicas de educación superior podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo. Las autoridades educativas de la institución correspondiente deberán aplicar la normatividad de transparencia y rendición de cuentas sobre los recursos obtenidos en donación, de conformidad con las disposiciones aplicables.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 27 DE JUNIO DE 2024.- JOSÉ ALFONSO BORJA PIMENTEL.- DIPUTADO PRESIDENTE.- CUAUHTÉMOC BECERRA GONZÁLEZ.- DIPUTADO VICEPRESIDENTE.- KATYA CRISTINA SOTO ESCAMILLA.- DIPUTADA SECRETARIA.- MARTHA GUADALUPE HERNÁNDEZ CAMARENA.- DIPUTADA SECRETARIA.- RÚBRICAS.
+Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 5 de Julio de 2024.
+GOBERNADOR DEL ESTADO
+DIEGO SINHUE RODRÍGUEZ VALLEJO
+EL SECRETARIO DE GOBIERNO
+J. JESÚS OVIEDO HERRERA

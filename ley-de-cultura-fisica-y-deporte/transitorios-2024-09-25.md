@@ -1,0 +1,3 @@
+P.O. 25 DE SEPTIEMBRE DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 347, POR EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 2, Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 3; Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO".]
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

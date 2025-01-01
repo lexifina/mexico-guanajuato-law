@@ -1,0 +1,10 @@
+Artículo 51-D. Este impuesto se determinará de acuerdo con las siguientes tasas:
+I. 10 por ciento sobre las erogaciones que realicen las personas físicas o morales dentro del territorio del Estado que les permitan participar en juegos y sorteos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio electrónico o digital.
+El operador del establecimiento en el que se realicen los juegos y sorteos con apuestas o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos y sorteos con apuestas, al momento de recibir el pago correspondiente, y deberá enterarlo a la Secretaría mediante declaración, a más tardar el día veintidós del mes calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que este pueda recaudar el impuesto.
+El impuesto por erogaciones se causará en el momento en que el sujeto pague al operador del establecimiento los montos que le permitan participar en dichos juegos y sorteos con apuestas.
+Los operadores de los establecimientos en los que se realicen los juegos y sorteos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere esta fracción, están obligados a expedir comprobantes por cada erogación, en la que conste expresamente y por separado el importe recaudado; y
+II. 6 por ciento, sobre el monto de la percepción de premios dentro del territorio del estado derivados de la celebración de juegos y sorteos con apuestas, independientemente del lugar o medio donde se celebren.
+Para efectos de lo establecido en esta fracción, el impuesto será retenido por las personas que paguen los premios, quienes deberán enterarlo mediante declaración a la Secretaría, a más tardar el día veintidós del mes siguiente al que se realice la retención.
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)
+Obligaciones de los contribuyentes

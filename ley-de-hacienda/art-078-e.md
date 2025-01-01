@@ -1,4 +1,5 @@
-Artículo 78-E. La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual estatal o federal según corresponda.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)
+Artículo 78-E. La base de este impuesto son las emisiones directas de los gases de efecto invernadero establecidos en el presente artículo, expresadas en toneladas, fracción o ambas en su caso, generadas en las fuentes fijas por cada ejercicio fiscal, las cuales se calcularán de acuerdo con las metodologías establecidas por la autoridad competente en materia ambiental para el llenado de la Cédula de Operación Anual.
 Para la determinación de la base, el contribuyente deberá obtener el bióxido de carbono equivalente en toneladas, para lo cual, realizará la conversión de los gases establecidos en el artículo 78-C, párrafo segundo de esta Ley, multiplicando la tonelada, fracción o ambas en su caso del tipo de gas emitido por el factor al que corresponda conforme a la siguiente tabla:
 Gases de Efecto InvernaderoComposición MolecularFactor
 Bióxido de CarbonoC021
@@ -20,5 +21,5 @@ C4F109,200
 C6F147,910
 SF623,500
 Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
-(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)
 Causación y determinación del impuesto

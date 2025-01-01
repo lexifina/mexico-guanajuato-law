@@ -32,7 +32,8 @@ por gas natural
 202875
 202975
 203075
-Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley.
+(REFORMADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO 52, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO, P.O. 27 DE DICIEMBRE DE 2024)
+Al resultado que se obtenga de dicha reducción se adicionará a las emisiones generadas de bióxido de carbono equivalente por combustibles distintos al gas natural para conformar la base del impuesto, a las cuales se aplicará la cuota establecida en el artículo 78-F de esta Ley. Para el caso de los contribuyentes participantes del Sistema de Comercio de Emisiones se aplicará la cuota que resulte de la reducción establecida en la fracción III del artículo 78-Y de esta Ley.
 Reducción de la base del impuesto por la emisión de gases contaminantes
 Artículo Quinto. Para efectos del estímulo a que hace referencia el artículo 78-Y, fracción II será progresivamente, conforme a la siguiente tabla:
 Ejercicio fiscalPorcentaje máximo de
@@ -43,7 +44,8 @@ del impuesto
 202520
 202620
 202720
-Reducción de la base del impuesto por el depósito de residuos Artículo Sexto. Para efectos de la reducción a que hace referencia el artículo 78- Y, penúltimo párrafo, será progresivamente, conforme a la siguiente tabla:
+Reducción de la base del impuesto por el depósito de residuos
+Artículo Sexto. Para efectos de la reducción a que hace referencia el artículo 78- Y, penúltimo párrafo, será progresivamente, conforme a la siguiente tabla:
 Ejercicio fiscalPorcentaje máximo de
 reducción de la base
 del impuesto
@@ -52,7 +54,8 @@ del impuesto
 202520
 202620
 202720
-Contribuyentes participantes del Sistema de Comercio de Emisiones Artículo Séptimo. Los participantes del Sistema de Comercio de Emisiones, que opten por pagar el impuesto correspondiente al ejercicio fiscal de 2023 bajo el esquema de la tabla establecida en el artículo 78-Y, fracción III de esta Ley, deberán aplicar para la declaración anual del impuesto la siguiente tabla:
+Contribuyentes participantes del Sistema de Comercio de Emisiones
+Artículo Séptimo. Los participantes del Sistema de Comercio de Emisiones, que opten por pagar el impuesto correspondiente al ejercicio fiscal de 2023 bajo el esquema de la tabla establecida en el artículo 78-Y, fracción III de esta Ley, deberán aplicar para la declaración anual del impuesto la siguiente tabla:
 Límite inferior TonLímite superiorImpuesto a
 bióxido deTon bióxido depagar
 carbonocarbono

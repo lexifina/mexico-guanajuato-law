@@ -2,5 +2,5 @@ Artículo 78-N. El impuesto se pagará mediante pagos provisionales mensuales a 
 Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo para personas morales y unidades económicas y en abril para personas físicas del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables.
 Con el objetivo de corroborar la información de las declaraciones en la determinación de la base, las autoridades fiscales podrán considerar los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
-(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)
 Estimación presuntiva

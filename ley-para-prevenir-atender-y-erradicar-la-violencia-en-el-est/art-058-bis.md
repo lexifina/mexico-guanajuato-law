@@ -10,7 +10,7 @@ VII. Dinámicas de diversas formas de violencia, según sus tipos y modalidades,
 VIII. Servicios disponibles a nivel municipal, estatal y nacional;
 IX. Técnicas de intervención psicológica y nuevos métodos terapéuticos; y
 X. Técnicas de orientación civil y penal, y en caso de litigio.
-(REFORMADO, P.O. 1 DE AGOSTO DE 2019)
-El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses podrán brindar al personal municipal competente para la atención de la violencia la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
+(REFORMADO, P.O. 25 DE JUNIO DE 2025)
+El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y la Secretaría de las Mujeres podrán brindar al personal municipal competente para la atención de la violencia la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
 (ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)
 Atención femenina

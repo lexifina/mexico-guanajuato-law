@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 57 Ter. El co-procesamiento y la incineración de residuos se restringirán a las condiciones que se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas.

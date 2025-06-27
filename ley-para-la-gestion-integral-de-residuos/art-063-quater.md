@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 63 Quáter. La Secretaría y los Ayuntamientos en el ámbito de sus competencias, deberán determinar el tipo de residuos factibles para someterlos a un co-procesamiento, con la finalidad de aprovechar los residuos como sustitutos de materias primas y combustibles no renovables.
+Para tal efecto, deberán distinguir los residuos que, por sus características, volúmenes de generación y acumulación, problemas ambientales e impactos económicos y sociales que ocasiona su manejo inadecuado, pueden ser objeto de co-procesamiento.
+Dependiendo del tipo de residuos se establecerán restricciones al co-procesamiento mediante combustión de aquellos susceptibles de ser valorizados mediante otros procesos, cuando éstos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles. En tales casos, se promoverán acciones que tiendan a fortalecer la infraestructura de valorización de estos residuos por otros medios.

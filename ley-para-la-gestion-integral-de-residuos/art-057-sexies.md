@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 57 Sexies. La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán promover la reducción de la generación, valorización y gestión integral de los residuos sólidos urbanos y de manejo especial, a fin de proteger la salud y prevenir y controlar la contaminación ambiental producida por su manejo, de conformidad con lo establecido en esta Ley y la Ley General.

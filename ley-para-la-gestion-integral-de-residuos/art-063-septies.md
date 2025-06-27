@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 63 Septies. Las áreas ocupadas por las celdas de confinamiento de los residuos, al igual que el resto de las instalaciones de los rellenos sanitarios, clausuradas debidamente de conformidad con la normatividad aplicable, podrán ser aprovechadas para cualquier tipo de proyecto compatible con los usos de suelo autorizados en la zona, siempre y cuando se garantice la eliminación de riesgos.

@@ -1,0 +1,3 @@
+P.O. 26 DE JUNIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 69, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.

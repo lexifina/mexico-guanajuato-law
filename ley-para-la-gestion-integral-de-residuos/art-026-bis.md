@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 26 Bis. Se consideran prioritarias, para efectos del otorgamiento de estímulos fiscales que se establezcan conforme a la Ley de Ingresos para el Estado de Guanajuato del ejercicio fiscal correspondiente, o en su caso, en las leyes de ingresos de los Municipios del ejercicio fiscal correspondiente a las actividades relacionadas con:
+I. La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objetivo prevenir o reducir la generación de residuos sólidos urbanos y de manejo especial, su valorización y su gestión integral y sustentable; así como prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
+II. La investigación e incorporación de sistemas para el aprovechamiento de residuos como fuente de energía; y
+III. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas para el manejo de residuos sólidos urbanos y de manejo especial.

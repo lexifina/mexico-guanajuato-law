@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE JUNIO DE 2025)
+Artículo 63 Ter. La determinación de la conveniencia de someter a tratamiento térmico residuos sólidos urbanos o de manejo especial, deberá sustentarse en el diagnóstico básico de los residuos que se generan en la entidad, y de la disponibilidad y factibilidad técnica y económica de alternativas para su valorización o tratamiento por otros medios.
+Los residuos señalados, sólo podrán ser sujetos a tratamientos térmicos autorizados por la Secretaría o los Ayuntamientos, según corresponda, y cuyo desempeño ambiental sea acorde a lo dispuesto en la Ley General, las normas oficiales mexicanas y demás disposiciones jurídicas aplicables.

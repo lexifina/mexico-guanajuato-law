@@ -1,0 +1,9 @@
+Artículo 87 nonies. La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de éstos.
+Las autoridades, en el marco de sus respectivas competencias y ejercicio de atribuciones deberán realizar las acciones necesarias para proteger al máximo posible la vida, salud e integridad física de las personas en sus desplazamientos por las vías públicas, aplicando las siguientes directrices:
+I. Infraestructura segura: El diseño y la construcción de espacios viales debe propiciar velocidades y maniobras de viaje seguras para reducir los errores de las personas usuarias y sus efectos;
+II. Velocidades seguras: La incorporación de aditamentos y dispositivos que adapten y regulen dinámicamente las velocidades de desplazamiento que las personas usuarias deberán cumplir en función del nivel de seguridad y condición de cada vía;
+III. Vehículos seguros: Los requisitos mínimos o elementos fundamentales necesarios para proteger tanto a ocupantes del medio de desplazamiento como a los demás usuarios de la vía pública;
+IV. Personas usuarias seguras: El cumplimiento de las normas viales y adopción de medidas individuales para mejorar y exigir seguridad vial por quienes habitualmente hacen uso de la vía púbica;
+V. Atención Médica Prehospitalaria: Los procesos de reconocimiento inicial que consisten en la estabilización, evaluación, tratamiento y disposición para la atención efectiva y oportuna de las personas lesionadas en sinestros viales, en términos de la normatividad y disposiciones aplicables; y
+VI. Seguimiento, gestión y coordinación: Las estrategias coordinadas que son establecidas y evaluadas por las autoridades competentes para la gestión eficaz de acciones de prevención y atención durante y posterior a los siniestros viales.
+Clasificación de la vía pública

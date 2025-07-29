@@ -1,0 +1,2 @@
+Artículo 70 bis. La inscripción de un vehículo de motor en el padrón vehicular estatal presume la existencia de éste, su pertenencia a la persona que aparece en aquél como propietario legítimo poseedor, la validez de los actos jurídicos que se relacionan con el mismo y que obran en el padrón salvo prueba contario, de conformidad con las disposiciones jurídicas aplicables.
+Registro de vehículos del servicio público y especial de transporte

@@ -1,0 +1,8 @@
+P.O. 13 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 96 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS, RECORRIENDO EL SEGUNDO ACTUAL VIGENTE AL ARTÍCULO 17-A DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+Inicio de vigencia
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Integración en el proyecto de egresos
+Segundo. Lo previsto en los párrafos segundo y tercero del artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, aplicará a partir del ejercicio fiscal 2026 y se deberá de contemplar en la Ley del Presupuesto General de Egresos del Estado de Guanajuato de dicho año.
+Por lo que de los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el Artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, el 0.2 por ciento de la tasa de dicho impuesto, se administrará en un proyecto de inversión ejecutado por la Secretaría del Nuevo Comienzo, cuyo destino será para fines de desarrollo social y humano y prevención social de la delincuencia, a través de organismos de la sociedad civil, conforme a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado y Municipios de Guanajuato y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato.
+El 0.1 por ciento de la tasa de dicho impuesto para la realización de proyectos de inversión relacionados con el fortalecimiento de la seguridad pública, se ejecutará por conducto de la Secretaría de la Seguridad y Paz del Estado de Guanajuato.

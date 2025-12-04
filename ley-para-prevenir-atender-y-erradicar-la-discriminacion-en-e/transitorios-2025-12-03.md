@@ -1,0 +1,4 @@
+P.O. 3 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 106 POR EL QUE "SE ADICIONAN LAS FRACCIONES XXXIII QUINQUIES Y XXXIII SEXIES AL ARTÍCULO 8; Y LA FRACCIÓN IV BIS AL ARTÍCULO 16, TODOS ELLOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO".]
+Inicio de vigencia
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)
+Artículo 239 b. A quien imparta u obligue a un menor de edad o incapaz a recibir esfuerzos para corregir la orientación sexual, o la identidad o expresión de género, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa. Este delito se perseguirá de oficio.
+Se entiende por esfuerzos para corregir la orientación sexual, o la identidad o expresión de género, aquellas prácticas en las que se emplea violencia física, moral o psicoemocional y se utilicen tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana, consistentes en sesiones psicológicas, psiquiátricas, médicas o cualquier método o tratamiento, que tengan por objeto anular o menoscabar la expresión o identidad de género o la orientación sexual de la víctima.
+Cuando el sujeto activo del delito sea el padre, madre o tutor de la víctima, la pena aplicable será de veinte a sesenta días multa y tratamiento psicoterapéutico integral por el tiempo que determine el juez.
+El consentimiento informado otorgado por la víctima mayor de edad excluye a este delito.

@@ -1,0 +1,5 @@
+Artículo 18 Quáter. El permiso provisional tendrá un costo equivalente al 25 por ciento del total de la tarifa establecida en la Ley de Ingresos vigente por concepto del tipo de licencia y, en su caso, de las modalidades complementarias que para cada permiso determine el SATEG en términos de lo establecido en el artículo 17, párrafos segundo y tercero de esta Ley.
+Por su parte, para la renovación del permiso provisional se deberá pagar el 15 por ciento del total determinado por el SATEG en términos del párrafo anterior.
+Los derechos pagados por el permiso provisional y, en su caso, por su renovación, se considerarán a favor del contribuyente en el supuesto de que el SATEG le autorice el otorgamiento de la licencia solicitada y, se descontarán del total de los derechos que hubieran resultado de la determinación efectuada de conformidad con el primer y segundo párrafos de este artículo, según el permiso de que se trate.
+Los derechos pagados con motivo del otorgamiento de un permiso provisional, o en su caso, de su renovación, en ningún caso darán lugar a devolución ni generarán saldo a favor alguno.
+Tarifas

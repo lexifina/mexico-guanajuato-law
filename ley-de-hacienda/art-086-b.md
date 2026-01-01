@@ -1,0 +1,9 @@
+Artículo 86-B. El aviso de baja a que se refiere el artículo 86 de esta Ley se presentará cuando se actualice alguno de los siguientes supuestos:
+I. Cambio de propietario;
+Se entenderá que existe un cambio de propietario, cuando el vehículo de que se trate sale de la esfera jurídica de dominio, posesión o, deje de ser usado por la persona a nombre de quien está inscrito en el Padrón Vehicular Estatal;
+II. Sea registrado en otra entidad federativa;
+III. Por robo; o
+IV. Destrucción o desarme.
+Cuando por cualquier causa, un vehículo cambie de propietario o sea registrado en otra entidad federativa sin que se hubiera presentado el aviso de baja correspondiente de manera previa, la persona que se encuentre como propietaria o legítima poseedora en el Padrón Vehicular Estatal estará obligada a presentar dicho aviso para el vehículo de que se trate, debiendo cumplir con los requisitos señalados en esta Ley y las disposiciones de carácter general que para tal efecto emita el SATEG.
+Para efectos de la presentación del aviso de baja por robo, la persona que se encuentre como propietaria o legítima poseedora en el Padrón Vehicular Estatal del vehículo de que se trate, cubrirá los créditos fiscales causados del vehículo de que se trate hasta el día de la presentación del aviso; salvo, los créditos fiscales que se hubieren causado a partir del ejercicio fiscal inmediato posterior al del suceso de robo y que se acredite con el documento por el que la autoridad competente haga constar la presentación de la denuncia del suceso de robo del vehículo de que se trate y, se mencionen las características y datos de identificación del vehículo, el número de placas metálicas asignadas al vehículo materia del trámite, mismas que deberán coincidir con las registradas en el Padrón Vehicular Estatal.
+Baja oficiosa

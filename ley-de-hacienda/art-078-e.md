@@ -21,5 +21,7 @@ C4F109,200
 C6F147,910
 SF623,500
 Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+Cuando los sujetos obligados cuenten con más de un establecimiento, sucursal, local y en general cualquier lugar que se utilice para el desempeño de sus actividades en el Estado de Guanajuato con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
 (REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)
 Causación y determinación del impuesto

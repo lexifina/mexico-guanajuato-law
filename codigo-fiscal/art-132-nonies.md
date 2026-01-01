@@ -1,0 +1,3 @@
+Artículo 132 nonies. No procede la substitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se trate de los delitos previstos en los artículos 132 decies y 132 undecies cuando les correspondan las sanciones dispuestas en la fracción III del artículo 132 decies, todos de este Código. En los demás casos, además de los requisitos señalados en el Código Penal del Estado de Guanajuato, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción del SATEG.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+Defraudación fiscal

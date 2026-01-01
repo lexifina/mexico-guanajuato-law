@@ -1,0 +1,4 @@
+Artículo 132 quaterdecies. Se impondrá sanción de tres meses a seis años de prisión, al depositario designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $200,030.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Igual sanción, de acuerdo con el valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+Delitos cometidos por servidores públicos

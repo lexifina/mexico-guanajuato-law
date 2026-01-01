@@ -1,0 +1,10 @@
+P.O. 31 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 167, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+Inicio de vigencia
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Inicio de vigencia de la reforma al Impuesto a la Venta Final de Bebidas Alcohólicas
+Artículo Segundo. Lo previsto en los artículos 70, 71 y 72 de la presente Ley, relativos al Impuesto a la Venta Final de Bebidas Alcohólicas, entrará en vigor a partir del 1 de julio de 2026. Durante el periodo comprendido de enero a junio de 2026, prevalecerá lo siguiente:
+El objeto de este impuesto es gravar la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en el territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+Para efectos de este impuesto se entenderá como bebidas alcohólicas, las que a la temperatura de quince grados centígrados tengan una graduación alcohólica de más de tres grados Gay Lussac hasta cincuenta y cinco grados Gay Lussac, incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor, de conformidad con la Ley del Impuesto Especial sobre Producción y Servicios.
+Están obligados al pago del impuesto las personas físicas o morales que realicen la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+La base de este impuesto será el precio percibido por la venta final disminuyendo los impuestos al Valor Agregado y el Especial sobre Producción y Servicios.

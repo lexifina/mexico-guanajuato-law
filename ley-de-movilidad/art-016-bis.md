@@ -5,7 +5,8 @@ I. Planear, ejecutar, coordinar y evaluar el programa estatal en materia de movi
 II. Diseñar, proponer y ejecutar, las políticas públicas estatales en materia de movilidad y seguridad vial, su infraestructura y, en especial, aquellas destinadas a los peatones, personas con discapacidad o movilidad limitada;
 (REFORMADA, P.O. 7 DE JUNIO DE 2024)
 III. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionada con la planeación del desarrollo urbano y el ordenamiento ecológico territorial, para el mejoramiento de la movilidad y la seguridad vial;
-IV. Colaborar con la Secretaría de Medio Ambiente y Ordenamiento Territorial y las demás dependencias y entidades estatales y municipales, en la planeación, formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad;
+(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)
+IV. Colaborar con la Secretaría del Agua y Medio Ambiente y las demás dependencias y entidades estatales y municipales, en la planeación, formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad; así como en la implementación de campañas informativas y de concientización sobre los efectos negativos de la contaminación por ruido que incidan en la materia de movilidad;
 (REFORMADA, P.O. 7 DE JUNIO DE 2024)
 V. Establecer y promover políticas, planes y acciones tendientes a mejorar la movilidad y seguridad vial en las diferentes vialidades estatales, incluyendo las zonas declaradas o consideradas como metropolitanas;
 VI. Vigilar el cumplimiento de esta Ley, así como elaborar, fijar y conducir las políticas estatales en el ámbito de su competencia;

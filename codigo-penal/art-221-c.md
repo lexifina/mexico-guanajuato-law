@@ -4,3 +4,6 @@ En estos casos el Ministerio Público o la autoridad judicial dictarán las medi
 Si el activo devuelve al menor o incapaz dentro de los tres días siguientes a la sustracción, retención u ocultamiento, la punibilidad aplicable será de un tercio del mínimo a un tercio del máximo de las sanciones señaladas.
 La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
 Este delito se perseguirá por querella de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 2026)
+Capítulo VIII
+Violencia Vicaria

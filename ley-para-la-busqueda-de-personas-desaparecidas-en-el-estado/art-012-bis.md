@@ -1,0 +1,3 @@
+Artículo 12 Bis. Toda autoridad y particular de cualquier naturaleza que tenga a su cargo datos biométricos o cualquier otro dato identificativo de personas, deberá permitir a la Fiscalía General, a las instituciones de seguridad pública en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como a la Comisión de Búsqueda la consulta inmediata de la información sobre personas desaparecidas, contenida en sus registros, bases de datos o sistemas de información, exclusivamente para su búsqueda, localización e identificación en coordinación con la investigación, en los términos establecidos en la Ley General.
+(ADICIONADO, P.O. 21 DE ABRIL DE 2026)
+Obligación de contar con registros

@@ -6,5 +6,7 @@ IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al for
 V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los municipios con menores ingresos;
 VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
 VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos.
+(ADICIONADA, P.O. 28 DE MAYO DE 2026)
+VIII. Promover y fortalecer la infraestructura, reglamentación y medidas de seguridad para el uso de vehículos de micromovilidad eléctrica, asegurando su integración segura en el sistema de movilidad y su adecuada convivencia con peatones, ciclistas, transporte público y transporte motorizado y no motorizado.
 (ADICIONADO, P.O. 7 DE JUNIO DE 2024)
 Instrumentos financieros

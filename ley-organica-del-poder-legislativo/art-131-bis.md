@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 29 DE MAYO DE 2026)
+Artículo 131 Bis. Corresponde al Congreso del Estado, en materia de elección de personas juzgadoras:
+I. Emitir la convocatoria para la integración de los listados de candidaturas;
+II. Integrar el Comité de Evaluación del Poder Legislativo;
+III. Recibir, integrar y remitir al organismo público electoral local los listados de candidaturas remitidos por los Poderes del Estado; y
+IV. Las demás que establezca la Constitución Política para el Estado de Guanajuato y la legislación electoral.
+Los plazos se regirán por la Constitución Política para el Estado de Guanajuato y la legislación electoral.

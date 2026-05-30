@@ -1,0 +1,8 @@
+P.O. 29 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 196, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo segundo. La primera elección de las personas juzgadoras del Poder Judicial del Estado se realizará en el proceso electoral ordinario que corresponda al año 2027.
+Artículo tercero. Las personas magistradas y juzgadoras en funciones a la entrada en vigor del presente Decreto continuarán en el ejercicio de su encargo hasta la toma de protesta de las personas electas conforme al nuevo modelo, garantizando en todo momento la continuidad institucional del Poder Judicial del Estado de Guanajuato.
+Artículo cuarto. El Instituto Electoral del Estado de Guanajuato deberá emitir, a partir de la entrada en vigor del presente Decreto, los lineamientos, acuerdos y disposiciones necesarias para la organización del proceso electoral judicial.
+Artículo quinto. Toda aquella referencia al Órgano de Administración Judicial se entenderá realizada al Consejo del Poder Judicial del Estado de Guanajuato, hasta su creación.
+Artículo sexto. Los procedimientos especiales sancionadores que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de su inicio.

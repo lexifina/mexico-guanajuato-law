@@ -1,0 +1,6 @@
+P.O. 29 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 195, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato, con excepción de la reforma al artículo 114, fracción III, que entrará en vigor el veinticinco de septiembre de dos mil veintisiete.
+Artículo segundo. Las disposiciones contenidas en el presente Decreto, en materia de integración, organización y funcionamiento bajo los principios de paridad de género, igualdad sustantiva y perspectiva de género, no serán aplicables a la Legislatura en funciones.
+Dichas disposiciones serán aplicables a partir de la siguiente Legislatura que se integre con motivo del proceso electoral inmediato posterior.
+Artículo tercero. El Congreso del Estado deberá emitir la convocatoria para la integración de los listados de candidaturas a los cargos del Poder Judicial del Estado en los plazos previstos en la Constitución Política para el Estado de Guanajuato y en la legislación electoral aplicable.

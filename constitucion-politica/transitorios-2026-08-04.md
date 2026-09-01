@@ -1,0 +1,5 @@
+P.O. 4 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 204 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA AL PÁRRAFO DÉCIMO QUINTO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. Las autoridades correspondientes destinarán anualmente y conforme al principio de progresividad los recursos presupuestarios suficientes y oportunos, para dar cumplimiento al presente Decreto.
+Artículo Tercero. Los ayuntamientos deberán realizar las adecuaciones correspondientes a sus reglamentos y programas sociales, a fin de brindar una atención integral a las familias en contexto de movilidad humana que se encuentren en situación de tránsito, retorno o residencia temporal, en un plazo de 180 días hábiles a partir de la vigencia del presente Decreto.

@@ -1,0 +1,708 @@
+day,kind,law,acts,files,branch
+1917-10-21,start,constitucion-1917-10-18-edicion-oficial,constitucion-politica,123,main
+1919-03-26,law,decreto-1919-03-23-12,constitucion-politica,23,main
+1919-12-03,law,decreto-1919-11-30-22,constitucion-politica,4,main
+1921-11-24,law,decreto-1921-11-24-42,constitucion-politica,10,main
+1922-05-31,law,decreto-1922-05-28-43,constitucion-politica,6,main
+1923-01-03,law,decreto-1922-12-31-53,constitucion-politica,3,main
+1924-05-25,law,decreto-1924-05-22-41,constitucion-politica,4,main
+1924-06-11,law,decreto-1924-06-08-46,constitucion-politica,12,main
+1924-11-12,law,decreto-1924-11-09-38,constitucion-politica,5,main
+1929-09-11,law,decreto-1929-09-08-20-alcance,constitucion-politica,5,main
+1932-01-17,law,decreto-1932-01-14-4,constitucion-politica,5,main
+1932-05-01,law,decreto-1932-04-28-34,constitucion-politica,9,main
+1933-01-18,law,decreto-1933-01-15-5-folletin,constitucion-politica,19,main
+1933-09-10,law,decreto-1933-09-07-20,constitucion-politica,8,main
+1934-04-01,start,codigo-1934-03-08-anexo-al-no-19,codigo-de-procedimientos-civiles,746,main
+1938-07-13,law,decreto-1938-07-10-3,constitucion-politica,3,main
+1941-04-02,law,decreto-1941-03-30-26,constitucion-politica,5,main
+1943-03-31,law,decreto-1943-03-28-25,constitucion-politica,6,main
+1944-05-14,law,decreto-1944-05-11-38,constitucion-politica,2,main
+1945-06-06,law,decreto-1945-06-03-44,constitucion-politica,13,main
+1945-08-22,law,decreto-1945-08-19-15,constitucion-politica,13,main
+1950-01-19,law,decreto-1950-01-19-6,constitucion-politica,4,main
+1951-11-28,law,decreto-1951-11-25-43,constitucion-politica,3,main
+1952-07-19,law,decreto-1952-06-19-49,codigo-de-procedimientos-civiles,3,main
+1958-12-04,law,decreto-1958-12-04-45,codigo-de-procedimientos-civiles,5,main
+1959-07-23,law,decreto-1959-07-23-7,constitucion-politica,2,main
+1959-08-26,law,decreto-1959-08-23-16,codigo-de-procedimientos-civiles,2,main
+1961-12-28,law,decreto-1961-12-28-52,constitucion-politica,21,main
+1963-07-07,law,decreto-1963-07-07-2,constitucion-politica,2,main
+1966-01-17,law,decreto-1966-01-16-5,constitucion-politica,3,main
+1967-05-17,start,codigo-1967-05-14-anexo-al-no-39,codigo-civil,3037,main
+1967-10-09,law,decreto-1967-10-08-29,constitucion-politica,17,main
+1968-05-13,law,decreto-1968-05-12-38,constitucion-politica,5,main
+1968-06-19,law,decreto-1968-06-16-48,codigo-de-procedimientos-civiles,4,main
+1968-07-19,law,decreto-1968-07-18-57,codigo-civil,209,main
+1969-06-11,law,decreto-1969-06-08-46,codigo-civil codigo-de-procedimientos-civiles,199,main
+1970-07-02,law,decreto-1970-07-02-53,constitucion-politica,2,main
+1970-07-19,law,decreto-1970-07-16-57,codigo-civil,223,main
+1970-11-06,law,decreto-1970-11-05-89,constitucion-politica,2,main
+1971-02-17,law,decreto-1971-02-14-13,codigo-de-procedimientos-civiles,24,main
+1971-06-07,law,decreto-1971-06-06-45,codigo-civil,2,main
+1971-11-29,law,decreto-1971-11-28-95,codigo-civil,2,main
+1972-03-20,start,ley-1972-03-05-anexo-al-no-19,ley-de-aparceria-agricola-y-ganadera,63,main
+1972-12-31,start,ley-1972-12-31-105,ley-organica-de-las-fuerzas-de-seguridad-publica,14,main
+1973-01-01,law,decreto-1972-12-31-numero-extra,codigo-civil,2,main
+1973-03-19,law,decreto-1973-03-18-22,codigo-civil,2,main
+1973-12-09,law,decreto-1973-12-09-98,constitucion-politica,7,main
+1973-12-24,law,decreto-1973-12-23-102,constitucion-politica,3,main
+1974-05-15,law,decreto-1974-05-12-38,codigo-civil,7,main
+1974-06-07,law,decreto-1974-06-06-45,ley-de-aparceria-agricola-y-ganadera,3,main
+1974-10-20,law,decreto-1974-10-20-84,codigo-civil,2,main
+1974-12-29,law,decreto-1974-12-29-104,constitucion-politica,5,main
+1976-01-01,law,decreto-1975-12-31-seccion-primera-numero-extra,constitucion-politica,4,main
+1976-03-31,law,decreto-1976-03-28-26,constitucion-politica,154,main
+1977-07-28,law,decreto-1977-07-28-60,constitucion-politica,3,main
+1978-06-11,law,decreto-1978-06-08-46,constitucion-politica,7,main
+1978-12-01,law,decreto-1978-11-30-96,constitucion-politica,3,main
+1979-11-23,law,decreto-1979-11-22-93,constitucion-politica,2,main
+1980-01-20,law,decreto-1980-01-17-5,codigo-civil,127,main
+1980-08-24,law,decreto-1980-08-21-67,constitucion-politica,8,main
+1981-04-15,law,decreto-1981-02-05-11,codigo-de-procedimientos-civiles,16,main
+1981-04-15,law,decreto-1981-04-07-28,codigo-de-procedimientos-civiles,3,main
+1982-02-02,law,decreto-1982-01-29-9,codigo-civil,147,main
+1982-10-25,law,decreto-1982-10-22-85,constitucion-politica,2,main
+1983-08-22,law,decreto-1983-08-19-66,codigo-civil,66,main
+1983-10-15,law,decreto-1983-10-14-82,codigo-civil,3,main
+1983-12-04,law,decreto-1983-11-04-88,codigo-civil codigo-de-procedimientos-civiles,6,main
+1983-12-04,law,decreto-1983-11-04-88-2,codigo-civil,3,main
+1983-12-04,law,decreto-1983-11-22-93,codigo-de-procedimientos-civiles,2,main
+1983-12-04,law,decreto-1983-11-22-93,codigo-civil,5,main
+1983-12-04,law,decreto-1983-11-22-93-2,codigo-de-procedimientos-civiles,7,main
+1983-12-16,law,decreto-1983-12-13-99,codigo-de-procedimientos-civiles,9,main
+1984-02-20,law,decreto-1984-02-17-14-anexo,constitucion-politica,152,main
+1985-01-04,law,decreto-1985-01-01-1,codigo-de-procedimientos-civiles,19,main
+1985-07-20,law,decreto-1985-07-19-58-segunda-parte,codigo-civil,48,main
+1985-12-28,law,decreto-1985-12-27-104,constitucion-politica,5,main
+1985-12-28,law,decreto-1985-12-27-104-2,constitucion-politica,5,main
+1986-08-09,start,ley-1986-08-08-63-segunda-parte,ley-de-salud,335,main
+1987-08-08,law,decreto-1987-08-07-63-segunda-parte,codigo-de-procedimientos-civiles,13,main
+1987-10-24,law,decreto-1987-10-23-85-segunda-parte,constitucion-politica,6,main
+1987-10-24,law,decreto-1987-10-23-85-segunda-parte-2,constitucion-politica,2,main
+1988-01-06,law,decreto-1988-01-05-2,codigo-de-procedimientos-civiles,2,main
+1988-06-25,law,decreto-1988-06-24-51-primera-parte,constitucion-politica,2,main
+1988-06-25,law,decreto-1988-06-24-51-primera-parte-2,constitucion-politica,10,main
+1988-09-21,law,decreto-1988-09-20-76,codigo-de-procedimientos-civiles,3,main
+1988-11-23,law,decreto-1988-11-22-94,codigo-civil codigo-de-procedimientos-civiles,8,main
+1989-02-01,law,decreto-1989-01-31-9,codigo-de-procedimientos-civiles,3,main
+1989-07-29,law,decreto-1989-07-28-60-primera-parte,codigo-civil,259,main
+1989-07-29,law,decreto-1989-07-28-60-segunda-parte,codigo-de-procedimientos-civiles,7,main
+1989-07-29,law,decreto-1989-07-28-60-primera-parte-2,codigo-civil,5,main
+1989-07-29,law,decreto-1989-07-28-60-segunda-parte,codigo-civil,6,main
+1989-10-07,law,decreto-1989-10-06-80,codigo-civil,6,main
+1989-12-20,law,decreto-1989-12-19-101-segunda-parte,codigo-de-procedimientos-civiles,2,main
+1989-12-29,start,ley-1989-12-26-103-segunda-parte,ley-de-hacienda-para-los-municipios,264,main
+1990-03-21,law,decreto-1990-03-20-23,ley-de-hacienda-para-los-municipios,3,main
+1990-12-26,law,decreto-1990-12-25-103-segunda-parte,constitucion-politica ley-de-hacienda-para-los-municipios,14,main
+1991-03-30,law,decreto-1991-03-29-26,codigo-de-procedimientos-civiles,2,main
+1991-07-24,law,decreto-1991-07-23-59-primera-parte,codigo-civil,9,main
+1991-08-24,law,decreto-1991-08-23-68,codigo-de-procedimientos-civiles,2,main
+1991-09-04,law,decreto-1991-09-03-71-primera-parte,ley-de-hacienda-para-los-municipios,2,main
+1991-12-28,law,decreto-1991-12-27-104-segunda-parte,ley-de-hacienda-para-los-municipios,4,main
+1992-07-04,law,decreto-1992-07-03-53-segunda-parte,codigo-civil,3,main
+1992-08-02,start,ley-1992-07-03-53-segunda-parte,ley-de-expropiacion-de-ocupacion-temporal-y-de-limitacion-de,37,main
+1992-08-08,law,decreto-1992-08-07-63-primera-parte,codigo-civil codigo-de-procedimientos-civiles,31,main
+1992-09-12,law,decreto-1992-09-11-73-segunda-parte,constitucion-politica,3,main
+1992-12-05,start,ley-1992-12-04-97-tercera-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,152,main
+1992-12-26,law,decreto-1992-12-25-103-segunda-parte,ley-de-hacienda-para-los-municipios,3,main
+1993-05-19,law,decreto-1993-05-18-40-segunda-parte,ley-de-hacienda-para-los-municipios,4,main
+1993-11-20,law,decreto-1993-11-19-93-tercera-parte,ley-de-salud,138,main
+1993-12-25,law,decreto-1993-12-24-103-segunda-parte,ley-de-hacienda-para-los-municipios,3,main
+1994-08-31,law,decreto-1994-08-30-69-segunda-parte,constitucion-politica,2,main
+1994-11-16,law,decreto-1994-11-15-91-segunda-parte,constitucion-politica,20,main
+1994-12-28,law,decreto-1994-12-27-103-tercera-parte,ley-de-hacienda-para-los-municipios,4,main
+1995-03-25,law,decreto-1995-03-24-24-tercera-parte,constitucion-politica,4,main
+1995-06-24,start,ley-1995-06-23-50-segunda-parte,ley-de-representacion-gratuita-en-materia-civil-guanajuato,22,main
+1995-08-16,law,decreto-1995-08-15-65-tercera-parte,codigo-civil,5,main
+1995-08-16,law,ley-1995-08-15-65-tercera-parte,ley-organica-de-las-fuerzas-de-seguridad-publica,7,main
+1995-11-27,start,ley-1995-11-24-94-segunda-parte,ley-para-la-regularizacion-de-predios-rusticos-en-el-estado,24,main
+1996-01-01,law,decreto-1995-12-26-103-segunda-parte,ley-de-hacienda-para-los-municipios,3,main
+1996-01-01,law,decreto-1995-12-26-103-segunda-parte-2,ley-de-hacienda-para-los-municipios,2,main
+1996-01-20,law,decreto-1996-01-19-6-segunda-parte,codigo-civil,6,main
+1996-02-07,law,decreto-1996-02-06-11-segunda-parte,ley-de-expropiacion-de-ocupacion-temporal-y-de-limitacion-de,3,main
+1996-06-29,law,decreto-1996-06-28-52-segunda-parte,codigo-de-procedimientos-civiles,2,main
+1996-09-28,law,decreto-1996-07-30-61-segunda-parte,codigo-civil codigo-de-procedimientos-civiles,47,main
+1996-11-20,law,decreto-1996-11-19-93-segunda-parte,codigo-de-procedimientos-civiles,8,main
+1996-12-25,law,decreto-1996-12-24-103-cuarta-parte,constitucion-politica,22,main
+1996-12-27,law,decreto-1996-12-24-103-tercera-parte,ley-de-salud,8,main
+1997-01-01,law,decreto-1996-12-24-103-tercera-parte,ley-de-hacienda-para-los-municipios,14,main
+1997-02-12,law,decreto-1997-02-11-12-segunda-parte,codigo-de-procedimientos-civiles,2,main
+1997-04-02,law,decreto-1997-04-01-26-segunda-parte,codigo-de-procedimientos-civiles ley-del-trabajo-de-los-servidores-publicos-al-servicio,10,main
+1997-06-18,law,decreto-1997-06-17-48-segunda-parte,codigo-de-procedimientos-civiles,2,main
+1997-07-05,law,decreto-1997-07-04-53-tercera-parte,codigo-civil codigo-de-procedimientos-civiles,7,main
+1997-07-26,law,designacion-1997-07-25-59-tercera-parte,ley-para-la-regularizacion-de-predios-rusticos-en-el-estado,2,main
+1997-10-25,start,ley-1997-10-24-85-tercera-parte,ley-de-proteccion-civil,110,main
+1998-01-01,law,decreto-1997-12-26-103-tercera-parte,ley-de-hacienda-para-los-municipios,10,main
+1998-12-23,start,ley-1998-12-22-102-segunda-parte,ley-ganadera,99,main
+1999-01-01,law,decreto-1998-12-22-102-segunda-parte,ley-de-hacienda-para-los-municipios,4,main
+1999-06-02,law,decreto-1999-06-01-44-segunda-parte,codigo-de-procedimientos-civiles,4,main
+1999-06-19,law,decreto-1999-06-18-49-segunda-parte,constitucion-politica,2,main
+1999-11-20,law,decreto-1999-11-19-93-segunda-parte,ley-para-la-regularizacion-de-predios-rusticos-en-el-estado,2,main
+2000-01-01,law,decreto-1999-12-28-104-segunda-parte,ley-de-hacienda-para-los-municipios,9,main
+2000-02-09,start,ley-2000-02-08-11-segunda-parte,ley-para-la-proteccion-y-preservacion-del-ambiente,199,main
+2000-03-01,law,decreto-1999-12-24-103-segunda-parte,codigo-civil codigo-de-procedimientos-civiles,7,main
+2000-07-08,law,decreto-2000-07-07-54-segunda-parte,codigo-civil,9,main
+2000-09-29,start,ley-2000-09-26-77-segunda-parte,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,71,main
+2000-09-30,law,decreto-2000-09-29-78-segunda-parte,codigo-civil,257,main
+2001-01-01,start,ley-2000-12-15-100-segunda-parte,ley-organica-del-poder-ejecutivo,103,main
+2001-01-01,law,decreto-2000-12-22-102-segunda-parte,ley-de-hacienda-para-los-municipios,6,main
+2001-03-21,law,decreto-2001-03-20-23-segunda-parte,constitucion-politica,12,main
+2001-07-18,law,decreto-2001-07-17-57,ley-para-la-regularizacion-de-predios-rusticos-en-el-estado,2,main
+2001-08-06,start,ley-2001-08-03-62-tercera-parte,ley-reglamentaria-de-la-fraccion-xv-del-articulo-88-de-la-co,54,main
+2001-12-22,law,decreto-2001-12-21-102-primera-parte,codigo-civil,11,main
+2002-01-01,start,codigo-2001-11-02-88-segunda-parte,codigo-penal,301,main
+2002-04-20,law,decreto-2002-04-19-47-segunda-parte,constitucion-politica,20,main
+2002-06-15,law,decreto-2002-06-14-71-segunda-parte,ley-de-expropiacion-de-ocupacion-temporal-y-de-limitacion-de,3,main
+2002-10-23,start,ley-2002-10-22-126-segunda-parte,ley-de-participacion-ciudadana,109,main
+2002-11-20,law,decreto-2002-11-19-138-segunda-parte,codigo-civil codigo-de-procedimientos-civiles,26,main
+2002-12-25,start,,ley-de-concesiones-de-servicios-e-infraestructura-publica,60,main
+2002-12-25,law,decreto-2002-12-24-153-primera-parte,ley-de-salud,184,main
+2003-01-01,law,decreto-2002-12-24-153-octava-parte,ley-de-hacienda-para-los-municipios,2,main
+2003-04-16,law,decreto-2003-04-15-60-bis,constitucion-politica,9,main
+2003-08-13,start,ley-2003-08-12-128-tercera-seccion,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,109,main
+2003-11-22,law,decreto-2003-11-21-186-tercera-parte,ley-organica-del-poder-ejecutivo,23,main
+2003-11-27,start,ley-2003-05-27-84-tercera-parte,ley-de-justicia-alternativa,32,main
+2004-01-01,law,decreto-2003-12-23-204,constitucion-politica,6,main
+2004-10-12,law,decreto-2004-08-13-130-tercera-parte,codigo-penal,34,main
+2004-11-01,start,ley-2004-07-09-110-segunda-parte,ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,44,main
+2004-11-01,law,decreto-2004-08-13-130-tercera-parte,codigo-de-procedimientos-civiles,165,main
+2004-11-13,law,decreto-2004-11-12-182-segunda-parte,ley-para-la-proteccion-y-preservacion-del-ambiente,47,main
+2004-12-04,law,decreto-2004-12-03-194,codigo-de-procedimientos-civiles,2,main
+2004-12-28,start,ley-2004-12-27-207-primera-parte,ley-de-premios-y-estimulos-al-merito-ciudadano,44,main
+2005-01-10,start,ley-2005-01-07-4-segunda-parte,ley-de-responsabilidad-patrimonial,55,main
+2005-03-19,law,decreto-2005-03-18-44-segunda-parte,constitucion-politica,4,main
+2005-04-07,law,ley-2005-01-07-4-segunda-parte,codigo-civil,63,main
+2005-05-21,law,decreto-2005-05-20-80-tercera-parte,ley-organica-del-poder-ejecutivo,4,main
+2005-06-11,law,decreto-2005-06-10-92-tercera-parte,codigo-civil codigo-penal,92,main
+2005-08-08,start,ley-2005-05-10-74-segunda-parte,ley-para-la-gestion-integral-de-residuos,85,main
+2005-11-26,law,decreto-2005-11-25-188-tercera-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,3,main
+2005-12-21,law,decreto-2005-12-20-202,constitucion-politica,2,main
+2006-01-01,law,decreto-2005-12-20-202,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,3,main
+2006-02-18,start,ley-2005-12-20-202,ley-de-profesiones,104,main
+2006-03-18,law,decreto-2006-03-17-44-tercera-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,3,main
+2006-04-01,start,ley-2006-03-31-52-tercera-parte,ley-arancelaria-para-el-cobro-de-honorarios-profesionales-de,23,main
+2006-06-03,start,ley-2006-06-02-88-segunda-parte,ley-de-desarrollo-social-y-humano,38,main
+2006-06-17,law,decreto-2006-06-16-96-tercera-parte,constitucion-politica codigo-civil,63,main
+2006-08-02,start,ley-2006-08-01-122-cuarta-parte,ley-del-patrimonio-cultural,49,main
+2006-08-02,law,decreto-2006-08-01-122-tercera-parte,ley-organica-del-poder-ejecutivo,3,main
+2006-08-04,law,decreto-2006-08-01-122-tercera-parte,codigo-penal ley-de-justicia-alternativa,7,main
+2006-08-04,law,ley-2006-08-01-122-tercera-parte,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,4,main
+2006-08-30,law,decreto-2006-08-29-138-tercera-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,2,main
+2006-09-14,law,decreto-2006-06-16-96-tercera-parte,ley-ganadera,78,main
+2006-11-08,law,decreto-2006-11-07-178-segunda-parte,constitucion-politica,12,main
+2006-11-15,law,decreto-2006-11-14-182-segunda-seccion,constitucion-politica,5,main
+2007-01-01,start,ley-2006-08-22-134-tercera-parte,ley-del-notariado,157,main
+2007-05-18,law,decreto-2007-05-15-78-tercera-parte,ley-arancelaria-para-el-cobro-de-honorarios-profesionales-de,3,main
+2007-05-19,law,decreto-2007-05-18-80-tercera-parte,ley-organica-del-poder-ejecutivo,4,main
+2007-06-15,law,decreto-2007-06-12-94-segunda-parte,codigo-penal,16,main
+2007-06-16,law,decreto-2007-06-15-96-tercera-parte,ley-de-salud,3,main
+2007-08-20,start,codigo-2007-08-17-132-tercera-parte,codigo-de-procedimiento-y-justicia-administrativa,329,main
+2007-10-15,start,ley-2007-06-15-96-tercera-parte,ley-organica-de-la-universidad-de-guanajuato,65,main
+2007-11-28,law,decreto-2007-11-27-190-segunda-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,3,main
+2008-06-14,law,decreto-2008-06-13-95-tercera-parte,codigo-civil codigo-de-procedimientos-civiles,274,main
+2008-06-14,law,decreto-2008-06-13-95-tercera-parte-2,codigo-civil,50,main
+2008-08-09,law,decreto-2008-08-08-127-segunda-parte,constitucion-politica,4,main
+2008-08-09,law,decreto-2008-08-08-127-segunda-parte-2,constitucion-politica,8,main
+2008-08-09,law,decreto-2008-08-08-127-segunda-parte-3,constitucion-politica,7,main
+2009-03-21,law,decreto-2009-03-20-46-segunda-parte,codigo-civil codigo-de-procedimientos-civiles codigo-penal,19,main
+2009-03-28,start,ley-2009-03-27-50-segunda-parte,ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,79,main
+2009-03-28,law,decreto-2009-03-27-50-segunda-parte,codigo-civil codigo-penal,27,main
+2009-05-29,law,decreto-2009-05-26-84-segunda-parte,constitucion-politica,2,main
+2009-06-10,law,decreto-2009-06-09-92-segunda-parte,codigo-penal,2,main
+2009-06-24,law,decreto-2009-06-23-100-segunda-parte,constitucion-politica,2,main
+2009-07-22,law,decreto-2009-07-21-116-primera-parte,constitucion-politica,4,main
+2009-09-05,law,decreto-2009-09-04-142-segunda-parte,ley-de-desarrollo-social-y-humano,34,main
+2009-09-07,law,decreto-2009-09-04-142-segunda-parte,codigo-de-procedimientos-civiles,2,main
+2009-11-01,law,decreto-2009-08-21-134-segunda-parte,constitucion-politica,4,main
+2010-02-27,law,decreto-2010-02-26-33-segunda-parte,constitucion-politica,25,main
+2010-03-06,law,decreto-2010-03-05-37-tercera-parte,constitucion-politica,8,main
+2010-05-12,law,decreto-2010-05-11-75-segunda-parte,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,9,main
+2010-06-12,start,ley-2010-06-11-93-segunda-parte,ley-de-proyectos-de-prestacion-de-servicios,71,main
+2010-06-12,law,decreto-2010-06-11-93-segunda-parte,ley-de-concesiones-de-servicios-e-infraestructura-publica ley-organica-del-poder-ejecutivo ley-para-el-ejercicio-y-control-de-los-recursos-publicos,72,main
+2010-08-07,start,codigo-2010-08-06-125-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,596,main
+2010-09-04,law,decreto-2010-09-03-141-segunda-parte,codigo-penal,2,main
+2010-09-04,law,decreto-2010-09-03-141-cuarta-parte,ley-de-salud,3,main
+2010-09-04,law,decreto-2010-09-03-141-segunda-parte-2,codigo-penal,4,main
+2010-09-04,law,decreto-2010-09-03-141-cuarta-parte,codigo-penal,3,main
+2010-09-06,start,ley-2010-09-03-141-tercera-parte,ley-del-proceso-penal,526,main
+2010-10-09,law,acuerdo-s-2010-10-08-161-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,4,main
+2010-11-27,start,ley-2010-11-26-189-cuarta-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,59,main
+2010-11-27,law,decreto-2010-11-26-189-cuarta-parte,ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,17,main
+2010-12-04,law,acuerdo-s-2010-12-03-193-tercera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,3,main
+2010-12-25,law,decreto-2010-12-24-205-segunda-parte,ley-de-hacienda-para-los-municipios ley-de-profesiones ley-organica-del-poder-ejecutivo,13,main
+2010-12-27,law,acuerdo-s-2010-12-24-205-primera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,2,main
+2011-01-15,law,acuerdo-s-2011-01-14-8-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,3,main
+2011-04-09,start,ley-2011-04-08-56-segunda-parte,ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena,77,main
+2011-04-13,law,acuerdo-s-2011-04-12-58-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,18,main
+2011-04-18,start,ley-2011-04-15-60-tercera-seccion,ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales,214,main
+2011-04-18,law,ley-2011-04-15-60-tercera-parte,ley-del-proceso-penal,3,main
+2011-06-04,start,ley-2011-06-03-88-quinta-parte,ley-de-la-defensoria-publica-penal,35,main
+2011-06-06,start,ley-2011-06-03-88-quinta-parte,ley-de-voluntad-anticipada,52,main
+2011-06-06,law,decreto-2011-06-03-88-quinta-parte,codigo-penal,233,main
+2011-06-17,law,fe-de-erratas-2011-06-17-96,ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales,3,main
+2011-06-17,law,fe-de-erratas-2011-06-17-96-segunda-parte,ley-del-proceso-penal,2,main
+2011-06-22,law,ley-2011-06-21-98-quinta-parte,ley-de-justicia-alternativa,36,main
+2011-08-03,law,acuerdo-s-2011-08-02-122-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,2,main
+2011-08-15,start,ley-2011-08-12-128-segunda-parte,ley-para-la-administracion-y-disposicion-de-bienes-relaciona,44,main
+2011-09-01,law,decreto-2011-08-12-128-segunda-parte,ley-del-proceso-penal,52,main
+2011-09-17,law,acuerdo-s-2011-09-16-148-primera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,4,main
+2011-10-08,law,decreto-2011-10-07-160-segunda-parte,constitucion-politica,34,main
+2011-12-28,start,ley-2011-12-27-206-tercera-parte,ley-de-planeacion,54,main
+2011-12-28,law,decreto-2011-12-27-206-tercera-parte,codigo-civil,132,main
+2011-12-30,law,decreto-2011-12-27-206-tercera-parte,codigo-de-procedimientos-civiles ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,199,main
+2012-02-01,law,acuerdo-s-2012-01-31-18-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,190,main
+2012-02-10,law,fe-de-erratas-2012-02-10-24-segunda-parte,codigo-civil,38,main
+2012-05-16,law,decreto-2012-05-15-78-segunda-parte,constitucion-politica,5,main
+2012-05-23,start,ley-2012-05-22-82-segunda-parte,ley-organica-del-poder-judicial,289,main
+2012-06-26,law,fe-de-erratas-2012-06-26-102-segunda-parte,ley-organica-del-poder-judicial,5,main
+2012-07-14,law,acuerdo-s-2012-07-13-112-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,2,main
+2012-08-11,law,decreto-2012-08-10-128-tercera-parte,ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales,5,main
+2012-09-01,law,decreto-2012-08-31-140-segunda-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,5,main
+2012-09-12,law,decreto-2012-09-11-146-segunda-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-ganadera,24,main
+2012-09-14,law,decreto-2012-09-11-146-quinta-parte,codigo-de-procedimientos-civiles,2,main
+2012-09-14,law,decreto-2012-09-11-146-segunda-parte,codigo-de-procedimiento-y-justicia-administrativa ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,13,main
+2012-09-15,start,ley-2012-09-14-148-tercera-parte,ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es,48,main
+2012-09-17,law,decreto-2012-09-14-148-tercera-parte,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,22,main
+2012-09-26,law,decreto-2012-09-18-150-segunda-parte,ley-organica-del-poder-ejecutivo,45,main
+2012-09-26,law,decreto-2012-09-25-154-tercera-parte,ley-del-notariado,86,main
+2012-10-12,law,fe-de-erratas-2012-10-12-164-tercera-parte,ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es,3,main
+2012-10-24,law,acuerdo-s-2012-10-23-170-tercera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,3,main
+2012-12-05,law,decreto-2012-12-04-194-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,4,main
+2012-12-10,start,ley-2012-09-11-146-segunda-parte,ley-de-propiedad-en-condominio-de-inmuebles,85,main
+2012-12-10,law,decreto-2012-09-11-146-segunda-parte,codigo-civil,78,main
+2012-12-10,law,decreto-2012-09-11-146-quinta-parte,codigo-civil,18,main
+2012-12-22,law,decreto-2012-12-21-204-tercera-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,9,main
+2013-01-01,start,codigo-2012-09-25-154-segunda-parte,codigo-territorial,581,main
+2013-01-01,law,decreto-2012-09-25-154-segunda-seccion,ley-para-la-proteccion-y-preservacion-del-ambiente,96,main
+2013-01-01,law,fe-de-erratas-2012-10-12-164-tercera-parte,codigo-territorial ley-para-la-proteccion-y-preservacion-del-ambiente,70,main
+2013-01-26,law,acuerdo-s-2013-01-25-15-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,15,main
+2013-03-06,law,decreto-2013-03-05-37-segunda-parte,codigo-civil codigo-penal ley-de-responsabilidad-patrimonial,170,main
+2013-05-11,start,ley-2013-03-12-41-cuarta-parte,ley-para-la-igualdad-entre-mujeres-y-hombres,48,main
+2013-05-15,law,decreto-2013-05-14-77-segunda-parte,ley-del-proceso-penal,3,main
+2013-05-18,law,decreto-2013-05-17-79-septima-parte,constitucion-politica codigo-civil codigo-de-procedimientos-civiles ley-organica-del-poder-judicial,28,main
+2013-05-18,law,decreto-2013-05-17-79-septima-parte-2,constitucion-politica codigo-de-procedimientos-civiles,8,main
+2013-05-18,law,decreto-2013-05-17-79-septima-parte-3,constitucion-politica,8,main
+2013-05-18,law,decreto-2013-05-17-79-septima-parte-4,constitucion-politica,5,main
+2013-05-22,law,decreto-2013-05-21-81-tercera-parte,codigo-civil ley-organica-del-poder-ejecutivo,28,main
+2013-06-08,law,decreto-2013-06-07-91-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social-y-humano ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-de-participacion-ciudadana ley-de-planeacion ley-de-profesiones ley-de-proteccion-civil ley-de-proyectos-de-prestacion-de-servicios ley-de-responsabilidad-patrimonial ley-de-salud ley-del-patrimonio-cultural ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-ganadera ley-para-el-ejercicio-y-control-de-los-recursos-publicos ley-para-la-administracion-y-disposicion-de-bienes-relaciona ley-para-la-gestion-integral-de-residuos ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena ley-para-la-proteccion-y-preservacion-del-ambiente ley-para-la-regularizacion-de-predios-rusticos-en-el-estado ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,463,main
+2013-06-08,law,decreto-2013-06-07-91-tercera-seccion,ley-de-aparceria-agricola-y-ganadera,4,main
+2013-06-12,law,decreto-2013-06-11-93-tercera-parte,codigo-penal,92,main
+2013-06-26,law,decreto-2013-06-25-101-segunda-parte,codigo-territorial,5,main
+2013-07-03,start,ley-2013-07-02-105-segunda-parte,ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es,52,main
+2013-10-23,law,decreto-2013-10-22-169-tercera-parte,codigo-territorial,7,main
+2013-11-09,law,decreto-2013-11-08-179-tercera-parte,constitucion-politica,2,main
+2013-11-13,law,decreto-2013-11-12-181-segunda-parte,codigo-penal ley-del-proceso-penal,14,main
+2013-11-18,start,ley-2013-11-15-183-quinta-parte,ley-para-el-desarrollo-y-competitividad-economica,54,main
+2013-12-04,law,decreto-2013-12-03-193-tercera-parte,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,13,main
+2013-12-28,law,decreto-2013-12-27-207-decimo-septima-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,33,main
+2014-01-01,start,ley-2013-11-15-183-quinta-parte,ley-de-cambio-climatico,107,main
+2014-01-01,start,ley-2013-11-08-179-tercera-parte,ley-de-los-derechos-de-las-personas-adultas-mayores,68,main
+2014-01-01,law,decreto-2012-12-21-204-cuarta-parte,ley-de-hacienda-para-los-municipios,21,main
+2014-01-01,law,decreto-2013-03-22-47,ley-de-hacienda-para-los-municipios,7,main
+2014-01-01,law,decreto-2013-06-07-91-tercera-parte,ley-de-hacienda-para-los-municipios,16,main
+2014-01-01,law,decreto-2013-08-23-135-cuarta-parte,ley-de-hacienda-para-los-municipios,2,main
+2014-01-24,law,fe-de-erratas-2014-01-24-14-tercera-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,3,main
+2014-02-04,law,decreto-2013-12-06-195-tercera-parte,constitucion-politica,5,main
+2014-02-04,law,decreto-2013-12-20-203-segunda-parte,constitucion-politica,2,main
+2014-03-01,start,ley-2014-02-28-34-quinta-parte,ley-para-prevenir-atender-y-erradicar-la-trata-de-personas-e,52,main
+2014-03-01,law,decreto-2014-02-28-34-quinta-parte,constitucion-politica,2,main
+2014-03-01,law,decreto-2014-02-28-34-quinta-parte-2,constitucion-politica,2,main
+2014-04-08,law,fe-de-erratas-2014-04-08-56-segunda-parte,ley-para-el-desarrollo-y-competitividad-economica,3,main
+2014-05-07,law,acuerdo-s-2014-05-06-72-tercera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,353,main
+2014-05-10,law,decreto-2014-05-09-74-tercera-parte,codigo-civil ley-del-trabajo-de-los-servidores-publicos-al-servicio,27,main
+2014-05-23,law,decreto-2014-05-23-82-tercera-parte,codigo-de-procedimiento-y-justicia-administrativa,2,main
+2014-05-24,law,decreto-2014-05-23-82-tercera-parte,codigo-penal,9,main
+2014-06-13,law,decreto-2014-06-10-92-segunda-parte,ley-de-salud,8,main
+2014-06-21,law,decreto-2014-06-20-98-tercera-parte,ley-de-premios-y-estimulos-al-merito-ciudadano,13,main
+2014-06-28,start,ley-2014-06-27-102-cuarta-parte,ley-de-instituciones-y-procedimientos-electorales,488,main
+2014-06-28,start,ley-2014-06-27-102-tercera-parte,ley-para-el-fomento-de-la-industria-cinematografica-y-audiov,32,main
+2014-06-28,start,ley-2014-06-27-102-tercera-parte,ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e,75,main
+2014-06-28,law,decreto-2014-06-27-102-tercera-parte,constitucion-politica,22,main
+2014-08-02,law,decreto-2014-08-01-122-segunda-parte,constitucion-politica,11,main
+2014-10-18,law,decreto-2014-10-17-166-tercera-parte,codigo-civil codigo-penal,72,main
+2014-10-18,law,decreto-2014-10-17-166-tercera-parte-2,codigo-civil,123,main
+2014-10-20,start,ley-2014-10-17-166-tercera-parte,ley-que-regula-las-bases-del-permiso-para-el-establecimiento,45,main
+2014-11-01,law,decreto-2014-10-31-174-cuarta-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-para-el-ejercicio-y-control-de-los-recursos-publicos,10,main
+2014-11-22,start,ley-2014-11-21-186-tercera-parte,ley-del-secreto-profesional-del-periodista,13,main
+2014-11-24,start,ley-2014-11-21-186-tercera-parte,ley-que-regula-a-los-agentes-inmobiliarios-en-el-estado-de-g,39,main
+2014-11-26,law,declaratoria-2014-11-25-188-tercera-parte,ley-del-proceso-penal,4,main
+2014-11-29,law,decreto-2014-11-28-190-cuarta-parte,ley-de-la-defensoria-publica-penal ley-del-proceso-penal,26,main
+2014-12-17,law,decreto-2014-12-16-200-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,21,main
+2014-12-17,law,decreto-2014-12-16-200-tercera-seccion,codigo-civil,6,main
+2014-12-17,law,decreto-2014-12-16-200-tercera-parte-2,ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,4,main
+2014-12-19,law,acuerdo-s-2014-12-16-200-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,16,main
+2014-12-30,law,acuerdo-s-2014-12-29-207-quinta-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,22,main
+2015-01-01,start,ley-2014-11-25-188-tercera-parte,ley-del-sistema-de-seguridad-publica,219,main
+2015-01-01,start,ley-2014-10-17-166-tercera-parte,ley-que-regula-los-establecimientos-dedicados-a-la-compraven,45,main
+2015-01-01,law,decreto-2014-12-16-200-tercera-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,44,main
+2015-01-17,law,acuerdo-s-2015-01-16-10-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,8,main
+2015-01-23,law,fe-de-erratas-2015-01-23-14-segunda-parte,ley-del-sistema-de-seguridad-publica,2,main
+2015-02-01,start,ley-2014-12-26-206-decima-quinta-parte,ley-de-contrataciones-publicas,171,main
+2015-03-14,law,decreto-2015-03-13-42-novena-parte,ley-de-premios-y-estimulos-al-merito-ciudadano ley-organica-del-poder-ejecutivo,16,main
+2015-04-22,law,decreto-2015-04-21-64-cuarta-parte,codigo-civil ley-que-regula-las-bases-del-permiso-para-el-establecimiento ley-que-regula-los-establecimientos-dedicados-a-la-compraven,18,main
+2015-05-13,law,decreto-2015-05-12-76-tercera-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,3,main
+2015-05-16,law,decreto-2015-05-15-78-tercera-parte,codigo-de-procedimiento-y-justicia-administrativa,26,main
+2015-07-08,law,decreto-2015-07-07-108-segunda-parte,ley-de-hacienda-para-los-municipios ley-del-proceso-penal ley-del-trabajo-de-los-servidores-publicos-al-servicio,11,main
+2015-08-01,law,decreto-2015-07-31-122-tercera-parte,constitucion-politica,3,main
+2015-08-12,law,acuerdo-s-2015-08-11-128-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,2,main
+2015-09-26,start,ley-2015-09-25-154-decima-tercera-parte,ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la,40,main
+2015-09-26,law,decreto-2015-09-25-154-decima-tercera-parte,ley-de-desarrollo-social-y-humano ley-de-hacienda-para-los-municipios,22,main
+2015-10-07,law,acuerdo-s-2015-10-06-160-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,82,main
+2015-11-14,law,decreto-2015-11-13-182-tercera-parte,constitucion-politica,2,main
+2015-11-21,law,decreto-2015-11-20-186-tercera-parte,constitucion-politica,2,main
+2015-11-21,law,decreto-2015-11-20-186-tercera-parte-2,constitucion-politica,2,main
+2015-12-02,law,decreto-2015-12-01-192-segunda-parte,constitucion-politica,3,main
+2015-12-12,law,decreto-2015-12-11-198-septima-parte,constitucion-politica,4,main
+2015-12-23,law,decreto-2015-12-22-204-segunda-parte,constitucion-politica,6,main
+2015-12-24,start,ley-2015-09-25-154-decima-tercera-parte,ley-de-fiscalizacion-superior,110,main
+2016-01-01,start,ley-2015-09-11-146-segunda-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,113,main
+2016-01-01,law,decreto-2015-09-11-146-segunda-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-de-procedimientos-civiles ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,64,main
+2016-01-01,law,decreto-2015-12-29-208-decima-quinta-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-instituciones-y-procedimientos-electorales ley-de-los-derechos-de-las-personas-adultas-mayores ley-de-profesiones ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-y-competitividad-economica ley-para-la-proteccion-y-preservacion-del-ambiente,65,main
+2016-01-01,law,fe-de-erratas-2015-09-25-154-decima-tercera-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-de-procedimientos-civiles ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,23,main
+2016-01-01,law,fe-de-erratas-2015-10-02-158-cuarta-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-de-procedimientos-civiles ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,404,main
+2016-01-01,law,decreto-2015-12-29-208-decima-quinta-parte,ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,18,main
+2016-01-29,law,fe-de-erratas-2016-01-29-17-segunda-parte,ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-organica-del-poder-ejecutivo ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,13,main
+2016-03-19,start,ley-2016-03-18-45-segunda-parte,ley-de-movilidad,296,main
+2016-03-19,law,decreto-2016-03-18-45-segunda-parte,ley-del-sistema-de-seguridad-publica,16,main
+2016-03-30,start,ley-2015-04-21-64-cuarta-parte,ley-para-la-proteccion-animal,78,main
+2016-04-12,law,fe-de-erratas-2016-04-12-59-segunda-parte,ley-de-movilidad ley-del-sistema-de-seguridad-publica,3,main
+2016-04-12,law,fe-de-erratas-2016-04-12-59-segunda-parte-2,ley-de-movilidad,5,main
+2016-04-23,law,decreto-2016-04-22-65-segunda-parte,codigo-civil,5,main
+2016-05-04,law,decreto-2016-05-03-71-segunda-parte,codigo-civil ley-ganadera,51,main
+2016-05-04,law,decreto-2016-05-03-71-segunda-parte-2,codigo-civil,10,main
+2016-05-14,start,ley-2016-05-13-77-tercera-parte,ley-de-transparencia-y-acceso-a-la-informacion-publica,221,main
+2016-05-21,law,decreto-2016-05-20-81-quinta-parte,constitucion-politica ley-del-proceso-penal,6,main
+2016-05-28,law,decreto-2016-05-27-85-quinta-parte,constitucion-politica,2,main
+2016-06-01,law,decreto-2014-11-28-190-cuarta-parte,codigo-penal ley-organica-del-poder-judicial ley-para-la-administracion-y-disposicion-de-bienes-relaciona,63,main
+2016-06-01,law,decreto-2014-12-16-200-tercera-seccion,codigo-penal,15,main
+2016-06-01,law,decreto-2015-09-11-146-segunda-parte,ley-organica-del-poder-judicial,5,main
+2016-06-01,law,decreto-2015-07-07-108-segunda-parte,codigo-penal,3,main
+2016-06-01,law,fe-de-erratas-2015-09-25-154-decima-tercera-parte,ley-organica-del-poder-judicial,2,main
+2016-06-01,law,decreto-2015-09-11-146-segunda-parte,codigo-penal,2,main
+2016-06-01,law,fe-de-erratas-2015-10-02-158-cuarta-parte,ley-organica-del-poder-judicial,3,main
+2016-06-01,law,decreto-2016-03-18-45-segunda-parte,codigo-penal,3,main
+2016-06-01,law,fe-de-erratas-2016-04-12-59-segunda-parte,codigo-penal,1,main
+2016-06-01,law,decreto-2016-05-20-81-quinta-parte,codigo-penal,5,main
+2016-06-01,law,decreto-2016-05-27-85-quinta-parte,codigo-penal,19,main
+2016-06-07,law,fe-de-erratas-2016-06-07-91-quinta-parte,ley-de-transparencia-y-acceso-a-la-informacion-publica,2,main
+2016-07-02,law,decreto-2016-07-01-105-segunda-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-de-procedimientos-civiles codigo-penal codigo-territorial ley-arancelaria-para-el-cobro-de-honorarios-profesionales-de ley-de-contrataciones-publicas ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales ley-de-fiscalizacion-superior ley-de-hacienda-para-los-municipios ley-de-instituciones-y-procedimientos-electorales ley-de-profesiones ley-de-propiedad-en-condominio-de-inmuebles ley-de-proteccion-civil ley-de-proyectos-de-prestacion-de-servicios ley-de-responsabilidad-patrimonial ley-de-salud ley-del-notariado ley-del-proceso-penal ley-del-sistema-de-seguridad-publica ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-organica-del-poder-judicial ley-para-la-proteccion-animal ley-para-la-proteccion-y-preservacion-del-ambiente ley-que-regula-a-los-agentes-inmobiliarios-en-el-estado-de-g ley-que-regula-las-bases-del-permiso-para-el-establecimiento ley-que-regula-los-establecimientos-dedicados-a-la-compraven,131,main
+2016-07-02,law,decreto-2016-07-01-105-segunda-parte-2,codigo-de-procedimientos-civiles,7,main
+2016-09-07,law,decreto-2016-09-06-143-quinta-parte,constitucion-politica,34,main
+2016-10-26,law,decreto-2016-10-25-171-segunda-parte,codigo-penal ley-de-salud,13,main
+2016-10-29,start,ley-2016-10-28-173-cuarta-parte,ley-de-deuda-publica,71,main
+2016-10-29,law,decreto-2016-10-28-173-cuarta-parte,ley-de-fiscalizacion-superior ley-de-proyectos-de-prestacion-de-servicios ley-organica-del-poder-ejecutivo,11,main
+2016-10-31,law,decreto-2016-10-28-173-cuarta-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,35,main
+2016-12-02,law,fe-de-erratas-2016-12-02-193-tercera-parte,ley-de-fiscalizacion-superior,2,main
+2016-12-28,law,decreto-2016-12-27-207-septima-parte,ley-de-instituciones-y-procedimientos-electorales ley-de-transparencia-y-acceso-a-la-informacion-publica ley-organica-de-la-universidad-de-guanajuato ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,65,main
+2017-01-01,start,ley-2016-11-29-191-tercera-parte,ley-para-regular-la-prestacion-de-servicios-de-atencion-cuid,79,main
+2017-01-28,law,acuerdo-s-2017-01-27-16-sexta-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,10,main
+2017-02-04,law,decreto-2017-02-03-20-tercera-parte,constitucion-politica,3,main
+2017-02-04,law,decreto-2017-02-03-20-tercera-parte-2,constitucion-politica,10,main
+2017-04-01,law,decreto-2017-03-31-52-cuarta-parte,ley-del-sistema-de-seguridad-publica,7,main
+2017-04-05,law,decreto-2017-04-04-54-cuarta-parte,constitucion-politica,3,main
+2017-04-29,law,decreto-2017-04-28-68-cuarta-parte,ley-de-instituciones-y-procedimientos-electorales ley-de-movilidad,11,main
+2017-05-13,law,decreto-2017-05-12-76-segunda-parte,ley-de-profesiones,5,main
+2017-05-17,start,ley-2017-05-16-78-segunda-parte,ley-del-sistema-estatal-anticorrupcion-de-guanajuato,71,main
+2017-05-17,law,decreto-2017-05-16-78-segunda-parte,ley-organica-del-poder-ejecutivo ley-organica-del-poder-judicial,13,main
+2017-05-20,law,decreto-2017-05-19-80-cuarta-parte,ley-de-profesiones,17,main
+2017-05-27,law,decreto-2017-05-26-84-tercera-parte,codigo-civil ley-de-instituciones-y-procedimientos-electorales,60,main
+2017-06-17,start,ley-2017-06-16-96-quinta-parte,ley-para-la-proteccion-y-atencion-de-las-personas-migrantes,32,main
+2017-06-17,law,decreto-2017-06-16-96-quinta-parte,ley-de-contrataciones-publicas,2,main
+2017-06-21,start,ley-2017-06-20-98-cuarta-seccion,ley-organica-del-tribunal-de-justicia-administrativa,75,main
+2017-07-15,start,ley-2017-07-14-112-segunda-parte,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,207,main
+2017-07-15,law,decreto-2017-07-14-112-segunda-parte,constitucion-politica codigo-de-procedimientos-civiles codigo-penal,233,main
+2017-07-15,law,decreto-2017-07-14-112-segunda-parte-2,codigo-penal,2,main
+2017-07-17,law,decreto-2017-07-14-112-segunda-parte-2,constitucion-politica,25,main
+2017-07-19,start,ley-2017-06-20-98-cuarta-parte,ley-de-responsabilidades-administrativas,232,main
+2017-09-06,law,fe-de-erratas-2017-09-06-149-segunda-parte,ley-de-responsabilidades-administrativas,2,main
+2017-10-06,law,fe-de-erratas-2017-10-06-171-segunda-paarte,constitucion-politica,4,main
+2017-10-20,law,decreto-2017-10-19-180-segunda-parte,codigo-penal ley-de-salud ley-del-trabajo-de-los-servidores-publicos-al-servicio,11,main
+2017-10-20,law,decreto-2017-10-19-180-segunda-parte-2,ley-de-salud,9,main
+2017-10-20,law,decreto-2017-10-19-180-segunda-parte-3,ley-de-salud,21,main
+2017-10-27,start,ley-2017-10-26-185-segunda-parte,ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu,40,main
+2017-10-27,law,decreto-2017-10-26-185-segunda-parte,codigo-penal ley-de-salud ley-del-secreto-profesional-del-periodista ley-para-la-proteccion-y-preservacion-del-ambiente,38,main
+2017-11-04,law,decreto-2017-11-03-191-cuarta-parte,ley-organica-del-poder-ejecutivo ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es,63,main
+2017-12-06,law,decreto-2017-12-05-213-segunda-parte,ley-de-proteccion-civil ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,150,main
+2017-12-08,law,decreto-2017-12-05-213-segunda-parte,ley-para-el-desarrollo-y-competitividad-economica,6,main
+2017-12-09,law,decreto-2017-12-08-216-segunda-parte,constitucion-politica,3,main
+2017-12-12,law,decreto-2017-12-11-217-segunda-parte,constitucion-politica,10,main
+2017-12-14,law,decreto-2017-12-13-219-segunda-parte,constitucion-politica,4,main
+2017-12-19,law,decreto-2017-12-18-222-octava-parte,ley-de-fiscalizacion-superior,18,main
+2017-12-21,law,decreto-2017-12-20-224-quinta-parte,constitucion-politica codigo-penal,7,main
+2018-01-01,start,ley-2017-11-03-191-cuarta-parte,ley-de-cultura-fisica-y-deporte,101,main
+2018-01-01,law,decreto-2017-12-05-213-segunda-parte,codigo-territorial,184,main
+2018-01-01,law,decreto-2017-12-05-213-segunda-parte-2,ley-de-proteccion-civil,4,main
+2018-01-01,law,decreto-2017-12-08-216-segunda-parte,ley-de-los-derechos-de-las-personas-adultas-mayores,5,main
+2018-03-17,law,decreto-2018-03-16-55-segunda-parte,ley-de-salud,4,main
+2018-04-10,law,acuerdo-s-2018-04-09-71-tercera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,121,main
+2018-04-17,law,decreto-2018-04-16-76-segunda-parte,ley-para-la-igualdad-entre-mujeres-y-hombres,6,main
+2018-04-19,start,ley-2017-12-20-224-quinta-parte,ley-de-seguridad-social,155,main
+2018-04-21,start,ley-2018-04-20-80-tercera-parte,ley-de-derechos-culturales,59,main
+2018-04-21,law,decreto-2018-04-20-80-tercera-parte,codigo-civil codigo-penal ley-organica-del-poder-judicial,29,main
+2018-04-27,law,decreto-2018-04-26-84-segunda-parte,constitucion-politica codigo-penal,9,main
+2018-05-15,law,decreto-2018-05-14-96-segunda-parte,ley-reglamentaria-de-la-fraccion-xv-del-articulo-88-de-la-co,4,main
+2018-05-30,law,decreto-2018-05-29-107-segunda-parte,codigo-penal ley-de-cultura-fisica-y-deporte,9,main
+2018-05-31,law,decreto-2018-05-30-108-segunda-parte,codigo-penal,4,main
+2018-06-08,law,decreto-2018-06-07-114-tercera-parte,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,8,main
+2018-06-19,start,ley-2018-04-20-80-cuarta-parte,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,150,main
+2018-06-19,law,fe-de-erratas-2018-05-04-90-segunda-parte,ley-de-obra-publica-y-servicios-relacionados-con-la-misma,2,main
+2018-07-06,law,decreto-2018-07-05-134-cuarta-parte,constitucion-politica codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-participacion-ciudadana ley-de-responsabilidad-patrimonial ley-del-sistema-de-seguridad-publica,361,main
+2018-07-06,law,decreto-2018-07-05-134-cuarta-parte-2,codigo-civil codigo-penal,8,main
+2018-07-21,law,decreto-2018-07-20-145-segunda-parte,ley-de-instituciones-y-procedimientos-electorales ley-de-transparencia-y-acceso-a-la-informacion-publica ley-organica-de-la-universidad-de-guanajuato ley-organica-del-tribunal-de-justicia-administrativa ley-para-el-ejercicio-y-control-de-los-recursos-publicos ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,13,main
+2018-07-21,law,decreto-2018-07-20-145-segunda-parte-2,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,19,main
+2018-09-19,law,decreto-2018-09-18-187-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-instituciones-y-procedimientos-electorales ley-organica-del-poder-ejecutivo ley-organica-del-tribunal-de-justicia-administrativa ley-para-la-gestion-integral-de-residuos,21,main
+2018-09-19,law,decreto-2018-09-18-187-tercera-parte-2,ley-de-instituciones-y-procedimientos-electorales,2,main
+2018-09-25,law,decreto-2018-09-24-191-cuarta-parte,codigo-penal ley-organica-del-poder-judicial,31,main
+2018-09-25,law,decreto-2018-09-24-191-quinta-parte,codigo-civil,22,main
+2018-09-25,law,decreto-2018-09-24-191-cuarta-parte-2,codigo-penal,27,main
+2018-09-26,law,decreto-2018-09-21-190-decima-tercera-parte,codigo-territorial ley-de-cambio-climatico ley-de-concesiones-de-servicios-e-infraestructura-publica ley-de-desarrollo-social-y-humano ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-planeacion ley-de-proteccion-civil ley-del-sistema-de-seguridad-publica ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-y-competitividad-economica ley-para-la-gestion-integral-de-residuos ley-para-la-proteccion-animal ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena ley-para-la-proteccion-y-atencion-de-las-personas-migrantes ley-para-la-proteccion-y-preservacion-del-ambiente ley-que-regula-los-establecimientos-dedicados-a-la-compraven,881,main
+2018-09-26,law,decreto-2018-09-24-191-cuarta-parte,ley-de-movilidad,4,main
+2018-10-04,law,fe-de-erratas-2018-10-04-199-segunda-parte,ley-organica-del-poder-ejecutivo,2,main
+2018-10-10,law,fe-de-erratas-2018-10-10-203-tercera-parte,ley-de-cambio-climatico ley-de-planeacion ley-de-proteccion-civil ley-para-la-gestion-integral-de-residuos ley-para-la-proteccion-animal ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena ley-para-la-proteccion-y-preservacion-del-ambiente ley-que-regula-los-establecimientos-dedicados-a-la-compraven,16,main
+2018-10-10,law,fe-de-erratas-2018-10-10-203-terecra-parte,codigo-territorial,2,main
+2018-11-15,law,decreto-2018-11-14-228-tercera-parte,ley-del-sistema-de-seguridad-publica,94,main
+2018-11-17,law,decreto-2018-11-14-228-tercera-parte,constitucion-politica,5,main
+2019-01-01,start,ley-2018-09-24-191-cuarta-parte,ley-de-mejora-regulatoria,24,main
+2019-02-18,start,ley-2019-02-15-34-tercera-parte,ley-organica-de-la-fiscalia-general,130,main
+2019-03-13,start,ley-2019-03-12-51-segunda-parte,ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen,65,main
+2019-03-13,law,decreto-2019-03-12-51-segunda-parte,ley-de-salud ley-organica-del-poder-ejecutivo,5,main
+2019-05-16,law,decreto-2019-05-15-97-segunda-parte,ley-de-movilidad ley-de-profesiones ley-para-la-proteccion-y-preservacion-del-ambiente,15,main
+2019-06-20,law,decreto-2019-06-19-122-tercera-parte,codigo-penal,6,main
+2019-07-02,law,decreto-2019-07-01-130-segunda-parte,codigo-civil,6,main
+2019-08-02,law,decreto-2019-08-01-153-tercera-parte,codigo-civil codigo-de-procedimientos-civiles codigo-territorial ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-de-los-derechos-de-las-personas-adultas-mayores ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-propiedad-en-condominio-de-inmuebles ley-de-representacion-gratuita-en-materia-civil-guanajuato ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est ley-para-regular-la-prestacion-de-servicios-de-atencion-cuid ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es ley-que-regula-las-bases-del-permiso-para-el-establecimiento ley-que-regula-los-establecimientos-dedicados-a-la-compraven,150,main
+2019-09-12,law,decreto-2019-09-11-182-tercera-parte,constitucion-politica,6,main
+2019-11-02,law,decreto-2019-11-01-219-segunda-parte,codigo-civil ley-del-sistema-estatal-anticorrupcion-de-guanajuato,7,main
+2019-11-02,law,decreto-2019-11-01-219-segunda-parte-2,codigo-civil,2,main
+2019-11-12,law,decreto-2019-11-11-225-segunda-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud,12,main
+2019-11-12,law,decreto-2019-11-11-225-segunda-parte-2,ley-de-salud,5,main
+2019-11-12,law,decreto-2019-11-11-225-segunda-parte-3,ley-de-salud,12,main
+2019-11-23,law,decreto-2019-11-22-234-tercera-parte,ley-de-hacienda-para-los-municipios,76,main
+2019-11-26,start,ley-2019-11-25-235-segunda-parte,ley-para-la-proteccion-a-las-abejas-y-el-desarrollo-apicola,69,main
+2019-11-26,law,decreto-2019-11-25-235-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-salud ley-ganadera,21,main
+2019-12-16,law,decreto-2019-06-19-122-tercera-parte-2,codigo-penal,5,main
+2019-12-16,law,decreto-2019-06-19-122-tercera-parte-3,codigo-penal,2,main
+2019-12-16,law,decreto-2019-08-01-153-tercera-parte,codigo-penal,21,main
+2019-12-16,law,decreto-2019-08-02-154-tercera-parte,codigo-penal,3,main
+2019-12-16,law,decreto-2019-08-02-154-tercera-parte-2,codigo-penal,2,main
+2019-12-31,law,decreto-2019-12-30-260-segunda-parte,codigo-penal,2,main
+2020-01-01,start,ley-2019-11-25-235-segunda-parte,ley-de-desarrollo-forestal-sustentable,40,main
+2020-01-02,start,ley-2019-12-30-260-octava-parte,ley-de-hacienda,122,main
+2020-02-22,law,acuerdo-s-2020-02-21-38-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,74,main
+2020-03-07,law,decreto-2020-03-06-48-segunda-parte,ley-organica-del-poder-ejecutivo,12,main
+2020-03-28,law,decreto-2020-03-27-63-tercera-parte,ley-para-la-proteccion-y-atencion-de-las-personas-migrantes,9,main
+2020-04-28,law,decreto-2020-04-27-84-segunda-parte,ley-organica-del-poder-ejecutivo ley-organica-del-poder-judicial,10,main
+2020-05-19,law,decreto-2020-05-18-99-segunda-parte,ley-organica-del-poder-judicial,3,main
+2020-05-21,law,decreto-2020-05-20-101-segunda-parte,ley-de-responsabilidad-patrimonial,4,main
+2020-05-28,start,ley-2020-05-27-106-segunda-parte,ley-de-victimas,173,main
+2020-05-28,law,decreto-2020-05-27-106-segunda-parte,ley-del-trabajo-de-los-servidores-publicos-al-servicio,3,main
+2020-05-29,law,decreto-2020-05-29-108-decima-septima-parte,ley-de-instituciones-y-procedimientos-electorales,97,main
+2020-06-04,start,ley-2020-06-03-111-segunda-parte,ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado,135,main
+2020-06-26,law,decreto-2020-06-25-127-segunda-parte,ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-de-salud,4,main
+2020-07-01,law,decreto-2020-06-30-130-segunda-parte,ley-de-salud ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,11,main
+2020-07-14,start,ley-2020-07-13-139-segunda-parte,ley-de-archivos,104,main
+2020-07-14,law,decreto-2020-07-13-139-segunda-parte,constitucion-politica codigo-penal ley-de-transparencia-y-acceso-a-la-informacion-publica ley-del-notariado,24,main
+2020-07-14,law,decreto-2020-07-13-139-segunda-parte-2,constitucion-politica codigo-penal,5,main
+2020-07-14,law,decreto-2020-07-13-139-segunda-parte-3,constitucion-politica,2,main
+2020-07-16,law,decreto-2020-07-13-139-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2020-07-23,start,ley-2020-07-22-146-segunda-parte,ley-de-educacion,285,main
+2020-07-23,law,decreto-2020-07-22-146-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-cultura-fisica-y-deporte ley-de-derechos-culturales ley-de-instituciones-y-procedimientos-electorales ley-de-movilidad ley-de-profesiones ley-organica-del-poder-ejecutivo ley-para-el-desarrollo-y-competitividad-economica ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen ley-para-la-proteccion-y-preservacion-del-ambiente ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es,65,main
+2020-07-25,law,decreto-2020-07-24-148-segunda-parte,constitucion-politica ley-de-movilidad,9,main
+2020-08-25,law,decreto-2020-08-24-169-segunda-parte,constitucion-politica,2,main
+2020-08-25,law,decreto-2020-08-24-169-segunda-parte-2,constitucion-politica,6,main
+2020-08-29,law,decreto-2020-08-26-171-tercera-parte,ley-de-movilidad,8,main
+2020-09-01,start,codigo-2019-12-30-260-novena-parte,codigo-fiscal,250,main
+2020-09-01,start,ley-2019-12-30-260-decima-parte,ley-de-bebidas-alcoholicas,50,main
+2020-09-01,start,ley-2019-12-30-260-novena-parte,ley-del-servicio-de-administracion-tributaria,37,main
+2020-09-01,law,decreto-2019-12-30-260-novena-parte,ley-que-regula-las-bases-del-permiso-para-el-establecimiento ley-que-regula-los-establecimientos-dedicados-a-la-compraven,7,main
+2020-09-08,law,decreto-2020-09-07-179-segunda-parte,constitucion-politica ley-de-mejora-regulatoria ley-organica-del-poder-ejecutivo,14,main
+2020-09-10,law,decreto-2020-09-07-179-segunda-parte-2,constitucion-politica,2,main
+2020-10-13,law,decreto-2020-10-12-204-septima-parte,ley-de-fiscalizacion-superior,8,main
+2020-10-22,start,ley-2020-10-21-211-segunda-parte,ley-para-las-juventudes,112,main
+2020-10-22,law,decreto-2020-10-21-211-segunda-parte,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,29,main
+2020-10-26,law,decreto-2020-04-29-86-segunda-parte,codigo-de-procedimiento-y-justicia-administrativa,26,main
+2020-10-29,law,decreto-2020-10-28-216-tercera-parte,ley-de-fiscalizacion-superior,5,main
+2020-11-04,law,decreto-2020-11-03-220-segunda-parte,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-responsabilidad-patrimonial ley-de-salud ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-organica-del-tribunal-de-justicia-administrativa,21,main
+2020-11-04,law,decreto-2020-11-03-220-segunda-parte-2,ley-de-salud,6,main
+2020-11-06,law,decreto-2020-11-05-222-segunda-parte,codigo-penal ley-de-cultura-fisica-y-deporte ley-del-sistema-de-seguridad-publica,7,main
+2020-11-06,law,decreto-2020-11-05-222-segunda-parte-2,codigo-penal,5,main
+2020-11-14,law,decreto-2020-11-13-228-segunda-parte,ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es,5,main
+2020-12-05,law,decreto-2020-12-04-243-segunda-parte,ley-de-movilidad,2,main
+2020-12-08,law,decreto-2020-12-07-244-segunda-parte,codigo-territorial,19,main
+2020-12-09,law,decreto-2020-12-08-245-segunda-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-sistema-de-seguridad-publica,9,main
+2020-12-10,start,ley-2020-12-09-246-segunda-parte,ley-de-hospedaje-a-traves-de-plataformas-digitales,38,main
+2020-12-23,start,ley-2020-12-22-255-segunda-parte,ley-de-declaracion-especial-de-ausencia,29,main
+2020-12-23,start,ley-2020-12-22-255-segunda-parte,ley-de-fomento-a-la-actividad-vitivinicola,28,main
+2020-12-23,start,ley-2020-12-22-255-segunda-parte,ley-organica-del-centro-de-conciliacion-laboral,37,main
+2020-12-23,law,decreto-2020-12-22-255-segunda-parte,codigo-penal ley-organica-del-poder-ejecutivo ley-organica-del-poder-judicial,14,main
+2020-12-23,law,decreto-2020-12-22-255-segunda-parte-2,codigo-penal,2,main
+2020-12-23,law,decreto-2020-12-22-255-segunda-parte-3,codigo-penal,4,main
+2020-12-25,law,decreto-2020-12-24-257-segunda-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,2,main
+2020-12-31,law,decreto-2020-12-30-261-vigesima-parte,ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,4,main
+2021-01-01,law,decreto-2020-12-24-257-segunda-parte,ley-de-hacienda,38,main
+2021-01-27,law,decreto-2021-01-26-18-segunda-parte,ley-para-el-ejercicio-y-control-de-los-recursos-publicos,48,main
+2021-02-09,law,decreto-2020-11-03-220-segunda-parte,ley-de-transparencia-y-acceso-a-la-informacion-publica,3,main
+2021-02-28,law,decreto-2020-12-30-261-vigesima-parte,ley-de-justicia-alternativa,20,main
+2021-03-23,law,decreto-2021-03-22-57-segunda-parte,ley-organica-del-poder-ejecutivo,4,main
+2021-04-14,law,decreto-2021-04-13-73-segunda-parte,ley-para-la-proteccion-y-atencion-de-las-personas-migrantes,11,main
+2021-04-24,start,ley-2021-04-23-81-segunda-parte,ley-de-justicia-civica,82,main
+2021-06-23,law,decreto-2021-06-22-123-segunda-parte,ley-para-la-proteccion-animal,12,main
+2021-07-09,law,decreto-2021-07-08-135-segunda-parte,ley-de-los-derechos-de-las-personas-adultas-mayores,2,main
+2021-07-20,law,decreto-2021-07-19-142-segunda-parte,codigo-civil ley-de-cultura-fisica-y-deporte ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud ley-del-patrimonio-cultural ley-para-la-proteccion-y-atencion-de-las-personas-migrantes,20,main
+2021-07-20,law,decreto-2021-07-19-142-segunda-parte-2,ley-de-salud,2,main
+2021-07-20,law,decreto-2021-07-19-142-segunda-parte-3,ley-de-salud,2,main
+2021-07-20,law,decreto-2021-07-19-142-segunda-parte-4,ley-de-salud,2,main
+2021-07-22,start,ley-2021-04-23-81-segunda-parte,ley-de-seguridad-privada,48,main
+2021-07-22,law,decreto-2021-04-23-81-segunda-parte,ley-del-sistema-de-seguridad-publica,16,main
+2021-07-22,law,decreto-2021-04-23-81-segunda-parte-2,ley-del-sistema-de-seguridad-publica,3,main
+2021-09-25,start,ley-2021-09-24-191-tercera-parte,ley-de-fomento-a-la-agricultura-familiar,25,main
+2021-09-25,start,decreto-2021-09-24-191-tercera-parte,ley-de-fomento-y-desarrollo-agricola,41,main
+2021-09-25,law,decreto-2021-09-24-191-tercera-parte,ley-de-bebidas-alcoholicas ley-de-educacion ley-de-hacienda-para-los-municipios ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-para-las-juventudes,33,main
+2021-10-01,law,acuerdo-s-2021-09-30-195-tercera-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,24,main
+2021-10-17,start,ley-2021-07-19-142-segunda-parte,ley-del-servicio-profesional-de-carrera-policial,68,main
+2021-10-17,law,decreto-2021-07-19-142-segunda-parte,ley-del-sistema-de-seguridad-publica,12,main
+2021-11-24,law,decreto-2021-11-23-233-segunda-parte,codigo-civil codigo-territorial ley-de-cambio-climatico ley-de-desarrollo-forestal-sustentable ley-de-educacion ley-de-propiedad-en-condominio-de-inmuebles ley-del-sistema-de-seguridad-publica ley-organica-del-poder-ejecutivo ley-para-la-proteccion-y-preservacion-del-ambiente,81,main
+2021-12-23,law,decreto-2021-12-22-254-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2022-01-01,law,decreto-2021-09-24-191-tercera-parte,codigo-de-procedimiento-y-justicia-administrativa,2,main
+2022-01-01,law,decreto-2021-12-31-261-segunda-parte,ley-de-hacienda ley-de-movilidad ley-del-servicio-de-administracion-tributaria ley-del-sistema-de-seguridad-publica,48,main
+2022-01-03,law,decreto-2021-12-31-261-segunda-parte,ley-organica-del-poder-ejecutivo,2,main
+2022-03-08,law,decreto-2022-03-07-46-segunda-parte,ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,3,main
+2022-04-01,law,decreto-2022-03-31-64-tercera-parte,codigo-civil,2,main
+2022-04-06,law,decreto-2022-04-05-67-segunda-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,7,main
+2022-04-08,law,decreto-2022-04-07-69-cuarta-parte,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,4,main
+2022-05-19,law,acuerdo-s-2022-05-18-98-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,3,main
+2022-05-28,law,decreto-2022-05-27-105-segunda-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-penal,15,main
+2022-06-04,law,decreto-2022-06-03-110-segunda-parte,ley-de-movilidad,31,main
+2022-06-09,law,decreto-2022-06-08-113-segunda-parte,ley-para-la-igualdad-entre-mujeres-y-hombres,3,main
+2022-06-15,law,decreto-2022-06-14-117-segunda-parte,codigo-penal ley-de-movilidad ley-del-sistema-de-seguridad-publica,8,main
+2022-07-22,law,decreto-2022-07-21-144-quinta-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-contrataciones-publicas ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-organica-de-la-fiscalia-general,54,main
+2022-10-01,law,decreto-2022-09-30-173-segunda-parte,constitucion-politica,3,main
+2022-10-29,law,decreto-2022-10-28-215-segunda-parte,codigo-civil codigo-penal ley-de-obra-publica-y-servicios-relacionados-con-la-misma ley-de-planeacion ley-de-transparencia-y-acceso-a-la-informacion-publica ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-organica-del-tribunal-de-justicia-administrativa ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es,20,main
+2022-11-29,start,ley-2022-11-28-236-segunda-parte,ley-para-fomentar-el-acceso-al-financiamiento-a-las-micros-p,24,main
+2022-12-01,law,decreto-2022-11-30-238-tercera-parte,codigo-civil ley-de-propiedad-en-condominio-de-inmuebles,4,main
+2022-12-09,start,ley-2022-12-08-244-tercera-parte,ley-del-patrimonio-inmobiliario,81,main
+2022-12-09,law,decreto-2022-12-08-244-tercera-parte,codigo-civil codigo-territorial ley-de-movilidad ley-organica-del-tribunal-de-justicia-administrativa,17,main
+2022-12-15,law,decreto-2022-12-14-248-tercera-parte,ley-de-educacion,4,main
+2022-12-21,law,decreto-2022-12-20-252-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2022-12-21,law,decreto-2022-12-20-252-segunda-parte-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2022-12-23,law,decreto-2022-12-22-254-segunda-parte,ley-de-archivos,22,main
+2022-12-31,start,ley-2022-12-30-260-quincuagesima-quinta-parte,ley-de-turismo,80,main
+2022-12-31,law,decreto-2022-12-30-260-quincuagesima-quinta-parte,codigo-fiscal ley-de-bebidas-alcoholicas ley-de-instituciones-y-procedimientos-electorales ley-del-notariado,40,main
+2023-03-10,law,decreto-2023-03-09-49-segunda-parte,ley-de-victimas,3,main
+2023-04-15,law,decreto-2023-04-14-75-segunda-parte,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,13,main
+2023-04-21,law,decreto-2023-04-20-79-tercera-parte,constitucion-politica codigo-penal ley-de-educacion,25,main
+2023-04-21,law,decreto-2023-04-20-79-tercera-parte-2,constitucion-politica,3,main
+2023-04-24,law,fe-de-erratas-2023-04-24-81-segunda-parte,codigo-penal,2,main
+2023-05-31,law,decreto-2023-05-30-107-tercera-parte,constitucion-politica,2,main
+2023-06-01,law,decreto-2022-11-30-238-tercera-parte,ley-de-hacienda,29,main
+2023-06-01,law,decreto-2023-05-31-108-tercera-parte,codigo-civil ley-de-instituciones-y-procedimientos-electorales ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-organica-del-poder-judicial,132,main
+2023-06-01,law,decreto-2022-12-30-260-cuadragesima-novena-parte,ley-de-hacienda,2,main
+2023-06-01,law,decreto-2022-12-30-260-quincuagesima-quinta-parte,ley-de-hacienda,6,main
+2023-06-01,law,decreto-2023-05-31-108-tercera-parte,ley-de-hacienda,19,main
+2023-06-03,law,decreto-2023-06-02-110-tercera-parte,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-responsabilidades-administrativas,9,main
+2023-06-03,law,decreto-2023-06-02-110-tercera-parte-2,constitucion-politica,2,main
+2023-06-03,law,decreto-2023-06-02-110-tercera-parte-3,constitucion-politica,6,main
+2023-06-03,law,decreto-2023-06-02-110-tercera-parte-4,constitucion-politica,2,main
+2023-06-20,law,fe-de-erratas-2023-06-20-122-segunda-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2023-07-05,law,decreto-2023-07-04-132-segunda-parte,ley-de-mejora-regulatoria ley-organica-del-poder-ejecutivo,16,main
+2023-07-12,law,decreto-2023-07-11-137-tercera-parte,codigo-civil ley-de-fomento-a-la-agricultura-familiar ley-de-fomento-y-desarrollo-agricola,38,main
+2023-07-13,law,acuerdo-s-2023-07-12-138-segunda-parte,codigo-reglamentario-de-desarrollo-urbano-para-el-municipio,3,main
+2023-08-11,law,decreto-2023-08-10-159-segunda-parte,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-de-seguridad-publica,15,main
+2023-08-22,law,decreto-2023-08-21-166-segunda-parte,constitucion-politica,5,main
+2023-10-25,law,decreto-2023-10-24-212-tercera-parte,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-justicia-civica ley-de-salud ley-de-victimas ley-del-servicio-profesional-de-carrera-policial ley-organica-del-centro-de-conciliacion-laboral ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e,40,main
+2023-10-25,law,decreto-2023-10-24-212-tercera-parte-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,8,main
+2023-10-25,law,decreto-2023-10-24-212-tercera-parte-3,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,2,main
+2023-10-25,law,decreto-2023-10-24-212-tercera-parte-4,ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,4,main
+2023-10-27,law,decreto-2023-10-24-212-tercera-parte,ley-para-una-convivencia-libre-de-violencia-en-el-entorno-es,2,main
+2023-11-16,law,decreto-2023-11-15-228-segunda-parte,codigo-penal ley-del-servicio-profesional-de-carrera-policial ley-organica-de-la-fiscalia-general,9,main
+2023-11-21,law,decreto-2023-11-20-231-segunda-parte,codigo-territorial ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-instituciones-y-procedimientos-electorales ley-de-responsabilidad-patrimonial ley-de-responsabilidades-administrativas ley-de-salud ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-victimas ley-del-trabajo-de-los-servidores-publicos-al-servicio ley-organica-del-poder-ejecutivo ley-organica-del-poder-judicial ley-organica-del-tribunal-de-justicia-administrativa ley-para-el-desarrollo-y-competitividad-economica ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado,93,main
+2023-11-25,start,ley-2023-11-24-235-cuarta-parte,ley-del-escudo-la-bandera-y-el-himno,34,main
+2023-12-14,law,decreto-2023-12-13-248-segunda-parte,codigo-de-procedimiento-y-justicia-administrativa ley-del-notariado ley-organica-del-tribunal-de-justicia-administrativa,73,main
+2023-12-19,law,decreto-2023-12-18-251-segunda-parte,codigo-penal,2,main
+2023-12-22,law,decreto-2023-12-21-254-segunda-parte,codigo-civil ley-de-seguridad-privada ley-del-sistema-de-seguridad-publica ley-para-la-proteccion-animal,14,main
+2023-12-27,law,decreto-2023-12-26-257-segunda-parte,ley-de-hacienda,4,main
+2023-12-31,law,decreto-2023-12-30-261-quincuagesima-novena-parte,codigo-fiscal ley-del-servicio-de-administracion-tributaria,10,main
+2024-01-05,start,ley-2024-01-04-4-segunda-parte,ley-de-asistencia-social-y-fortalecimiento-familiar,71,main
+2024-01-05,law,decreto-2024-01-04-4-segunda-parte,ley-organica-del-poder-ejecutivo ley-para-la-gestion-integral-de-residuos,5,main
+2024-01-09,law,decreto-2024-01-08-6-tercera-parte,ley-de-fiscalizacion-superior,67,main
+2024-03-01,law,decreto-2024-02-29-44-segunda-parte,ley-de-responsabilidades-administrativas ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e,12,main
+2024-03-12,law,fe-de-erratas-2024-03-12-52-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2024-04-23,law,fe-de-erratas-2024-04-23-82-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen ley-para-las-juventudes ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,12,main
+2024-06-08,start,ley-2024-06-07-115-tercera-parte,ley-para-las-personas-de-la-diversidad-sexual-y-de-genero,36,main
+2024-06-08,law,decreto-2024-06-07-115-tercera-parte,codigo-penal codigo-territorial ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad ley-de-salud ley-del-sistema-de-seguridad-publica ley-para-el-desarrollo-y-competitividad-economica ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado,324,main
+2024-06-08,law,decreto-2024-06-07-115-tercera-parte-2,codigo-penal codigo-territorial,5,main
+2024-06-08,law,decreto-2024-06-07-115-tercera-parte-3,codigo-territorial,2,main
+2024-06-10,law,decreto-2024-06-07-115-tercera-parte,ley-de-educacion,3,main
+2024-06-10,law,decreto-2024-06-07-115-tercera-parte-2,ley-para-el-desarrollo-y-competitividad-economica,3,main
+2024-06-20,law,fe-de-erratas-2024-06-20-124-segunda-parte,ley-del-sistema-de-seguridad-publica,2,main
+2024-06-28,law,fe-de-erratas-2024-06-28-130-tercera-parte,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,9,main
+2024-07-05,law,fe-de-erratas-2024-07-05-135-segunda-parte,ley-de-movilidad,1,main
+2024-07-09,law,decreto-2024-07-08-136-segunda-parte,ley-de-fomento-y-desarrollo-agricola ley-para-la-proteccion-y-atencion-de-las-personas-migrantes,53,main
+2024-07-12,law,decreto-2024-07-11-139-tercera-parte,constitucion-politica,2,main
+2024-07-20,start,ley-2024-07-19-145-tercera-parte,ley-de-educacion-superior,108,main
+2024-07-20,law,decreto-2024-07-19-145-tercera-parte,ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado,2,main
+2024-07-30,law,decreto-2024-07-29-151-segunda-parte,constitucion-politica,2,main
+2024-08-03,law,decreto-2024-08-02-155-segunda-parte,ley-para-la-proteccion-animal,16,main
+2024-09-18,start,ley-2024-09-17-187-sexta-parte,ley-de-economia-circular,54,main
+2024-09-18,start,ley-2024-09-17-187-quinta-parte,ley-para-el-gobierno-y-administracion-de-los-municipios,397,main
+2024-09-18,law,decreto-2024-09-17-187-sexta-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-para-la-proteccion-y-preservacion-del-ambiente,4,main
+2024-09-26,law,decreto-2024-09-17-187-sexta-parte,codigo-territorial ley-de-derechos-culturales ley-organica-del-poder-ejecutivo ley-para-fomentar-el-acceso-al-financiamiento-a-las-micros-p,194,main
+2024-09-26,law,decreto-2024-09-25-193-octava-parte,ley-de-cultura-fisica-y-deporte ley-de-educacion,11,main
+2024-12-04,law,decreto-2024-12-03-242-tercera-parte,constitucion-politica,2,main
+2024-12-27,law,decreto-2024-12-27-260-octava-parte,constitucion-politica ley-organica-de-la-fiscalia-general,5,main
+2024-12-28,law,decreto-2024-12-27-260-octava-parte,codigo-civil ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-para-el-ejercicio-y-control-de-los-recursos-publicos ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu,42,main
+2025-01-01,law,decreto-2024-12-27-260-octava-parte,ley-de-hacienda,32,main
+2025-01-15,law,decreto-2025-01-14-10-segunda-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-de-seguridad-publica,7,main
+2025-03-15,law,decreto-2025-03-14-53-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-de-seguridad-publica ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e,12,main
+2025-03-15,law,decreto-2025-03-14-53-tercera-parte-2,ley-del-sistema-de-seguridad-publica,3,main
+2025-03-21,law,decreto-2025-03-20-57-tercera-parte,ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es,9,main
+2025-04-10,law,decreto-2025-04-09-71-tercera-parte,ley-de-fomento-y-desarrollo-agricola,2,main
+2025-04-29,law,decreto-2025-04-28-84-tercera-parte,ley-organica-del-poder-judicial,4,main
+2025-05-20,law,decreto-2025-05-19-99-tercera-parte,constitucion-politica,3,main
+2025-06-21,start,ley-2025-06-20-123-segunda-parte,ley-organica-del-poder-legislativo,312,main
+2025-06-25,law,fe-de-erratas-2025-06-25-126-segunda-parte,ley-organica-del-poder-legislativo,2,main
+2025-06-26,law,decreto-2025-06-25-126-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social-y-fortalecimiento-familiar ley-de-los-derechos-de-las-personas-adultas-mayores ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad ley-de-victimas ley-organica-del-poder-ejecutivo ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena ley-para-la-proteccion-y-atencion-de-las-personas-migrantes ley-para-las-personas-de-la-diversidad-sexual-y-de-genero ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-est,157,main
+2025-06-27,law,decreto-2025-06-26-127-segunda-parte,codigo-penal ley-de-desarrollo-social-y-humano ley-de-educacion ley-para-la-gestion-integral-de-residuos,54,main
+2025-07-29,law,decreto-2025-07-28-149-tercera-parte,codigo-fiscal ley-de-bebidas-alcoholicas ley-de-los-derechos-de-las-personas-adultas-mayores ley-de-movilidad ley-de-salud ley-para-la-proteccion-y-atencion-de-las-personas-migrantes ley-para-las-juventudes,64,main
+2025-08-16,law,decreto-2025-08-15-163-segunda-parte,constitucion-politica,6,main
+2025-10-09,law,decreto-2025-10-09-202-segunda-parte,ley-organica-del-poder-legislativo,4,main
+2025-10-15,law,decreto-2025-10-14-205-cuarta-parte,ley-para-el-desarrollo-y-competitividad-economica ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu,20,main
+2025-10-31,law,decreto-2025-10-30-217-tercera-parte,ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-fomento-y-desarrollo-agricola ley-de-inclusion-para-las-personas-con-discapacidad-en-el-es ley-para-la-proteccion-de-los-pueblos-y-comunidades-indigena,56,main
+2025-10-31,law,decreto-2025-10-30-217-tercera-parte-2,ley-de-educacion,11,main
+2025-10-31,law,decreto-2025-10-30-217-tercera-parte-3,ley-de-educacion,2,main
+2025-11-04,law,decreto-2025-11-03-219-tercera-parte,codigo-civil codigo-de-procedimiento-y-justicia-administrativa codigo-penal,14,main
+2025-11-05,law,fe-de-erratas-2025-11-05-221-segunda-parte,codigo-de-procedimiento-y-justicia-administrativa,1,main
+2025-11-14,law,decreto-2025-11-13-227-tercera-parte,ley-de-desarrollo-social-y-humano ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la ley-de-hacienda ley-para-el-gobierno-y-administracion-de-los-municipios,23,main
+2025-11-14,law,decreto-2025-11-13-227-tercera-parte-2,ley-para-el-gobierno-y-administracion-de-los-municipios,3,main
+2025-11-14,law,decreto-2025-11-13-227-tercera-parte-3,ley-para-el-gobierno-y-administracion-de-los-municipios,4,main
+2025-11-21,law,decreto-2025-11-20-232-quinta-parte,ley-de-salud,5,main
+2025-12-04,law,decreto-2025-12-03-241-cuarta-parte,ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-e,3,main
+2025-12-12,law,decreto-2025-12-11-247-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-responsabilidades-administrativas ley-para-el-desarrollo-y-competitividad-economica,20,main
+2025-12-19,law,decreto-2025-12-18-252-tercera-parte,codigo-civil codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,15,main
+2025-12-19,law,decreto-2025-12-18-252-tercera-parte-2,codigo-civil,29,main
+2026-01-01,start,ley-2025-12-30-260-quincuagesima-parte,ley-de-ingresos,56,main
+2026-01-01,law,decreto-2025-12-03-241-segunda-parte,ley-de-movilidad,2,main
+2026-01-01,law,decreto-2025-12-31-261-vigesima-parte,codigo-fiscal codigo-penal ley-de-bebidas-alcoholicas ley-de-hacienda,124,main
+2026-01-01,law,decreto-2025-12-05-243-tercera-parte,ley-de-movilidad,5,main
+2026-01-03,start,ley-2025-12-31-261-vigesima-parte,ley-de-coordinacion-fiscal,59,main
+2026-03-19,law,decreto-2026-03-18-55-tercera-parte,codigo-penal codigo-territorial,21,main
+2026-04-09,law,decreto-2026-04-08-70-tercera-parte,codigo-penal ley-de-transparencia-y-acceso-a-la-informacion-publica ley-organica-del-poder-ejecutivo,8,main
+2026-04-11,law,decreto-2026-04-10-72-tercera-parte,codigo-penal ley-de-salud,4,main
+2026-04-18,law,decreto-2026-04-17-77-segunda-parte,ley-organica-del-poder-legislativo,3,main
+2026-04-22,law,decreto-2026-04-21-79-tercera-parte,codigo-penal ley-de-cambio-climatico ley-de-desarrollo-forestal-sustentable ley-de-victimas ley-organica-de-la-fiscalia-general ley-para-el-ejercicio-y-control-de-los-recursos-publicos ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado,68,main
+2026-05-15,law,decreto-2026-05-14-96-tercera-parte,codigo-penal ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-premios-y-estimulos-al-merito-ciudadano,29,main
+2026-05-28,law,decreto-2026-05-27-105-tercera-parte,codigo-territorial ley-para-el-ejercicio-y-control-de-los-recursos-publicos,5,main
+2026-05-29,law,decreto-2026-05-28-106-tercera-parte,ley-de-movilidad,5,main
+2026-05-30,law,decreto-2026-05-29-107-tercera-parte,ley-de-instituciones-y-procedimientos-electorales ley-organica-del-poder-legislativo ley-para-el-gobierno-y-administracion-de-los-municipios,173,main
+2026-06-30,law,decreto-2026-06-29-128-tercera-parte,ley-de-responsabilidades-administrativas ley-del-trabajo-de-los-servidores-publicos-al-servicio,19,main
+2026-07-04,law,decreto-2026-07-03-132-tercera-parte,codigo-de-procedimientos-civiles,2,main
+2026-07-09,law,decreto-2026-07-08-135-tercera-parte,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-hacienda-para-los-municipios ley-del-sistema-de-seguridad-publica,16,main
+2026-09-01,law,decreto-2025-08-15-163-segunda-parte-2,constitucion-politica,23,main
+2026-09-01,law,decreto-2025-08-15-163-segunda-parte-3,constitucion-politica,3,main
+2026-09-01,law,decreto-2025-11-24-234-tercera-parte,constitucion-politica,3,main
+2026-09-01,law,decreto-2025-11-24-234-tercera-parte-2,constitucion-politica,6,main
+2026-09-01,law,decreto-2025-12-11-247-tercera-parte,constitucion-politica,2,main
+2026-09-01,law,decreto-2026-02-16-33-tercera-parte,constitucion-politica,2,main
+2026-09-01,law,decreto-2026-05-27-105-tercera-parte,constitucion-politica,11,main
+2026-09-01,law,decreto-2026-08-04-154-segunda-parte,constitucion-politica,3,main
+2026-10-16,law,decreto-2026-10-15-206-tercera-parte,ley-de-fomento-a-la-agricultura-familiar ley-de-salud,10,main

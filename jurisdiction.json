@@ -1,0 +1,11 @@
+{
+  "path": "mx-gua",
+  "code": "MX-GUA",
+  "name": "Guanajuato",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-guanajuato-law",
+  "build": "built: constitution, codes and laws (116 ordenamientos, 1143 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
